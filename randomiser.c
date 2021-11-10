@@ -86,7 +86,6 @@ char *is_monsno(char *line)
 				while(tab[j])
 					j++;
 				tmp = convertToLine(j, tab);
-				tmp = ft_strjoin("\t\t ", tmp);
 				return (tmp);
 			}
 		}

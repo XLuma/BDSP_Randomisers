@@ -27,10 +27,10 @@ Pikachu
 Raichu
 Sandshrew
 Sandslash
-NidoranŠ
+NidoranF
 Nidorina
 Nidoqueen
-Nidoran‰
+NidoranM
 Nidorino
 Nidoking
 Clefairy
@@ -120,7 +120,7 @@ Goldeen
 Seaking
 Staryu
 Starmie
-Mr. Mime
+MrMime
 Scyther
 Jynx
 Electabuzz

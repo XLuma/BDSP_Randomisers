@@ -25,11 +25,6 @@ char	*strip_nl(char *line)
 	return (line);
 }
 
-int r() { 
-  int s = (214013*s+2531011); 
-  return (s>>16)&0x7FFF; 
-} 
-
 int	pick_mon()
 {
 	int min = 1;
@@ -139,9 +134,7 @@ int main(int argc, char* argv[])
 	A function that takes two parameters: A line (that contains monsNo), and the new pokemon number.
 	We: Split the line in sections, and verify if the last entry is a 0. If it is, we cancel and continue on the next line.
 	If it is NOT a 0, we do line[i] = ft_itoa(number) which will change the number to a new one
-	And then we join the string together by using spaces all okay. I need to make sure we dont cut the tabs or whatever.
-
-	we kn
+	And then we join the string together and write to a new file.
 	*/
 
 	printf("We're in boys\n");

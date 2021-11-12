@@ -143,7 +143,7 @@ int main(int argc, char* argv[])
 	char *temp;
     while (encount_tables[i])
 	{
-		if (ft_strnstr(encount_tables[i], "monsNo", ft_strlen(encount_tables[i])) != NULL)
+		if (ft_strnstr(encount_tables[i], "monsNo", ft_strlen(encount_tables[i])) != NULL) //add one for MonsNo if necessary
 			temp = is_monsno(encount_tables[i]);
 		else
 			temp = ft_strdup(encount_tables[i]);

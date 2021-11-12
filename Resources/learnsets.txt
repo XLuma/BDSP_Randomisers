@@ -4505,2154 +4505,1866 @@ Healing Wish @ 80
 Leaf Storm @ 90
 Perish Song @ 100
 end
-Treecko - 40/45/35/65/55/70 Grass/Grass
-Evolution(s): 4,0,253,0,16
-Egg Moves: Absorb, Slash, Night Slash, Double Kick, Dragon Breath, Leech Seed, Worry Seed, Synthesis, Crunch, Endeavor, Crush Claw, Magical Leaf, Leaf Storm, Grassy Terrain
-TM Moves: TM01 Focus Punch, TM09 Bullet Seed, TM10 Work Up, TM11 Sunny Day, TM17 Protect, TM19 Giga Drain, TM20 Safeguard, TM22 Solar Beam, TM23 Iron Tail, TM28 Dig, TM31 Brick Break, TM32 Double Team, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM53 Energy Ball, TM56 Fling, TM58 Endure, TM60 Drain Punch, TM70 Flash, TM75 Swords Dance, TM80 Rock Slide, TM82 Sleep Talk, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM93 Cut, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Pound @ 1
-	Leer @ 1
-	Leafage @ 3
-	Quick Attack @ 6
-	Mega Drain @ 9
-	Detect @ 12
-	Quick Guard @ 15
-	Assurance @ 18
-	Giga Drain @ 21
-	Slam @ 24
-	Double Team @ 27
-	Energy Ball @ 30
-	Screech @ 33
-	Endeavor @ 36
-	Leaf Storm @ 39
-
-Grovyle - 50/65/45/85/65/95 Grass/Grass
-Evolution(s): 4,0,254,0,36
-TM Moves: TM01 Focus Punch, TM09 Bullet Seed, TM10 Work Up, TM11 Sunny Day, TM17 Protect, TM19 Giga Drain, TM20 Safeguard, TM22 Solar Beam, TM23 Iron Tail, TM27 Low Sweep, TM28 Dig, TM31 Brick Break, TM32 Double Team, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM53 Energy Ball, TM54 False Swipe, TM56 Fling, TM58 Endure, TM60 Drain Punch, TM70 Flash, TM75 Swords Dance, TM80 Rock Slide, TM81 X-Scissor, TM82 Sleep Talk, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM93 Cut, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Fury Cutter @ 1
-	False Swipe @ 1
-	X-Scissor @ 1
-	Energy Ball @ 1
-	Pound @ 1
-	Leer @ 1
-	Leafage @ 1
-	Quick Attack @ 1
-	Mega Drain @ 9
-	Detect @ 12
-	Quick Guard @ 15
-	Assurance @ 20
-	Giga Drain @ 25
-	Slam @ 30
-	Double Team @ 35
-	Leaf Blade @ 40
-	Screech @ 45
-	Endeavor @ 50
-	Leaf Storm @ 55
-
-Sceptile - 70/85/65/105/85/120 Grass/Grass
-Special Tutor Moves: Frenzy Plant
-TM Moves: TM01 Focus Punch, TM02 Dragon Claw, TM05 Roar, TM09 Bullet Seed, TM10 Work Up, TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM19 Giga Drain, TM20 Safeguard, TM22 Solar Beam, TM23 Iron Tail, TM26 Earthquake, TM27 Low Sweep, TM28 Dig, TM31 Brick Break, TM32 Double Team, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM52 Focus Blast, TM53 Energy Ball, TM54 False Swipe, TM56 Fling, TM58 Endure, TM59 Dragon Pulse, TM60 Drain Punch, TM68 Giga Impact, TM70 Flash, TM75 Swords Dance, TM80 Rock Slide, TM81 X-Scissor, TM82 Sleep Talk, TM83 Bulldoze, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM93 Cut, TM96 Strength, TM98 Rock Smash, TM100 Rock Climb
-Learned Moves:
-	Dual Chop @ 0
-	Dual Chop @ 1
-	Fury Cutter @ 1
-	False Swipe @ 1
-	X-Scissor @ 1
-	Energy Ball @ 1
-	Pound @ 1
-	Leer @ 1
-	Leafage @ 1
-	Quick Attack @ 1
-	Mega Drain @ 5
-	Detect @ 12
-	Quick Guard @ 15
-	Assurance @ 20
-	Giga Drain @ 25
-	Slam @ 30
-	Double Team @ 35
-	Leaf Blade @ 42
-	Screech @ 49
-	Endeavor @ 56
-	Leaf Storm @ 63
-
-Torchic - 45/60/40/70/50/45 Fire/Fire
-Evolution(s): 4,0,256,0,16
-Egg Moves: Peck, Crush Claw, Curse, Counter, Feint, Last Resort, Night Slash, Reversal, Baton Pass, Agility, Feather Dance, Low Kick
-TM Moves: TM10 Work Up, TM11 Sunny Day, TM17 Protect, TM28 Dig, TM32 Double Team, TM35 Flamethrower, TM38 Fire Blast, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM50 Overheat, TM58 Endure, TM61 Will-O-Wisp, TM65 Shadow Claw, TM75 Swords Dance, TM80 Rock Slide, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute, TM93 Cut, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Scratch @ 1
-	Growl @ 1
-	Ember @ 3
-	Quick Attack @ 6
-	Flame Charge @ 9
-	Detect @ 12
-	Sand Attack @ 15
-	Aerial Ace @ 18
-	Slash @ 21
-	Bounce @ 24
-	Focus Energy @ 27
-	Flamethrower @ 30
-	Feather Dance @ 33
-	Reversal @ 36
-	Flare Blitz @ 39
-
-Combusken - 60/85/60/85/60/55 Fire/Fighting
-Evolution(s): 4,0,257,0,36
-TM Moves: TM01 Focus Punch, TM08 Bulk Up, TM10 Work Up, TM11 Sunny Day, TM17 Protect, TM27 Low Sweep, TM28 Dig, TM31 Brick Break, TM32 Double Team, TM35 Flamethrower, TM38 Fire Blast, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM50 Overheat, TM52 Focus Blast, TM56 Fling, TM58 Endure, TM61 Will-O-Wisp, TM65 Shadow Claw, TM75 Swords Dance, TM80 Rock Slide, TM82 Sleep Talk, TM84 Poison Jab, TM87 Swagger, TM90 Substitute, TM93 Cut, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Double Kick @ 0
-	Double Kick @ 1
-	Flamethrower @ 1
-	Feather Dance @ 1
-	Scratch @ 1
-	Growl @ 1
-	Ember @ 1
-	Quick Attack @ 1
-	Flame Charge @ 9
-	Detect @ 12
-	Sand Attack @ 15
-	Aerial Ace @ 20
-	Slash @ 25
-	Bounce @ 30
-	Focus Energy @ 35
-	Blaze Kick @ 40
-	Bulk Up @ 45
-	Reversal @ 50
-	Flare Blitz @ 55
-
-Blaziken - 80/120/70/110/70/80 Fire/Fighting
-Special Tutor Moves: Blast Burn
-TM Moves: TM01 Focus Punch, TM05 Roar, TM08 Bulk Up, TM10 Work Up, TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM22 Solar Beam, TM26 Earthquake, TM27 Low Sweep, TM28 Dig, TM31 Brick Break, TM32 Double Team, TM35 Flamethrower, TM38 Fire Blast, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM50 Overheat, TM52 Focus Blast, TM56 Fling, TM58 Endure, TM61 Will-O-Wisp, TM65 Shadow Claw, TM68 Giga Impact, TM71 Stone Edge, TM75 Swords Dance, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM84 Poison Jab, TM87 Swagger, TM89 U-turn, TM90 Substitute, TM93 Cut, TM96 Strength, TM98 Rock Smash, TM100 Rock Climb
-Learned Moves:
-	Close Combat @ 1
-	Double Kick @ 1
-	Fire Punch @ 1
-	Brave Bird @ 1
-	Flamethrower @ 1
-	Feather Dance @ 1
-	Scratch @ 1
-	Growl @ 1
-	Ember @ 1
-	Quick Attack @ 1
-	Flame Charge @ 9
-	Detect @ 12
-	Sand Attack @ 15
-	Aerial Ace @ 20
-	Slash @ 25
-	Bounce @ 30
-	Focus Energy @ 35
-	Blaze Kick @ 42
-	Bulk Up @ 49
-	Reversal @ 56
-	Flare Blitz @ 63
-
-Mudkip - 50/70/50/50/50/40 Water/Water
-Evolution(s): 4,0,259,0,16
-Egg Moves: Mud-Slap, Bite, Ancient Power, Counter, Curse, Double-Edge, Mirror Coat, Sludge, Stomp, Wide Guard, Yawn, Uproar, Whirlpool
-TM Moves: TM03 Water Pulse, TM07 Hail, TM10 Work Up, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM28 Dig, TM32 Double Team, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM49 Scald, TM58 Endure, TM72 Avalanche, TM80 Rock Slide, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute, TM95 Surf, TM96 Strength, TM98 Rock Smash, TM99 Waterfall
-Learned Moves:
-	Tackle @ 1
-	Growl @ 1
-	Water Gun @ 3
-	Rock Smash @ 6
-	Rock Throw @ 9
-	Protect @ 12
-	Supersonic @ 15
-	Water Pulse @ 18
-	Rock Slide @ 21
-	Take Down @ 24
-	Amnesia @ 27
-	Surf @ 30
-	Screech @ 33
-	Endeavor @ 36
-	Hydro Pump @ 39
-
-Marshtomp - 70/85/70/60/70/50 Water/Ground
-Evolution(s): 4,0,260,0,36
-TM Moves: TM03 Water Pulse, TM07 Hail, TM10 Work Up, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM26 Earthquake, TM28 Dig, TM31 Brick Break, TM32 Double Team, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM49 Scald, TM56 Fling, TM58 Endure, TM72 Avalanche, TM76 Stealth Rock, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM95 Surf, TM96 Strength, TM98 Rock Smash, TM99 Waterfall
-Learned Moves:
-	Mud Shot @ 0
-	Mud Shot @ 1
-	Earthquake @ 1
-	Surf @ 1
-	Tackle @ 1
-	Growl @ 1
-	Water Gun @ 1
-	Rock Smash @ 1
-	Rock Throw @ 9
-	Protect @ 12
-	Supersonic @ 15
-	Water Pulse @ 20
-	Rock Slide @ 25
-	Take Down @ 30
-	Amnesia @ 35
-	Muddy Water @ 40
-	Screech @ 45
-	Endeavor @ 50
-	Hydro Pump @ 55
-
-Swampert - 100/110/90/85/90/60 Water/Ground
-Special Tutor Moves: Hydro Cannon
-TM Moves: TM01 Focus Punch, TM03 Water Pulse, TM05 Roar, TM07 Hail, TM08 Bulk Up, TM10 Work Up, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM26 Earthquake, TM28 Dig, TM31 Brick Break, TM32 Double Team, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM49 Scald, TM52 Focus Blast, TM56 Fling, TM58 Endure, TM68 Giga Impact, TM71 Stone Edge, TM72 Avalanche, TM76 Stealth Rock, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM95 Surf, TM96 Strength, TM98 Rock Smash, TM99 Waterfall, TM100 Rock Climb
-Learned Moves:
-	Mud Shot @ 1
-	Hammer Arm @ 1
-	Earthquake @ 1
-	Surf @ 1
-	Tackle @ 1
-	Growl @ 1
-	Water Gun @ 1
-	Rock Smash @ 1
-	Rock Throw @ 9
-	Protect @ 12
-	Supersonic @ 15
-	Water Pulse @ 20
-	Rock Slide @ 25
-	Take Down @ 30
-	Amnesia @ 35
-	Muddy Water @ 42
-	Screech @ 49
-	Endeavor @ 56
-	Hydro Pump @ 63
-
-Poochyena - 35/55/35/30/30/35 Dark/Dark
-Evolution(s): 4,0,262,0,18
-Egg Moves: Astonish, Poison Fang, Covet, Leer, Yawn, Sucker Punch, Ice Fang, Fire Fang, Thunder Fang, Play Rough
-TM Moves: TM05 Roar, TM11 Sunny Day, TM12 Taunt, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM28 Dig, TM30 Shadow Ball, TM32 Double Team, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM58 Endure, TM63 Nasty Plot, TM66 Payback, TM78 Snarl, TM79 Dark Pulse, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute, TM98 Rock Smash
-Learned Moves:
-	Tackle @ 1
-	Howl @ 4
-	Sand Attack @ 7
-	Bite @ 10
-	Mud-Slap @ 13
-	Roar @ 16
-	Swagger @ 19
-	Assurance @ 22
-	Scary Face @ 25
-	Headbutt @ 28
-	Taunt @ 31
-	Crunch @ 34
-	Yawn @ 37
-	Take Down @ 40
-	Sucker Punch @ 43
-	Play Rough @ 46
-
-Mightyena - 70/90/70/60/60/70 Dark/Dark
-TM Moves: TM05 Roar, TM11 Sunny Day, TM12 Taunt, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM28 Dig, TM30 Shadow Ball, TM32 Double Team, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM58 Endure, TM63 Nasty Plot, TM66 Payback, TM68 Giga Impact, TM78 Snarl, TM79 Dark Pulse, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Snarl @ 0
-	Snarl @ 1
-	Fire Fang @ 1
-	Thunder Fang @ 1
-	Ice Fang @ 1
-	Crunch @ 1
-	Thief @ 1
-	Tackle @ 1
-	Howl @ 1
-	Sand Attack @ 1
-	Bite @ 1
-	Howl @ 4
-	Sand Attack @ 7
-	Bite @ 10
-	Mud-Slap @ 13
-	Roar @ 16
-	Swagger @ 20
-	Assurance @ 24
-	Scary Face @ 28
-	Headbutt @ 32
-	Taunt @ 36
-	Crunch @ 40
-	Yawn @ 44
-	Take Down @ 48
-	Sucker Punch @ 52
-	Play Rough @ 56
-
-Zigzagoon - 38/30/41/30/41/60 Normal/Normal
-Evolution(s): 4,0,264,0,20
-Egg Moves: Tickle, Simple Beam, Extreme Speed, Charm, Trick, Helping Hand, Mud-Slap
-TM Moves: TM03 Water Pulse, TM10 Work Up, TM11 Sunny Day, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM24 Thunderbolt, TM25 Thunder, TM28 Dig, TM30 Shadow Ball, TM32 Double Team, TM34 Shock Wave, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM56 Fling, TM57 Charge Beam, TM58 Endure, TM73 Thunder Wave, TM82 Sleep Talk, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM93 Cut, TM95 Surf, TM98 Rock Smash
-Learned Moves:
-	Tackle @ 1
-	Growl @ 1
-	Sand Attack @ 3
-	Tail Whip @ 6
-	Covet @ 9
-	Headbutt @ 12
-	Baby-Doll Eyes @ 15
-	Pin Missile @ 18
-	Rest @ 21
-	Take Down @ 24
-	Fling @ 27
-	Flail @ 30
-	Belly Drum @ 33
-	Double-Edge @ 36
-
-Linoone - 78/70/61/50/61/100 Normal/Normal
-TM Moves: TM03 Water Pulse, TM05 Roar, TM10 Work Up, TM11 Sunny Day, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM24 Thunderbolt, TM25 Thunder, TM28 Dig, TM30 Shadow Ball, TM32 Double Team, TM34 Shock Wave, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM56 Fling, TM57 Charge Beam, TM58 Endure, TM65 Shadow Claw, TM68 Giga Impact, TM73 Thunder Wave, TM82 Sleep Talk, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM93 Cut, TM95 Surf, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Slash @ 0
-	Slash @ 1
-	Switcheroo @ 1
-	Pin Missile @ 1
-	Baby-Doll Eyes @ 1
-	Tackle @ 1
-	Growl @ 1
-	Sand Attack @ 1
-	Tail Whip @ 1
-	Covet @ 9
-	Headbutt @ 12
-	Hone Claws @ 15
-	Fury Swipes @ 18
-	Rest @ 23
-	Take Down @ 28
-	Fling @ 33
-	Flail @ 38
-	Belly Drum @ 43
-	Double-Edge @ 48
-
-Wurmple - 45/45/35/20/30/20 Bug/Bug
-Evolution(s): 12,0,266,0,7	13,0,268,0,7
-Learned Moves:
-	Tackle @ 1
-	String Shot @ 1
-	Poison Sting @ 5
-	Bug Bite @ 15
-
-Silcoon - 50/35/55/25/25/15 Bug/Bug
-Evolution(s): 4,0,267,0,10
-Learned Moves:
-	Harden @ 0
-	Harden @ 1
-
-Beautifly - 60/70/50/100/50/65 Bug/Flying
-TM Moves: TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM19 Giga Drain, TM20 Safeguard, TM22 Solar Beam, TM29 Psychic, TM30 Shadow Ball, TM32 Double Team, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM51 Roost, TM53 Energy Ball, TM58 Endure, TM62 Bug Buzz, TM68 Giga Impact, TM70 Flash, TM82 Sleep Talk, TM87 Swagger, TM89 U-turn, TM90 Substitute, TM97 Defog
-Learned Moves:
-	Gust @ 0
-	Gust @ 1
-	Tackle @ 1
-	String Shot @ 1
-	Harden @ 1
-	Poison Sting @ 1
-	Bug Bite @ 1
-	Absorb @ 12
-	Stun Spore @ 15
-	Morning Sun @ 17
-	Air Cutter @ 20
-	Mega Drain @ 22
-	Leech Life @ 25
-	Attract @ 27
-	Whirlwind @ 30
-	Giga Drain @ 32
-	Bug Buzz @ 35
-	Protect @ 37
-	Quiver Dance @ 40
-
-Cascoon - 50/35/55/25/25/15 Bug/Bug
-Evolution(s): 4,0,269,0,10
-Learned Moves:
-	Harden @ 0
-	Harden @ 1
-
-Dustox - 60/50/70/50/90/65 Bug/Poison
-TM Moves: TM06 Toxic, TM11 Sunny Day, TM15 Hyper Beam, TM16 Light Screen, TM17 Protect, TM19 Giga Drain, TM22 Solar Beam, TM29 Psychic, TM30 Shadow Ball, TM32 Double Team, TM36 Sludge Bomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM51 Roost, TM53 Energy Ball, TM58 Endure, TM62 Bug Buzz, TM68 Giga Impact, TM70 Flash, TM82 Sleep Talk, TM87 Swagger, TM89 U-turn, TM90 Substitute, TM97 Defog
-Learned Moves:
-	Gust @ 0
-	Gust @ 1
-	Tackle @ 1
-	String Shot @ 1
-	Harden @ 1
-	Poison Sting @ 1
-	Bug Bite @ 1
-	Confusion @ 12
-	Poison Powder @ 15
-	Moonlight @ 17
-	Venoshock @ 20
-	Psybeam @ 22
-	Leech Life @ 25
-	Light Screen @ 27
-	Whirlwind @ 30
-	Toxic @ 32
-	Bug Buzz @ 35
-	Protect @ 37
-	Quiver Dance @ 40
-
-Lotad - 40/30/30/40/50/30 Water/Grass
-Evolution(s): 4,0,271,0,14
-Egg Moves: Synthesis, Razor Leaf, Sweet Scent, Leech Seed, Tickle, Counter, Teeter Dance, Flail, Water Gun
-TM Moves: TM03 Water Pulse, TM07 Hail, TM09 Bullet Seed, TM11 Sunny Day, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM19 Giga Drain, TM22 Solar Beam, TM32 Double Team, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM49 Scald, TM53 Energy Ball, TM58 Endure, TM70 Flash, TM75 Swords Dance, TM82 Sleep Talk, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM95 Surf
-Learned Moves:
-	Astonish @ 1
-	Growl @ 1
-	Absorb @ 3
-	Water Gun @ 6
-	Mist @ 9
-	Mega Drain @ 12
-	Flail @ 16
-	Bubble Beam @ 20
-	Nature Power @ 24
-	Giga Drain @ 28
-	Rain Dance @ 33
-	Zen Headbutt @ 38
-	Energy Ball @ 43
-
-Lombre - 60/50/50/60/70/50 Water/Grass
-Evolution(s): 8,84,272,0,0
-TM Moves: TM03 Water Pulse, TM07 Hail, TM09 Bullet Seed, TM11 Sunny Day, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM19 Giga Drain, TM22 Solar Beam, TM31 Brick Break, TM32 Double Team, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM49 Scald, TM53 Energy Ball, TM56 Fling, TM58 Endure, TM60 Drain Punch, TM70 Flash, TM75 Swords Dance, TM82 Sleep Talk, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM95 Surf, TM96 Strength, TM98 Rock Smash, TM99 Waterfall
-Learned Moves:
-	Teeter Dance @ 1
-	Fake Out @ 1
-	Knock Off @ 1
-	Flail @ 1
-	Astonish @ 1
-	Growl @ 1
-	Absorb @ 1
-	Water Gun @ 1
-	Mist @ 9
-	Mega Drain @ 12
-	Fury Swipes @ 18
-	Bubble Beam @ 24
-	Nature Power @ 30
-	Giga Drain @ 36
-	Rain Dance @ 43
-	Zen Headbutt @ 50
-	Energy Ball @ 57
-	Hydro Pump @ 64
-
-Ludicolo - 80/70/70/90/100/70 Water/Grass
-TM Moves: TM01 Focus Punch, TM03 Water Pulse, TM07 Hail, TM09 Bullet Seed, TM11 Sunny Day, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM19 Giga Drain, TM22 Solar Beam, TM31 Brick Break, TM32 Double Team, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM49 Scald, TM52 Focus Blast, TM53 Energy Ball, TM56 Fling, TM58 Endure, TM60 Drain Punch, TM68 Giga Impact, TM70 Flash, TM75 Swords Dance, TM82 Sleep Talk, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM95 Surf, TM96 Strength, TM98 Rock Smash, TM99 Waterfall, TM100 Rock Climb
-Learned Moves:
-	Teeter Dance @ 1
-	Fake Out @ 1
-	Knock Off @ 1
-	Flail @ 1
-	Mist @ 1
-	Mega Drain @ 1
-	Fury Swipes @ 1
-	Bubble Beam @ 1
-	Nature Power @ 1
-	Giga Drain @ 1
-	Rain Dance @ 1
-	Zen Headbutt @ 1
-	Energy Ball @ 1
-	Hydro Pump @ 1
-	Astonish @ 1
-	Growl @ 1
-	Absorb @ 1
-	Water Gun @ 1
-
-Seedot - 40/40/50/30/30/30 Grass/Grass
-Evolution(s): 4,0,274,0,14
-Egg Moves: Leech Seed, Quick Attack, Take Down, Worry Seed, Night Slash, Amnesia, Power Swap, Foul Play, Beat Up, Grassy Terrain
-TM Moves: TM09 Bullet Seed, TM11 Sunny Day, TM17 Protect, TM19 Giga Drain, TM22 Solar Beam, TM28 Dig, TM30 Shadow Ball, TM32 Double Team, TM42 Facade, TM44 Rest, TM45 Attract, TM53 Energy Ball, TM54 False Swipe, TM58 Endure, TM63 Nasty Plot, TM64 Explosion, TM66 Payback, TM70 Flash, TM75 Swords Dance, TM82 Sleep Talk, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM98 Rock Smash
-Learned Moves:
-	Tackle @ 1
-	Harden @ 1
-	Absorb @ 3
-	Astonish @ 6
-	Growth @ 9
-	Rollout @ 12
-	Mega Drain @ 15
-	Payback @ 18
-	Nature Power @ 21
-	Sunny Day @ 24
-	Synthesis @ 27
-	Sucker Punch @ 30
-	Explosion @ 33
-
-Nuzleaf - 70/70/40/60/40/60 Grass/Dark
-Evolution(s): 8,85,275,0,0
-TM Moves: TM09 Bullet Seed, TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM19 Giga Drain, TM22 Solar Beam, TM27 Low Sweep, TM28 Dig, TM30 Shadow Ball, TM31 Brick Break, TM32 Double Team, TM39 Rock Tomb, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM53 Energy Ball, TM54 False Swipe, TM56 Fling, TM58 Endure, TM63 Nasty Plot, TM64 Explosion, TM66 Payback, TM70 Flash, TM75 Swords Dance, TM77 Psych Up, TM78 Snarl, TM79 Dark Pulse, TM80 Rock Slide, TM82 Sleep Talk, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM93 Cut, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Razor Leaf @ 0
-	Razor Leaf @ 1
-	Air Cutter @ 1
-	Torment @ 1
-	Fake Out @ 1
-	Swagger @ 1
-	Synthesis @ 1
-	Explosion @ 1
-	Tackle @ 1
-	Harden @ 1
-	Absorb @ 1
-	Astonish @ 1
-	Growth @ 9
-	Rollout @ 12
-	Mega Drain @ 18
-	Payback @ 24
-	Nature Power @ 30
-	Sunny Day @ 36
-	Extrasensory @ 43
-	Sucker Punch @ 50
-	Leaf Blade @ 57
-
-Shiftry - 90/100/60/90/60/80 Grass/Dark
-TM Moves: TM09 Bullet Seed, TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM19 Giga Drain, TM22 Solar Beam, TM27 Low Sweep, TM28 Dig, TM30 Shadow Ball, TM31 Brick Break, TM32 Double Team, TM39 Rock Tomb, TM40 Aerial Ace, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM52 Focus Blast, TM53 Energy Ball, TM54 False Swipe, TM56 Fling, TM58 Endure, TM63 Nasty Plot, TM64 Explosion, TM66 Payback, TM68 Giga Impact, TM70 Flash, TM75 Swords Dance, TM77 Psych Up, TM78 Snarl, TM79 Dark Pulse, TM80 Rock Slide, TM81 X-Scissor, TM82 Sleep Talk, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM93 Cut, TM96 Strength, TM97 Defog, TM98 Rock Smash
-Learned Moves:
-	Leaf Tornado @ 0
-	Leaf Tornado @ 1
-	Razor Leaf @ 1
-	Air Cutter @ 1
-	Torment @ 1
-	Fake Out @ 1
-	Swagger @ 1
-	Whirlwind @ 1
-	Hurricane @ 1
-	Synthesis @ 1
-	Explosion @ 1
-	Growth @ 1
-	Rollout @ 1
-	Mega Drain @ 1
-	Payback @ 1
-	Nature Power @ 1
-	Sunny Day @ 1
-	Extrasensory @ 1
-	Sucker Punch @ 1
-	Leaf Blade @ 1
-	Tackle @ 1
-	Harden @ 1
-	Absorb @ 1
-	Astonish @ 1
-
-Taillow - 40/55/30/30/30/85 Normal/Flying
-Evolution(s): 4,0,277,0,22
-Egg Moves: Supersonic, Sky Attack, Whirlwind, Brave Bird, Boomburst, Hurricane
-TM Moves: TM10 Work Up, TM11 Sunny Day, TM17 Protect, TM18 Rain Dance, TM32 Double Team, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM47 Steel Wing, TM51 Roost, TM58 Endure, TM82 Sleep Talk, TM87 Swagger, TM88 Pluck, TM89 U-turn, TM90 Substitute, TM94 Fly, TM97 Defog
-Learned Moves:
-	Peck @ 1
-	Growl @ 1
-	Focus Energy @ 5
-	Quick Attack @ 9
-	Wing Attack @ 13
-	Double Team @ 17
-	Aerial Ace @ 21
-	Quick Guard @ 25
-	Agility @ 29
-	Air Slash @ 33
-	Endeavor @ 37
-	Brave Bird @ 41
-	Reversal @ 45
-
-Swellow - 60/85/60/75/50/125 Normal/Flying
-TM Moves: TM10 Work Up, TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM32 Double Team, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM47 Steel Wing, TM51 Roost, TM58 Endure, TM68 Giga Impact, TM82 Sleep Talk, TM87 Swagger, TM88 Pluck, TM89 U-turn, TM90 Substitute, TM94 Fly, TM97 Defog
-Learned Moves:
-	Brave Bird @ 1
-	Air Slash @ 1
-	Pluck @ 1
-	Peck @ 1
-	Growl @ 1
-	Focus Energy @ 1
-	Quick Attack @ 1
-	Focus Energy @ 5
-	Quick Attack @ 9
-	Wing Attack @ 13
-	Double Team @ 17
-	Aerial Ace @ 21
-	Quick Guard @ 27
-	Agility @ 33
-	Air Slash @ 39
-	Endeavor @ 45
-	Brave Bird @ 51
-	Reversal @ 57
-
-Wingull - 40/30/30/55/30/85 Water/Flying
-Evolution(s): 4,0,279,0,25
-Egg Moves: Twister, Gust, Aqua Ring, Knock Off, Soak, Wide Guard, Air Cutter, Mist, Agility
-TM Moves: TM03 Water Pulse, TM07 Hail, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM32 Double Team, TM34 Shock Wave, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM47 Steel Wing, TM49 Scald, TM51 Roost, TM55 Brine, TM58 Endure, TM82 Sleep Talk, TM87 Swagger, TM88 Pluck, TM89 U-turn, TM90 Substitute, TM94 Fly, TM97 Defog
-Learned Moves:
-	Growl @ 1
-	Water Gun @ 1
-	Quick Attack @ 5
-	Supersonic @ 10
-	Wing Attack @ 15
-	Water Pulse @ 20
-	Agility @ 26
-	Air Slash @ 30
-	Mist @ 35
-	Roost @ 40
-	Hurricane @ 45
-
-Pelipper - 60/50/100/95/70/65 Water/Flying
-TM Moves: TM03 Water Pulse, TM07 Hail, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM32 Double Team, TM34 Shock Wave, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM47 Steel Wing, TM49 Scald, TM51 Roost, TM55 Brine, TM56 Fling, TM58 Endure, TM66 Payback, TM68 Giga Impact, TM82 Sleep Talk, TM87 Swagger, TM88 Pluck, TM89 U-turn, TM90 Substitute, TM94 Fly, TM95 Surf, TM97 Defog
-Learned Moves:
-	Protect @ 1
-	Soak @ 1
-	Quick Attack @ 1
-	Agility @ 1
-	Air Slash @ 1
-	Growl @ 1
-	Water Gun @ 1
-	Tailwind @ 1
-	Supersonic @ 1
-	Wing Attack @ 15
-	Water Pulse @ 20
-	Stockpile @ 28
-	Swallow @ 28
-	Spit Up @ 28
-	Fling @ 34
-	Mist @ 41
-	Roost @ 48
-	Hurricane @ 55
-	Hydro Pump @ 62
-
-Ralts - 28/25/25/45/35/40 Psychic/Fairy
-Evolution(s): 4,0,281,0,20
-Egg Moves: Disable, Mean Look, Memento, Destiny Bond, Grudge, Shadow Sneak, Confuse Ray, Knock Off, Encore, Misty Terrain, Ally Switch
-TM Moves: TM04 Calm Mind, TM11 Sunny Day, TM12 Taunt, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM21 Dazzling Gleam, TM24 Thunderbolt, TM29 Psychic, TM30 Shadow Ball, TM32 Double Team, TM33 Reflect, TM34 Shock Wave, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM48 Skill Swap, TM56 Fling, TM57 Charge Beam, TM58 Endure, TM61 Will-O-Wisp, TM67 Recycle, TM70 Flash, TM73 Thunder Wave, TM77 Psych Up, TM82 Sleep Talk, TM85 Dream Eater, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM92 Trick Room
-Learned Moves:
-	Growl @ 1
-	Disarming Voice @ 1
-	Double Team @ 3
-	Confusion @ 6
-	Hypnosis @ 9
-	Draining Kiss @ 12
-	Teleport @ 15
-	Psybeam @ 18
-	Life Dew @ 21
-	Charm @ 24
-	Calm Mind @ 27
-	Psychic @ 30
-	Heal Pulse @ 33
-	Dream Eater @ 36
-	Future Sight @ 39
-
-Kirlia - 38/35/35/65/55/50 Psychic/Fairy
-Evolution(s): 4,0,282,0,30	17,109,475,0,30
-TM Moves: TM04 Calm Mind, TM11 Sunny Day, TM12 Taunt, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM21 Dazzling Gleam, TM24 Thunderbolt, TM29 Psychic, TM30 Shadow Ball, TM32 Double Team, TM33 Reflect, TM34 Shock Wave, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM48 Skill Swap, TM56 Fling, TM57 Charge Beam, TM58 Endure, TM61 Will-O-Wisp, TM67 Recycle, TM70 Flash, TM73 Thunder Wave, TM77 Psych Up, TM82 Sleep Talk, TM85 Dream Eater, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM92 Trick Room
-Learned Moves:
-	Growl @ 1
-	Disarming Voice @ 1
-	Double Team @ 1
-	Confusion @ 1
-	Hypnosis @ 9
-	Draining Kiss @ 12
-	Teleport @ 15
-	Psybeam @ 18
-	Life Dew @ 23
-	Charm @ 28
-	Calm Mind @ 33
-	Psychic @ 38
-	Heal Pulse @ 43
-	Dream Eater @ 48
-	Future Sight @ 53
-
-Gardevoir - 68/65/65/125/115/80 Psychic/Fairy
-TM Moves: TM04 Calm Mind, TM11 Sunny Day, TM12 Taunt, TM15 Hyper Beam, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM21 Dazzling Gleam, TM24 Thunderbolt, TM29 Psychic, TM30 Shadow Ball, TM32 Double Team, TM33 Reflect, TM34 Shock Wave, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM48 Skill Swap, TM52 Focus Blast, TM53 Energy Ball, TM56 Fling, TM57 Charge Beam, TM58 Endure, TM61 Will-O-Wisp, TM67 Recycle, TM68 Giga Impact, TM70 Flash, TM73 Thunder Wave, TM77 Psych Up, TM82 Sleep Talk, TM85 Dream Eater, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM92 Trick Room
-Learned Moves:
-	Dazzling Gleam @ 0
-	Dazzling Gleam @ 1
-	Moonblast @ 1
-	Misty Terrain @ 1
-	Healing Wish @ 1
-	Charm @ 1
-	Growl @ 1
-	Disarming Voice @ 1
-	Double Team @ 1
-	Confusion @ 1
-	Hypnosis @ 9
-	Draining Kiss @ 12
-	Teleport @ 15
-	Psybeam @ 18
-	Life Dew @ 23
-	Wish @ 28
-	Calm Mind @ 35
-	Psychic @ 42
-	Heal Pulse @ 49
-	Dream Eater @ 56
-	Future Sight @ 63
-
-Surskit - 40/30/32/50/52/65 Bug/Water
-Evolution(s): 4,0,284,0,22
-Egg Moves: Mud Shot, Psybeam, Hydro Pump, Mind Reader, Bug Bite, Aqua Jet, Fell Stinger, Power Split, Lunge
-TM Moves: TM03 Water Pulse, TM11 Sunny Day, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM19 Giga Drain, TM22 Solar Beam, TM30 Shadow Ball, TM32 Double Team, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM49 Scald, TM58 Endure, TM70 Flash, TM77 Psych Up, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute
-Learned Moves:
-	Water Gun @ 1
-	Quick Attack @ 6
-	Sweet Scent @ 9
-	Soak @ 14
-	Bubble Beam @ 17
-	Agility @ 22
-	Mist @ 25
-	Haze @ 25
-	Aqua Jet @ 30
-	Baton Pass @ 35
-	Sticky Web @ 38
-
-Masquerain - 70/60/62/100/82/80 Bug/Flying
-TM Moves: TM03 Water Pulse, TM11 Sunny Day, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM19 Giga Drain, TM22 Solar Beam, TM30 Shadow Ball, TM32 Double Team, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM49 Scald, TM51 Roost, TM53 Energy Ball, TM58 Endure, TM62 Bug Buzz, TM68 Giga Impact, TM70 Flash, TM77 Psych Up, TM82 Sleep Talk, TM87 Swagger, TM89 U-turn, TM90 Substitute, TM97 Defog
-Learned Moves:
-	Quiver Dance @ 1
-	Whirlwind @ 1
-	Bug Buzz @ 1
-	Quick Attack @ 1
-	Sweet Scent @ 1
-	Water Gun @ 1
-	Bubble Beam @ 1
-	Agility @ 1
-	Mist @ 1
-	Haze @ 1
-	Aqua Jet @ 1
-	Baton Pass @ 1
-	Sticky Web @ 1
-	Quick Attack @ 6
-	Sweet Scent @ 9
-	Soak @ 14
-	Gust @ 17
-	Scary Face @ 22
-	Air Cutter @ 22
-	Stun Spore @ 26
-	Supersonic @ 32
-	Air Slash @ 38
-	Bug Buzz @ 42
-	Whirlwind @ 48
-	Quiver Dance @ 52
-
-Shroomish - 60/40/60/40/60/35 Grass/Grass
-Evolution(s): 4,0,286,0,23
-Egg Moves: Fake Tears, Charm, Helping Hand, Worry Seed, Seed Bomb
-TM Moves: TM06 Toxic, TM09 Bullet Seed, TM11 Sunny Day, TM17 Protect, TM19 Giga Drain, TM20 Safeguard, TM22 Solar Beam, TM32 Double Team, TM36 Sludge Bomb, TM42 Facade, TM44 Rest, TM45 Attract, TM53 Energy Ball, TM54 False Swipe, TM58 Endure, TM60 Drain Punch, TM70 Flash, TM82 Sleep Talk, TM86 Grass Knot, TM87 Swagger, TM90 Substitute
-Learned Moves:
-	Absorb @ 1
-	Tackle @ 1
-	Stun Spore @ 5
-	Leech Seed @ 8
-	Mega Drain @ 12
-	Headbutt @ 15
-	Poison Powder @ 19
-	Worry Seed @ 22
-	Giga Drain @ 26
-	Growth @ 29
-	Toxic @ 33
-	Seed Bomb @ 36
-	Spore @ 40
-
-Breloom - 60/130/80/60/60/70 Grass/Fighting
-TM Moves: TM01 Focus Punch, TM08 Bulk Up, TM09 Bullet Seed, TM10 Work Up, TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM19 Giga Drain, TM20 Safeguard, TM22 Solar Beam, TM23 Iron Tail, TM27 Low Sweep, TM31 Brick Break, TM32 Double Team, TM36 Sludge Bomb, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM52 Focus Blast, TM53 Energy Ball, TM54 False Swipe, TM56 Fling, TM58 Endure, TM60 Drain Punch, TM68 Giga Impact, TM70 Flash, TM71 Stone Edge, TM75 Swords Dance, TM80 Rock Slide, TM82 Sleep Talk, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM93 Cut, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Mach Punch @ 0
-	Mach Punch @ 1
-	Absorb @ 1
-	Tackle @ 1
-	Stun Spore @ 1
-	Leech Seed @ 1
-	Poison Powder @ 1
-	Worry Seed @ 1
-	Giga Drain @ 1
-	Growth @ 1
-	Toxic @ 1
-	Spore @ 1
-	Stun Spore @ 5
-	Leech Seed @ 8
-	Mega Drain @ 12
-	Headbutt @ 15
-	Feint @ 19
-	Counter @ 22
-	Force Palm @ 28
-	Mind Reader @ 33
-	Drain Punch @ 39
-	Seed Bomb @ 44
-	Dynamic Punch @ 50
-
-Slakoth - 60/60/60/35/35/30 Normal/Normal
-Evolution(s): 4,0,288,0,18
-Egg Moves: Slash, Body Slam, Snore, Crush Claw, Curse, Hammer Arm, Night Slash, After You, Tickle
-TM Moves: TM01 Focus Punch, TM03 Water Pulse, TM08 Bulk Up, TM10 Work Up, TM11 Sunny Day, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM22 Solar Beam, TM24 Thunderbolt, TM25 Thunder, TM30 Shadow Ball, TM31 Brick Break, TM32 Double Team, TM34 Shock Wave, TM35 Flamethrower, TM38 Fire Blast, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM56 Fling, TM58 Endure, TM65 Shadow Claw, TM80 Rock Slide, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute, TM93 Cut, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Scratch @ 1
-	Yawn @ 1
-	Encore @ 6
-	Slack Off @ 9
-	Rest @ 14
-	Amnesia @ 17
-	Covet @ 22
-	Headbutt @ 25
-	Counter @ 30
-	Flail @ 33
-	Play Rough @ 38
-
-Vigoroth - 80/80/80/55/55/90 Normal/Normal
-Evolution(s): 4,0,289,0,36
-TM Moves: TM01 Focus Punch, TM03 Water Pulse, TM05 Roar, TM08 Bulk Up, TM10 Work Up, TM11 Sunny Day, TM12 Taunt, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM22 Solar Beam, TM24 Thunderbolt, TM25 Thunder, TM26 Earthquake, TM27 Low Sweep, TM30 Shadow Ball, TM31 Brick Break, TM32 Double Team, TM34 Shock Wave, TM35 Flamethrower, TM38 Fire Blast, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM52 Focus Blast, TM56 Fling, TM58 Endure, TM65 Shadow Claw, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM93 Cut, TM96 Strength, TM98 Rock Smash, TM100 Rock Climb
-Learned Moves:
-	Reversal @ 1
-	Scratch @ 1
-	Focus Energy @ 1
-	Encore @ 1
-	Uproar @ 1
-	Yawn @ 1
-	Slack Off @ 1
-	Rest @ 1
-	Amnesia @ 1
-	Covet @ 1
-	Flail @ 1
-	Play Rough @ 1
-	Encore @ 6
-	Uproar @ 9
-	Fury Swipes @ 14
-	Endure @ 17
-	Slash @ 23
-	Headbutt @ 27
-	Counter @ 33
-	Focus Punch @ 37
-	Reversal @ 43
-
-Slaking - 150/160/100/95/65/100 Normal/Normal
-TM Moves: TM01 Focus Punch, TM03 Water Pulse, TM05 Roar, TM08 Bulk Up, TM10 Work Up, TM11 Sunny Day, TM12 Taunt, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM22 Solar Beam, TM24 Thunderbolt, TM25 Thunder, TM26 Earthquake, TM27 Low Sweep, TM30 Shadow Ball, TM31 Brick Break, TM32 Double Team, TM34 Shock Wave, TM35 Flamethrower, TM38 Fire Blast, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM52 Focus Blast, TM56 Fling, TM58 Endure, TM65 Shadow Claw, TM68 Giga Impact, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM93 Cut, TM96 Strength, TM98 Rock Smash, TM100 Rock Climb
-Learned Moves:
-	Swagger @ 0
-	Swagger @ 1
-	Hammer Arm @ 1
-	Fling @ 1
-	Scratch @ 1
-	Yawn @ 1
-	Encore @ 1
-	Slack Off @ 1
-	Focus Energy @ 1
-	Uproar @ 1
-	Play Rough @ 1
-	Fury Swipes @ 1
-	Endure @ 1
-	Slash @ 1
-	Focus Punch @ 1
-	Reversal @ 1
-	Encore @ 6
-	Slack Off @ 9
-	Rest @ 14
-	Amnesia @ 17
-	Covet @ 23
-	Headbutt @ 27
-	Counter @ 33
-	Flail @ 39
-	Fling @ 47
-	Sucker Punch @ 53
-	Hammer Arm @ 61
-
-Nincada - 31/45/90/30/30/40 Bug/Ground
-Evolution(s): 14,0,291,0,20
-Egg Moves: Gust, Night Slash, Bug Bite, Final Gambit, Flail
-TM Moves: TM11 Sunny Day, TM17 Protect, TM19 Giga Drain, TM22 Solar Beam, TM28 Dig, TM30 Shadow Ball, TM32 Double Team, TM37 Sandstorm, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM54 False Swipe, TM58 Endure, TM62 Bug Buzz, TM70 Flash, TM81 X-Scissor, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute, TM93 Cut
-Learned Moves:
-	Sand Attack @ 1
-	Scratch @ 1
-	Harden @ 5
-	False Swipe @ 10
-	Mud-Slap @ 15
-	Absorb @ 21
-	Metal Claw @ 25
-	Fury Swipes @ 30
-	Mind Reader @ 35
-	Dig @ 40
-
-Ninjask - 61/90/45/50/50/160 Bug/Flying
-TM Moves: TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM19 Giga Drain, TM22 Solar Beam, TM28 Dig, TM30 Shadow Ball, TM32 Double Team, TM37 Sandstorm, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM46 Thief, TM51 Roost, TM54 False Swipe, TM58 Endure, TM62 Bug Buzz, TM68 Giga Impact, TM70 Flash, TM75 Swords Dance, TM81 X-Scissor, TM82 Sleep Talk, TM87 Swagger, TM89 U-turn, TM90 Substitute, TM93 Cut, TM97 Defog
-Learned Moves:
-	Double Team @ 0
-	Screech @ 0
-	Fury Cutter @ 0
-	Double Team @ 1
-	Screech @ 1
-	Fury Cutter @ 1
-	Baton Pass @ 1
-	Aerial Ace @ 1
-	Mud-Slap @ 1
-	Metal Claw @ 1
-	Dig @ 1
-	Sand Attack @ 1
-	Scratch @ 1
-	Harden @ 1
-	False Swipe @ 1
-	Agility @ 15
-	Absorb @ 23
-	Bug Bite @ 29
-	Fury Swipes @ 36
-	Mind Reader @ 43
-	Slash @ 50
-	Swords Dance @ 57
-	X-Scissor @ 64
-
-Shedinja - 1/90/45/30/30/40 Bug/Ghost
-TM Moves: TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM19 Giga Drain, TM22 Solar Beam, TM28 Dig, TM30 Shadow Ball, TM32 Double Team, TM37 Sandstorm, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM46 Thief, TM54 False Swipe, TM58 Endure, TM61 Will-O-Wisp, TM62 Bug Buzz, TM65 Shadow Claw, TM68 Giga Impact, TM70 Flash, TM81 X-Scissor, TM82 Sleep Talk, TM85 Dream Eater, TM87 Swagger, TM90 Substitute, TM93 Cut
-Learned Moves:
-	Shadow Claw @ 1
-	Grudge @ 1
-	Mud-Slap @ 1
-	Metal Claw @ 1
-	Dig @ 1
-	Scratch @ 1
-	Sand Attack @ 1
-	Harden @ 1
-	False Swipe @ 1
-	Confuse Ray @ 15
-	Absorb @ 23
-	Shadow Sneak @ 29
-	Fury Swipes @ 36
-	Mind Reader @ 43
-	Shadow Ball @ 50
-	Spite @ 57
-	Phantom Force @ 64
-
-Whismur - 64/51/23/51/23/28 Normal/Normal
-Evolution(s): 4,0,294,0,20
-Egg Moves: Circle Throw, Disarming Voice, Endeavor, Extrasensory, Hammer Arm, Smokescreen, Take Down, Whirlwind, Snore, Fake Tears
-TM Moves: TM03 Water Pulse, TM05 Roar, TM10 Work Up, TM11 Sunny Day, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM22 Solar Beam, TM30 Shadow Ball, TM32 Double Team, TM34 Shock Wave, TM35 Flamethrower, TM38 Fire Blast, TM42 Facade, TM44 Rest, TM45 Attract, TM56 Fling, TM58 Endure, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute
-Learned Moves:
-	Astonish @ 1
-	Pound @ 1
-	Echoed Voice @ 5
-	Howl @ 10
-	Rest @ 15
-	Sleep Talk @ 15
-	Stomp @ 21
-	Roar @ 25
-	Supersonic @ 30
-	Uproar @ 35
-	Screech @ 40
-	Hyper Voice @ 45
-
-Loudred - 84/71/43/71/43/48 Normal/Normal
-Evolution(s): 4,0,295,0,40
-TM Moves: TM03 Water Pulse, TM05 Roar, TM10 Work Up, TM11 Sunny Day, TM12 Taunt, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM22 Solar Beam, TM26 Earthquake, TM30 Shadow Ball, TM31 Brick Break, TM32 Double Team, TM34 Shock Wave, TM35 Flamethrower, TM38 Fire Blast, TM39 Rock Tomb, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM50 Overheat, TM56 Fling, TM58 Endure, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Bite @ 0
-	Bite @ 1
-	Astonish @ 1
-	Pound @ 1
-	Echoed Voice @ 1
-	Howl @ 1
-	Rest @ 15
-	Sleep Talk @ 15
-	Stomp @ 23
-	Roar @ 29
-	Supersonic @ 36
-	Uproar @ 43
-	Screech @ 50
-	Hyper Voice @ 57
-
-Exploud - 104/91/63/91/73/68 Normal/Normal
-TM Moves: TM03 Water Pulse, TM05 Roar, TM10 Work Up, TM11 Sunny Day, TM12 Taunt, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM22 Solar Beam, TM26 Earthquake, TM30 Shadow Ball, TM31 Brick Break, TM32 Double Team, TM34 Shock Wave, TM35 Flamethrower, TM38 Fire Blast, TM39 Rock Tomb, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM50 Overheat, TM52 Focus Blast, TM56 Fling, TM58 Endure, TM68 Giga Impact, TM72 Avalanche, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM95 Surf, TM96 Strength, TM98 Rock Smash, TM100 Rock Climb
-Learned Moves:
-	Crunch @ 0
-	Crunch @ 1
-	Bite @ 1
-	Ice Fang @ 1
-	Fire Fang @ 1
-	Thunder Fang @ 1
-	Astonish @ 1
-	Pound @ 1
-	Echoed Voice @ 1
-	Howl @ 1
-	Rest @ 15
-	Sleep Talk @ 15
-	Stomp @ 23
-	Roar @ 29
-	Supersonic @ 36
-	Uproar @ 45
-	Screech @ 54
-	Hyper Voice @ 63
-	Boomburst @ 72
-	Hyper Beam @ 81
-
-Makuhita - 72/60/30/20/30/25 Fighting/Fighting
-Evolution(s): 4,0,297,0,24
-Egg Moves: Detect, Helping Hand, Cross Chop, Revenge, Dynamic Punch, Counter, Bullet Punch, Feint, Wide Guard
-TM Moves: TM01 Focus Punch, TM08 Bulk Up, TM10 Work Up, TM11 Sunny Day, TM17 Protect, TM18 Rain Dance, TM26 Earthquake, TM27 Low Sweep, TM28 Dig, TM31 Brick Break, TM32 Double Team, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM52 Focus Blast, TM56 Fling, TM58 Endure, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM84 Poison Jab, TM87 Swagger, TM90 Substitute, TM95 Surf, TM96 Strength, TM98 Rock Smash, TM100 Rock Climb
-Learned Moves:
-	Tackle @ 1
-	Focus Energy @ 1
-	Sand Attack @ 4
-	Arm Thrust @ 7
-	Fake Out @ 10
-	Force Palm @ 13
-	Whirlwind @ 16
-	Knock Off @ 19
-	Vital Throw @ 22
-	Belly Drum @ 25
-	Detect @ 28
-	Seismic Toss @ 31
-	Focus Punch @ 34
-	Endure @ 37
-	Close Combat @ 40
-	Reversal @ 43
-	Heavy Slam @ 46
-
-Hariyama - 144/120/60/40/60/50 Fighting/Fighting
-TM Moves: TM01 Focus Punch, TM08 Bulk Up, TM10 Work Up, TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM26 Earthquake, TM27 Low Sweep, TM28 Dig, TM31 Brick Break, TM32 Double Team, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM52 Focus Blast, TM55 Brine, TM56 Fling, TM58 Endure, TM66 Payback, TM68 Giga Impact, TM71 Stone Edge, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM84 Poison Jab, TM87 Swagger, TM90 Substitute, TM95 Surf, TM96 Strength, TM98 Rock Smash, TM100 Rock Climb
-Learned Moves:
-	Brine @ 1
-	Tackle @ 1
-	Focus Energy @ 1
-	Sand Attack @ 1
-	Arm Thrust @ 1
-	Sand Attack @ 4
-	Arm Thrust @ 7
-	Fake Out @ 10
-	Force Palm @ 13
-	Whirlwind @ 16
-	Knock Off @ 19
-	Vital Throw @ 22
-	Belly Drum @ 26
-	Detect @ 30
-	Seismic Toss @ 34
-	Focus Punch @ 38
-	Endure @ 42
-	Close Combat @ 46
-	Reversal @ 50
-	Heavy Slam @ 54
-
-Azurill - 50/20/40/20/40/20 Normal/Fairy
-Evolution(s): 1,0,183,0,0
-Egg Moves: Aqua Jet, Belly Drum, Copycat, Perish Song, Present, Sing, Soak, Supersonic, Tickle, Encore, Slam, Fake Tears, Body Slam, Muddy Water
-TM Moves: TM03 Water Pulse, TM07 Hail, TM10 Work Up, TM13 Ice Beam, TM14 Blizzard, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM32 Double Team, TM42 Facade, TM44 Rest, TM45 Attract, TM49 Scald, TM58 Endure, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute, TM95 Surf, TM99 Waterfall
-Learned Moves:
-	Splash @ 1
-	Water Gun @ 1
-	Tail Whip @ 1
-	Helping Hand @ 3
-	Bubble Beam @ 6
-	Charm @ 9
-	Slam @ 12
-	Bounce @ 15
-
-Nosepass - 30/45/135/45/90/30 Rock/Rock
-Evolution(s): 25,0,476,0,0
-Egg Moves: Rollout, Double-Edge, Block, Wide Guard
-TM Moves: TM11 Sunny Day, TM12 Taunt, TM17 Protect, TM21 Dazzling Gleam, TM24 Thunderbolt, TM25 Thunder, TM26 Earthquake, TM32 Double Team, TM34 Shock Wave, TM37 Sandstorm, TM39 Rock Tomb, TM41 Torment, TM42 Facade, TM43 Volt Switch, TM44 Rest, TM45 Attract, TM58 Endure, TM64 Explosion, TM69 Rock Polish, TM71 Stone Edge, TM73 Thunder Wave, TM76 Stealth Rock, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Tackle @ 1
-	Harden @ 4
-	Block @ 7
-	Rock Throw @ 10
-	Thunder Wave @ 13
-	Rest @ 16
-	Spark @ 19
-	Rock Slide @ 22
-	Power Gem @ 25
-	Rock Blast @ 28
-	Discharge @ 31
-	Sandstorm @ 34
-	Earth Power @ 37
-	Stone Edge @ 40
-	Lock-On @ 43
-	Zap Cannon @ 43
-
-Skitty - 50/45/45/35/35/50 Normal/Normal
-Evolution(s): 8,81,301,0,0
-Egg Moves: Helping Hand, Uproar, Fake Tears, Wish, Baton Pass, Tickle, Last Resort, Fake Out, Zen Headbutt, Sucker Punch, Simple Beam, Cosmic Power
-TM Moves: TM03 Water Pulse, TM04 Calm Mind, TM10 Work Up, TM11 Sunny Day, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM22 Solar Beam, TM23 Iron Tail, TM24 Thunderbolt, TM25 Thunder, TM28 Dig, TM30 Shadow Ball, TM32 Double Team, TM34 Shock Wave, TM42 Facade, TM44 Rest, TM45 Attract, TM57 Charge Beam, TM58 Endure, TM63 Nasty Plot, TM66 Payback, TM70 Flash, TM73 Thunder Wave, TM77 Psych Up, TM82 Sleep Talk, TM85 Dream Eater, TM86 Grass Knot, TM87 Swagger, TM90 Substitute
-Learned Moves:
-	Fake Out @ 1
-	Growl @ 1
-	Tail Whip @ 1
-	Tackle @ 4
-	Sing @ 7
-	Attract @ 10
-	Disarming Voice @ 13
-	Fury Swipes @ 16
-	Copycat @ 19
-	Payback @ 22
-	Charm @ 25
-	Facade @ 31
-	Covet @ 34
-	Heal Bell @ 37
-	Double-Edge @ 40
-	Baby-Doll Eyes @ 43
-	Play Rough @ 46
-
-Delcatty - 70/65/65/55/55/90 Normal/Normal
-TM Moves: TM03 Water Pulse, TM04 Calm Mind, TM10 Work Up, TM11 Sunny Day, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM22 Solar Beam, TM23 Iron Tail, TM24 Thunderbolt, TM25 Thunder, TM28 Dig, TM30 Shadow Ball, TM32 Double Team, TM34 Shock Wave, TM42 Facade, TM44 Rest, TM45 Attract, TM57 Charge Beam, TM58 Endure, TM63 Nasty Plot, TM66 Payback, TM68 Giga Impact, TM70 Flash, TM73 Thunder Wave, TM77 Psych Up, TM82 Sleep Talk, TM85 Dream Eater, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Fake Out @ 1
-	Sing @ 1
-	Attract @ 1
-	Growl @ 1
-	Tail Whip @ 1
-	Tackle @ 1
-	Disarming Voice @ 1
-	Fury Swipes @ 1
-	Copycat @ 1
-	Payback @ 1
-	Charm @ 1
-	Facade @ 1
-	Covet @ 1
-	Heal Bell @ 1
-	Double-Edge @ 1
-	Baby-Doll Eyes @ 1
-	Play Rough @ 1
-
-Sableye - 50/75/75/65/65/50 Dark/Ghost
-Egg Moves: Recover, Flatter, Feint, Sucker Punch, Metal Burst, Moonlight, Trick, Mean Look, Imprison
-TM Moves: TM01 Focus Punch, TM03 Water Pulse, TM04 Calm Mind, TM11 Sunny Day, TM12 Taunt, TM17 Protect, TM18 Rain Dance, TM21 Dazzling Gleam, TM27 Low Sweep, TM28 Dig, TM29 Psychic, TM30 Shadow Ball, TM31 Brick Break, TM32 Double Team, TM34 Shock Wave, TM39 Rock Tomb, TM40 Aerial Ace, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM56 Fling, TM58 Endure, TM60 Drain Punch, TM61 Will-O-Wisp, TM63 Nasty Plot, TM65 Shadow Claw, TM66 Payback, TM70 Flash, TM74 Gyro Ball, TM77 Psych Up, TM78 Snarl, TM79 Dark Pulse, TM82 Sleep Talk, TM84 Poison Jab, TM85 Dream Eater, TM87 Swagger, TM90 Substitute, TM93 Cut, TM98 Rock Smash
-Learned Moves:
-	Leer @ 1
-	Scratch @ 1
-	Astonish @ 3
-	Confuse Ray @ 6
-	Shadow Sneak @ 9
-	Fake Out @ 12
-	Disable @ 15
-	Detect @ 18
-	Night Shade @ 21
-	Fury Swipes @ 24
-	Knock Off @ 27
-	Quash @ 30
-	Shadow Claw @ 33
-	Mean Look @ 36
-	Power Gem @ 39
-	Zen Headbutt @ 42
-	Shadow Ball @ 45
-	Foul Play @ 48
-
-Mawile - 50/85/85/55/55/50 Steel/Fairy
-Egg Moves: Ancient Power, Tickle, Slam, Seismic Toss, Power-Up Punch, Poison Fang, Sucker Punch, Ice Fang, Fire Fang, Thunder Fang, Guard Swap, Metal Burst, Misty Terrain
-TM Moves: TM01 Focus Punch, TM11 Sunny Day, TM12 Taunt, TM13 Ice Beam, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM22 Solar Beam, TM30 Shadow Ball, TM31 Brick Break, TM32 Double Team, TM35 Flamethrower, TM36 Sludge Bomb, TM37 Sandstorm, TM38 Fire Blast, TM39 Rock Tomb, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM52 Focus Blast, TM54 False Swipe, TM56 Fling, TM57 Charge Beam, TM58 Endure, TM66 Payback, TM68 Giga Impact, TM71 Stone Edge, TM75 Swords Dance, TM76 Stealth Rock, TM79 Dark Pulse, TM80 Rock Slide, TM82 Sleep Talk, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM91 Flash Cannon, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Astonish @ 1
-	Growl @ 1
-	Fairy Wind @ 4
-	Baton Pass @ 8
-	Bite @ 12
-	Stockpile @ 16
-	Swallow @ 16
-	Spit Up @ 16
-	Sucker Punch @ 20
-	Iron Defense @ 24
-	Crunch @ 28
-	Sweet Scent @ 32
-	Iron Head @ 36
-	Taunt @ 40
-	Fake Tears @ 44
-	Play Rough @ 48
-
-Aron - 50/70/100/40/40/30 Steel/Rock
-Evolution(s): 4,0,305,0,32
-Egg Moves: Curse, Dragon Rush, Endeavor, Head Smash, Stomp, Mud-Slap, Body Slam, Screech, Iron Head, Superpower, Reversal
-TM Moves: TM03 Water Pulse, TM05 Roar, TM11 Sunny Day, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM26 Earthquake, TM28 Dig, TM32 Double Team, TM34 Shock Wave, TM37 Sandstorm, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM58 Endure, TM65 Shadow Claw, TM69 Rock Polish, TM76 Stealth Rock, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM93 Cut, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Tackle @ 1
-	Harden @ 1
-	Metal Claw @ 4
-	Rock Tomb @ 8
-	Roar @ 12
-	Headbutt @ 16
-	Protect @ 20
-	Rock Slide @ 24
-	Iron Head @ 28
-	Metal Sound @ 33
-	Take Down @ 36
-	Autotomize @ 40
-	Iron Tail @ 44
-	Iron Defense @ 48
-	Heavy Slam @ 52
-	Double-Edge @ 56
-	Metal Burst @ 60
-
-Lairon - 60/90/140/50/50/40 Steel/Rock
-Evolution(s): 4,0,306,0,42
-TM Moves: TM03 Water Pulse, TM05 Roar, TM11 Sunny Day, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM26 Earthquake, TM28 Dig, TM32 Double Team, TM34 Shock Wave, TM37 Sandstorm, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM58 Endure, TM65 Shadow Claw, TM69 Rock Polish, TM71 Stone Edge, TM76 Stealth Rock, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM93 Cut, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Tackle @ 1
-	Harden @ 1
-	Metal Claw @ 1
-	Rock Tomb @ 1
-	Roar @ 12
-	Headbutt @ 16
-	Protect @ 20
-	Rock Slide @ 24
-	Iron Head @ 28
-	Metal Sound @ 35
-	Take Down @ 40
-	Autotomize @ 46
-	Iron Tail @ 52
-	Iron Defense @ 58
-	Heavy Slam @ 64
-	Double-Edge @ 70
-	Metal Burst @ 76
-
-Aggron - 70/110/180/60/60/50 Steel/Rock
-TM Moves: TM01 Focus Punch, TM02 Dragon Claw, TM03 Water Pulse, TM05 Roar, TM11 Sunny Day, TM12 Taunt, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM22 Solar Beam, TM23 Iron Tail, TM24 Thunderbolt, TM25 Thunder, TM26 Earthquake, TM28 Dig, TM31 Brick Break, TM32 Double Team, TM34 Shock Wave, TM35 Flamethrower, TM37 Sandstorm, TM38 Fire Blast, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM52 Focus Blast, TM56 Fling, TM58 Endure, TM59 Dragon Pulse, TM65 Shadow Claw, TM66 Payback, TM68 Giga Impact, TM69 Rock Polish, TM71 Stone Edge, TM72 Avalanche, TM73 Thunder Wave, TM76 Stealth Rock, TM79 Dark Pulse, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM91 Flash Cannon, TM93 Cut, TM95 Surf, TM96 Strength, TM98 Rock Smash, TM100 Rock Climb
-Learned Moves:
-	Tackle @ 1
-	Harden @ 1
-	Metal Claw @ 1
-	Rock Tomb @ 1
-	Roar @ 12
-	Headbutt @ 16
-	Protect @ 20
-	Rock Slide @ 24
-	Iron Head @ 28
-	Metal Sound @ 35
-	Take Down @ 40
-	Autotomize @ 48
-	Iron Tail @ 56
-	Iron Defense @ 64
-	Heavy Slam @ 72
-	Double-Edge @ 80
-	Metal Burst @ 88
-
-Meditite - 30/40/55/40/55/60 Fighting/Psychic
-Evolution(s): 4,0,308,0,37
-Egg Moves: Fire Punch, Thunder Punch, Ice Punch, Fake Out, Baton Pass, Dynamic Punch, Power Swap, Guard Swap, Psycho Cut, Bullet Punch, Quick Guard
-TM Moves: TM01 Focus Punch, TM04 Calm Mind, TM08 Bulk Up, TM10 Work Up, TM11 Sunny Day, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM27 Low Sweep, TM29 Psychic, TM30 Shadow Ball, TM31 Brick Break, TM32 Double Team, TM33 Reflect, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM52 Focus Blast, TM56 Fling, TM58 Endure, TM60 Drain Punch, TM67 Recycle, TM70 Flash, TM77 Psych Up, TM80 Rock Slide, TM82 Sleep Talk, TM84 Poison Jab, TM85 Dream Eater, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Pound @ 1
-	Low Kick @ 4
-	Confusion @ 7
-	Detect @ 9
-	Endure @ 12
-	Feint @ 15
-	Force Palm @ 17
-	Psybeam @ 20
-	Calm Mind @ 23
-	Mind Reader @ 25
-	High Jump Kick @ 28
-	Psych Up @ 31
-	Acupressure @ 33
-	Power Trick @ 36
-	Reversal @ 39
-	Recover @ 41
-	Counter @ 44
-
-Medicham - 60/60/75/60/75/80 Fighting/Psychic
-TM Moves: TM01 Focus Punch, TM04 Calm Mind, TM08 Bulk Up, TM10 Work Up, TM11 Sunny Day, TM15 Hyper Beam, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM27 Low Sweep, TM29 Psychic, TM30 Shadow Ball, TM31 Brick Break, TM32 Double Team, TM33 Reflect, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM52 Focus Blast, TM53 Energy Ball, TM56 Fling, TM58 Endure, TM60 Drain Punch, TM67 Recycle, TM68 Giga Impact, TM70 Flash, TM77 Psych Up, TM80 Rock Slide, TM82 Sleep Talk, TM84 Poison Jab, TM85 Dream Eater, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Zen Headbutt @ 1
-	Fire Punch @ 1
-	Thunder Punch @ 1
-	Ice Punch @ 1
-	Pound @ 1
-	Confusion @ 1
-	Detect @ 1
-	Low Kick @ 4
-	Confusion @ 7
-	Detect @ 9
-	Endure @ 12
-	Feint @ 15
-	Force Palm @ 17
-	Psybeam @ 20
-	Calm Mind @ 23
-	Mind Reader @ 25
-	High Jump Kick @ 28
-	Psych Up @ 31
-	Acupressure @ 33
-	Power Trick @ 36
-	Reversal @ 42
-	Recover @ 47
-	Counter @ 53
-
-Electrike - 40/45/40/65/40/65 Electric/Electric
-Evolution(s): 4,0,310,0,26
-Egg Moves: Headbutt, Curse, Switcheroo, Spark, Crunch, Uproar, Swift, Discharge, Ice Fang, Fire Fang, Thunder Fang, Electro Ball, Eerie Impulse
-TM Moves: TM05 Roar, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM24 Thunderbolt, TM25 Thunder, TM32 Double Team, TM34 Shock Wave, TM35 Flamethrower, TM42 Facade, TM43 Volt Switch, TM44 Rest, TM45 Attract, TM46 Thief, TM57 Charge Beam, TM58 Endure, TM70 Flash, TM73 Thunder Wave, TM78 Snarl, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute, TM96 Strength
-Learned Moves:
-	Tackle @ 1
-	Thunder Wave @ 1
-	Leer @ 4
-	Howl @ 8
-	Quick Attack @ 12
-	Shock Wave @ 16
-	Bite @ 20
-	Thunder Fang @ 24
-	Roar @ 28
-	Discharge @ 32
-	Charge @ 36
-	Wild Charge @ 40
-	Thunder @ 44
-
-Manectric - 70/75/60/105/60/105 Electric/Electric
-TM Moves: TM05 Roar, TM15 Hyper Beam, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM24 Thunderbolt, TM25 Thunder, TM32 Double Team, TM34 Shock Wave, TM35 Flamethrower, TM42 Facade, TM43 Volt Switch, TM44 Rest, TM45 Attract, TM46 Thief, TM50 Overheat, TM57 Charge Beam, TM58 Endure, TM68 Giga Impact, TM70 Flash, TM73 Thunder Wave, TM78 Snarl, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute, TM96 Strength
-Learned Moves:
-	Fire Fang @ 1
-	Tackle @ 1
-	Thunder Wave @ 1
-	Leer @ 1
-	Howl @ 1
-	Quick Attack @ 12
-	Shock Wave @ 16
-	Bite @ 20
-	Thunder Fang @ 24
-	Roar @ 30
-	Discharge @ 36
-	Charge @ 42
-	Wild Charge @ 48
-	Thunder @ 54
-	Electric Terrain @ 60
-
-Plusle - 60/50/40/85/75/95 Electric/Electric
-Egg Moves: Wish, Sing, Sweet Kiss, Discharge, Charm, Fake Tears, Tearful Look
-TM Moves: TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM24 Thunderbolt, TM25 Thunder, TM32 Double Team, TM34 Shock Wave, TM42 Facade, TM43 Volt Switch, TM44 Rest, TM45 Attract, TM48 Skill Swap, TM56 Fling, TM57 Charge Beam, TM58 Endure, TM63 Nasty Plot, TM70 Flash, TM73 Thunder Wave, TM82 Sleep Talk, TM86 Grass Knot, TM87 Swagger, TM90 Substitute
-Learned Moves:
-	Nuzzle @ 1
-	Play Nice @ 1
-	Growl @ 1
-	Thunder Wave @ 1
-	Quick Attack @ 1
-	Helping Hand @ 4
-	Spark @ 7
-	Encore @ 10
-	Skill Swap @ 13
-	Swift @ 16
-	Electro Ball @ 19
-	Copycat @ 22
-	Charm @ 25
-	Charge @ 28
-	Discharge @ 31
-	Baton Pass @ 34
-	Agility @ 37
-	Last Resort @ 40
-	Thunder @ 43
-	Nasty Plot @ 46
-	Entrainment @ 49
-
-Minun - 60/40/50/75/85/95 Electric/Electric
-Egg Moves: Wish, Sing, Sweet Kiss, Discharge, Charm, Fake Tears, Tearful Look
-TM Moves: TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM24 Thunderbolt, TM25 Thunder, TM32 Double Team, TM34 Shock Wave, TM42 Facade, TM43 Volt Switch, TM44 Rest, TM45 Attract, TM56 Fling, TM57 Charge Beam, TM58 Endure, TM63 Nasty Plot, TM70 Flash, TM73 Thunder Wave, TM82 Sleep Talk, TM86 Grass Knot, TM87 Swagger, TM90 Substitute
-Learned Moves:
-	Nuzzle @ 1
-	Play Nice @ 1
-	Growl @ 1
-	Thunder Wave @ 1
-	Quick Attack @ 1
-	Helping Hand @ 4
-	Spark @ 7
-	Encore @ 10
-	Switcheroo @ 13
-	Swift @ 16
-	Electro Ball @ 19
-	Copycat @ 22
-	Fake Tears @ 25
-	Charge @ 28
-	Discharge @ 31
-	Baton Pass @ 34
-	Agility @ 37
-	Last Resort @ 40
-	Thunder @ 43
-	Nasty Plot @ 46
-	Entrainment @ 49
-
-Volbeat - 65/73/75/47/85/85 Bug/Bug
-Egg Moves: Baton Pass, Trick, Encore, Seismic Toss, Lunge
-TM Moves: TM01 Focus Punch, TM03 Water Pulse, TM11 Sunny Day, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM19 Giga Drain, TM21 Dazzling Gleam, TM22 Solar Beam, TM24 Thunderbolt, TM25 Thunder, TM30 Shadow Ball, TM31 Brick Break, TM32 Double Team, TM34 Shock Wave, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM51 Roost, TM56 Fling, TM57 Charge Beam, TM58 Endure, TM62 Bug Buzz, TM70 Flash, TM73 Thunder Wave, TM77 Psych Up, TM82 Sleep Talk, TM87 Swagger, TM89 U-turn, TM90 Substitute
-Learned Moves:
-	Play Nice @ 1
-	Tackle @ 1
-	Double Team @ 5
-	Confuse Ray @ 8
-	Quick Attack @ 12
-	Struggle Bug @ 15
-	Moonlight @ 19
-	Tail Glow @ 22
-	Encore @ 26
-	Protect @ 29
-	Zen Headbutt @ 33
-	Helping Hand @ 36
-	Bug Buzz @ 40
-	Play Rough @ 43
-	Double-Edge @ 47
-	Infestation @ 50
-
-Illumise - 65/47/75/73/85/85 Bug/Bug
-Egg Moves: Baton Pass, Growth, Encore, Fake Tears, Confuse Ray, Aromatherapy
-TM Moves: TM01 Focus Punch, TM03 Water Pulse, TM11 Sunny Day, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM19 Giga Drain, TM21 Dazzling Gleam, TM22 Solar Beam, TM24 Thunderbolt, TM25 Thunder, TM30 Shadow Ball, TM31 Brick Break, TM32 Double Team, TM34 Shock Wave, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM51 Roost, TM56 Fling, TM57 Charge Beam, TM58 Endure, TM62 Bug Buzz, TM70 Flash, TM73 Thunder Wave, TM77 Psych Up, TM82 Sleep Talk, TM87 Swagger, TM89 U-turn, TM90 Substitute
-Learned Moves:
-	Play Nice @ 1
-	Tackle @ 1
-	Sweet Scent @ 5
-	Charm @ 9
-	Quick Attack @ 12
-	Struggle Bug @ 15
-	Moonlight @ 19
-	Wish @ 22
-	Encore @ 26
-	Flatter @ 29
-	Zen Headbutt @ 33
-	Helping Hand @ 36
-	Bug Buzz @ 40
-	Play Rough @ 43
-	Covet @ 47
-	Infestation @ 50
-
-Roselia - 50/60/45/100/80/65 Grass/Poison
-Evolution(s): 8,107,407,0,0
-Egg Moves: Cotton Spore, Sleep Powder, Razor Leaf, Extrasensory, Life Dew, Spikes, Synthesis, Pin Missile, Mind Reader, Leaf Storm, Seed Bomb, Power Whip
-TM Moves: TM06 Toxic, TM09 Bullet Seed, TM11 Sunny Day, TM17 Protect, TM18 Rain Dance, TM19 Giga Drain, TM21 Dazzling Gleam, TM22 Solar Beam, TM30 Shadow Ball, TM32 Double Team, TM36 Sludge Bomb, TM42 Facade, TM44 Rest, TM45 Attract, TM53 Energy Ball, TM58 Endure, TM70 Flash, TM75 Swords Dance, TM77 Psych Up, TM82 Sleep Talk, TM84 Poison Jab, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM93 Cut
-Learned Moves:
-	Poison Sting @ 0
-	Poison Sting @ 1
-	Absorb @ 1
-	Growth @ 1
-	Stun Spore @ 1
-	Worry Seed @ 1
-	Mega Drain @ 5
-	Leech Seed @ 10
-	Magical Leaf @ 15
-	Toxic Spikes @ 20
-	Sweet Scent @ 25
-	Giga Drain @ 30
-	Synthesis @ 35
-	Toxic @ 40
-	Petal Blizzard @ 45
-	Aromatherapy @ 50
-	Ingrain @ 55
-	Petal Dance @ 60
-
-Gulpin - 70/43/53/43/53/40 Poison/Poison
-Evolution(s): 4,0,317,0,26
-Egg Moves: Acid Armor, Smog, Pain Split, Curse, Destiny Bond, Mud-Slap, Gunk Shot, Venom Drench
-TM Moves: TM03 Water Pulse, TM06 Toxic, TM09 Bullet Seed, TM11 Sunny Day, TM13 Ice Beam, TM17 Protect, TM18 Rain Dance, TM22 Solar Beam, TM30 Shadow Ball, TM32 Double Team, TM34 Shock Wave, TM36 Sludge Bomb, TM42 Facade, TM44 Rest, TM45 Attract, TM58 Endure, TM64 Explosion, TM82 Sleep Talk, TM85 Dream Eater, TM87 Swagger, TM90 Substitute, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Pound @ 1
-	Yawn @ 5
-	Poison Gas @ 8
-	Sludge @ 10
-	Amnesia @ 12
-	Acid Spray @ 17
-	Encore @ 20
-	Toxic @ 25
-	Stockpile @ 28
-	Spit Up @ 28
-	Swallow @ 28
-	Sludge Bomb @ 33
-	Gastro Acid @ 36
-	Belch @ 41
-	Pain Split @ 44
-	Gunk Shot @ 49
-
-Swalot - 100/73/83/73/83/55 Poison/Poison
-TM Moves: TM03 Water Pulse, TM06 Toxic, TM09 Bullet Seed, TM11 Sunny Day, TM13 Ice Beam, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM22 Solar Beam, TM26 Earthquake, TM30 Shadow Ball, TM32 Double Team, TM34 Shock Wave, TM36 Sludge Bomb, TM42 Facade, TM44 Rest, TM45 Attract, TM58 Endure, TM64 Explosion, TM68 Giga Impact, TM82 Sleep Talk, TM83 Bulldoze, TM85 Dream Eater, TM87 Swagger, TM90 Substitute, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Body Slam @ 0
-	Body Slam @ 1
-	Venom Drench @ 1
-	Gunk Shot @ 1
-	Pound @ 1
-	Yawn @ 1
-	Poison Gas @ 1
-	Sludge @ 1
-	Yawn @ 5
-	Poison Gas @ 8
-	Sludge @ 10
-	Amnesia @ 12
-	Acid Spray @ 17
-	Encore @ 20
-	Toxic @ 25
-	Stockpile @ 30
-	Spit Up @ 30
-	Swallow @ 30
-	Sludge Bomb @ 37
-	Gastro Acid @ 42
-	Belch @ 49
-	Pain Split @ 54
-	Gunk Shot @ 61
-
-Carvanha - 45/90/20/65/20/65 Water/Dark
-Evolution(s): 4,0,319,0,30
-Egg Moves: Ancient Power, Destiny Bond, Double-Edge, Thrash, Hydro Pump, Swift
-TM Moves: TM03 Water Pulse, TM07 Hail, TM12 Taunt, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM32 Double Team, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM49 Scald, TM55 Brine, TM58 Endure, TM66 Payback, TM78 Snarl, TM79 Dark Pulse, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute, TM95 Surf, TM99 Waterfall
-Learned Moves:
-	Aqua Jet @ 1
-	Leer @ 1
-	Poison Fang @ 4
-	Focus Energy @ 8
-	Scary Face @ 12
-	Bite @ 16
-	Ice Fang @ 20
-	Screech @ 24
-	Swagger @ 28
-	Crunch @ 32
-	Agility @ 36
-	Liquidation @ 40
-	Take Down @ 44
-
-Sharpedo - 70/120/40/95/40/95 Water/Dark
-TM Moves: TM03 Water Pulse, TM05 Roar, TM07 Hail, TM12 Taunt, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM26 Earthquake, TM32 Double Team, TM39 Rock Tomb, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM49 Scald, TM55 Brine, TM58 Endure, TM66 Payback, TM68 Giga Impact, TM72 Avalanche, TM78 Snarl, TM79 Dark Pulse, TM82 Sleep Talk, TM83 Bulldoze, TM84 Poison Jab, TM87 Swagger, TM90 Substitute, TM95 Surf, TM96 Strength, TM98 Rock Smash, TM99 Waterfall
-Learned Moves:
-	Slash @ 0
-	Slash @ 1
-	Night Slash @ 1
-	Aqua Jet @ 1
-	Leer @ 1
-	Poison Fang @ 1
-	Focus Energy @ 1
-	Scary Face @ 12
-	Bite @ 16
-	Ice Fang @ 20
-	Screech @ 24
-	Swagger @ 28
-	Crunch @ 34
-	Agility @ 40
-	Liquidation @ 46
-	Take Down @ 52
-
-Wailmer - 130/70/35/70/35/60 Water/Water
-Evolution(s): 4,0,321,0,40
-Egg Moves: Double-Edge, Thrash, Curse, Fissure, Tickle, Defense Curl, Rollout, Aqua Ring, Soak, Snore, Body Slam, Zen Headbutt, Clear Smog
-TM Moves: TM03 Water Pulse, TM05 Roar, TM07 Hail, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM26 Earthquake, TM32 Double Team, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM49 Scald, TM55 Brine, TM58 Endure, TM72 Avalanche, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM95 Surf, TM96 Strength, TM98 Rock Smash, TM99 Waterfall
-Learned Moves:
-	Splash @ 1
-	Growl @ 3
-	Astonish @ 6
-	Water Gun @ 12
-	Mist @ 15
-	Water Pulse @ 18
-	Heavy Slam @ 21
-	Brine @ 24
-	Whirlpool @ 27
-	Dive @ 30
-	Bounce @ 33
-	Body Slam @ 36
-	Rest @ 39
-	Amnesia @ 42
-	Hydro Pump @ 45
-	Water Spout @ 48
-
-Wailord - 170/90/45/90/45/60 Water/Water
-TM Moves: TM03 Water Pulse, TM05 Roar, TM07 Hail, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM26 Earthquake, TM32 Double Team, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM49 Scald, TM55 Brine, TM58 Endure, TM68 Giga Impact, TM72 Avalanche, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM95 Surf, TM96 Strength, TM98 Rock Smash, TM99 Waterfall
-Learned Moves:
-	Soak @ 1
-	Noble Roar @ 1
-	Splash @ 1
-	Growl @ 1
-	Astonish @ 1
-	Water Gun @ 1
-	Mist @ 15
-	Water Pulse @ 18
-	Heavy Slam @ 21
-	Brine @ 24
-	Whirlpool @ 27
-	Dive @ 30
-	Bounce @ 33
-	Body Slam @ 36
-	Rest @ 39
-	Amnesia @ 44
-	Hydro Pump @ 49
-	Water Spout @ 54
-
-Numel - 60/60/40/65/45/35 Fire/Ground
-Evolution(s): 4,0,323,0,33
-Egg Moves: Howl, Scary Face, Body Slam, Rollout, Defense Curl, Stomp, Yawn, Ancient Power, Heat Wave, Stockpile, Swallow, Spit Up, Iron Head, Growth, Heavy Slam
-TM Moves: TM11 Sunny Day, TM17 Protect, TM26 Earthquake, TM28 Dig, TM32 Double Team, TM35 Flamethrower, TM37 Sandstorm, TM38 Fire Blast, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM50 Overheat, TM58 Endure, TM61 Will-O-Wisp, TM76 Stealth Rock, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Growl @ 1
-	Tackle @ 1
-	Ember @ 5
-	Focus Energy @ 8
-	Bulldoze @ 12
-	Flame Wheel @ 15
-	Amnesia @ 19
-	Lava Plume @ 22
-	Earth Power @ 26
-	Curse @ 29
-	Take Down @ 31
-	Yawn @ 36
-	Earthquake @ 40
-	Flamethrower @ 43
-	Double-Edge @ 47
-
-Camerupt - 70/100/70/105/75/40 Fire/Ground
-TM Moves: TM05 Roar, TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM22 Solar Beam, TM26 Earthquake, TM28 Dig, TM32 Double Team, TM35 Flamethrower, TM37 Sandstorm, TM38 Fire Blast, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM50 Overheat, TM58 Endure, TM61 Will-O-Wisp, TM64 Explosion, TM68 Giga Impact, TM69 Rock Polish, TM71 Stone Edge, TM76 Stealth Rock, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM91 Flash Cannon, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Rock Slide @ 0
-	Rock Slide @ 1
-	Fissure @ 1
-	Eruption @ 1
-	Growl @ 1
-	Tackle @ 1
-	Ember @ 1
-	Focus Energy @ 1
-	Flamethrower @ 1
-	Double-Edge @ 1
-	Ember @ 8
-	Focus Energy @ 8
-	Bulldoze @ 12
-	Flame Wheel @ 15
-	Amnesia @ 19
-	Lava Plume @ 22
-	Earth Power @ 26
-	Curse @ 29
-	Take Down @ 31
-	Yawn @ 39
-	Earthquake @ 46
-	Eruption @ 52
-	Fissure @ 59
-
-Torkoal - 70/85/140/85/70/20 Fire/Fire
-Egg Moves: Yawn, Fissure, Skull Bash, Flail, Ancient Power, Eruption, Clear Smog, Superpower
-TM Moves: TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM22 Solar Beam, TM23 Iron Tail, TM26 Earthquake, TM32 Double Team, TM35 Flamethrower, TM36 Sludge Bomb, TM38 Fire Blast, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM50 Overheat, TM58 Endure, TM61 Will-O-Wisp, TM64 Explosion, TM68 Giga Impact, TM71 Stone Edge, TM74 Gyro Ball, TM76 Stealth Rock, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Smog @ 1
-	Ember @ 1
-	Withdraw @ 4
-	Rapid Spin @ 8
-	Smokescreen @ 12
-	Clear Smog @ 16
-	Flame Wheel @ 20
-	Protect @ 24
-	Lava Plume @ 28
-	Body Slam @ 32
-	Iron Defense @ 36
-	Flamethrower @ 40
-	Curse @ 44
-	Heat Wave @ 48
-	Amnesia @ 52
-	Inferno @ 56
-	Shell Smash @ 60
-	Eruption @ 64
-
-Spoink - 60/25/35/70/80/60 Psychic/Psychic
-Evolution(s): 4,0,326,0,32
-Egg Moves: Future Sight, Extrasensory, Trick, Zen Headbutt, Amnesia, Mirror Coat, Whirlwind, Simple Beam
-TM Moves: TM04 Calm Mind, TM11 Sunny Day, TM12 Taunt, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM29 Psychic, TM30 Shadow Ball, TM32 Double Team, TM33 Reflect, TM34 Shock Wave, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM48 Skill Swap, TM57 Charge Beam, TM58 Endure, TM66 Payback, TM67 Recycle, TM70 Flash, TM73 Thunder Wave, TM77 Psych Up, TM82 Sleep Talk, TM85 Dream Eater, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM92 Trick Room
-Learned Moves:
-	Splash @ 1
-	Confusion @ 7
-	Growl @ 10
-	Psybeam @ 14
-	Psych Up @ 15
-	Confuse Ray @ 18
-	Magic Coat @ 21
-	Zen Headbutt @ 26
-	Power Gem @ 29
-	Rest @ 29
-	Snore @ 33
-	Psyshock @ 38
-	Payback @ 40
-	Psychic @ 44
-	Bounce @ 50
-
-Grumpig - 80/45/65/90/110/80 Psychic/Psychic
-TM Moves: TM01 Focus Punch, TM04 Calm Mind, TM11 Sunny Day, TM12 Taunt, TM15 Hyper Beam, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM29 Psychic, TM30 Shadow Ball, TM31 Brick Break, TM32 Double Team, TM33 Reflect, TM34 Shock Wave, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM48 Skill Swap, TM52 Focus Blast, TM53 Energy Ball, TM56 Fling, TM57 Charge Beam, TM58 Endure, TM60 Drain Punch, TM63 Nasty Plot, TM66 Payback, TM67 Recycle, TM68 Giga Impact, TM70 Flash, TM73 Thunder Wave, TM77 Psych Up, TM82 Sleep Talk, TM83 Bulldoze, TM85 Dream Eater, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM92 Trick Room
-Learned Moves:
-	Teeter Dance @ 0
-	Teeter Dance @ 1
-	Belch @ 1
-	Splash @ 1
-	Confusion @ 7
-	Growl @ 10
-	Psybeam @ 14
-	Psych Up @ 15
-	Confuse Ray @ 18
-	Magic Coat @ 21
-	Zen Headbutt @ 26
-	Power Gem @ 29
-	Rest @ 35
-	Snore @ 35
-	Psyshock @ 42
-	Payback @ 46
-	Psychic @ 52
-	Bounce @ 60
-
-Spinda - 60/60/60/60/60/60 Normal/Normal
-Egg Moves: Encore, Disable, Baton Pass, Wish, Trick, Fake Out, Role Play, Psycho Cut, Fake Tears, Rapid Spin, Icy Wind, Psycho Shift, Guard Split
-TM Moves: TM01 Focus Punch, TM03 Water Pulse, TM04 Calm Mind, TM10 Work Up, TM11 Sunny Day, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM28 Dig, TM29 Psychic, TM30 Shadow Ball, TM31 Brick Break, TM32 Double Team, TM34 Shock Wave, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM48 Skill Swap, TM56 Fling, TM58 Endure, TM60 Drain Punch, TM67 Recycle, TM70 Flash, TM77 Psych Up, TM80 Rock Slide, TM82 Sleep Talk, TM85 Dream Eater, TM87 Swagger, TM90 Substitute, TM92 Trick Room, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Tackle @ 1
-	Copycat @ 5
-	Teeter Dance @ 10
-	Psybeam @ 14
-	Hypnosis @ 19
-	Body Slam @ 23
-	Sucker Punch @ 28
-	Teeter Dance @ 32
-	Uproar @ 37
-	Psych Up @ 41
-	Double-Edge @ 46
-	Flail @ 50
-	Thrash @ 55
-
-Trapinch - 45/100/45/45/45/10 Ground/Ground
-Evolution(s): 4,0,329,0,35
-Egg Moves: Quick Attack, Gust, Flail, Fury Cutter, Bug Bite, Feint, Focus Energy, Mud Shot, Earth Power
-TM Moves: TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM19 Giga Drain, TM22 Solar Beam, TM26 Earthquake, TM28 Dig, TM32 Double Team, TM37 Sandstorm, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM58 Endure, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Sand Attack @ 1
-	Astonish @ 1
-	Laser Focus @ 4
-	Bite @ 8
-	Mud-Slap @ 12
-	Sand Tomb @ 16
-	Bulldoze @ 20
-	Dig @ 24
-	Crunch @ 28
-	Sandstorm @ 32
-	Earth Power @ 36
-	Earthquake @ 40
-	Superpower @ 44
-	Fissure @ 48
-
-Vibrava - 50/70/50/50/50/70 Ground/Dragon
-Evolution(s): 4,0,330,0,45
-Special Tutor Moves: Draco Meteor
-TM Moves: TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM19 Giga Drain, TM22 Solar Beam, TM26 Earthquake, TM28 Dig, TM32 Double Team, TM37 Sandstorm, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM47 Steel Wing, TM51 Roost, TM58 Endure, TM59 Dragon Pulse, TM62 Bug Buzz, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM89 U-turn, TM90 Substitute, TM94 Fly, TM96 Strength, TM97 Defog, TM98 Rock Smash
-Learned Moves:
-	Dragon Breath @ 0
-	Dragon Breath @ 1
-	Laser Focus @ 1
-	Bulldoze @ 1
-	Dig @ 1
-	Crunch @ 1
-	Superpower @ 1
-	Fissure @ 1
-	Sand Attack @ 1
-	Astonish @ 1
-	Supersonic @ 1
-	Bite @ 1
-	Mud-Slap @ 12
-	Sand Tomb @ 16
-	Dragon Tail @ 20
-	Screech @ 24
-	Bug Buzz @ 28
-	Sandstorm @ 32
-	Earth Power @ 38
-	Earthquake @ 44
-	Uproar @ 50
-	Dragon Rush @ 56
-	Boomburst @ 62
-
-Flygon - 80/100/80/80/80/100 Ground/Dragon
-Special Tutor Moves: Draco Meteor
-TM Moves: TM02 Dragon Claw, TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM19 Giga Drain, TM22 Solar Beam, TM23 Iron Tail, TM26 Earthquake, TM28 Dig, TM32 Double Team, TM35 Flamethrower, TM37 Sandstorm, TM38 Fire Blast, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM47 Steel Wing, TM51 Roost, TM58 Endure, TM59 Dragon Pulse, TM62 Bug Buzz, TM68 Giga Impact, TM71 Stone Edge, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM89 U-turn, TM90 Substitute, TM94 Fly, TM96 Strength, TM97 Defog, TM98 Rock Smash
-Learned Moves:
-	Dragon Claw @ 0
-	Outrage @ 1
-	Dragon Claw @ 1
-	Dragon Breath @ 1
-	Dragon Dance @ 1
-	Feint @ 1
-	Laser Focus @ 1
-	Bulldoze @ 1
-	Dig @ 1
-	Crunch @ 1
-	Superpower @ 1
-	Fissure @ 1
-	Sand Attack @ 1
-	Astonish @ 1
-	Supersonic @ 1
-	Bite @ 1
-	Mud-Slap @ 12
-	Sand Tomb @ 16
-	Dragon Tail @ 20
-	Screech @ 24
-	Bug Buzz @ 28
-	Sandstorm @ 32
-	Earth Power @ 38
-	Earthquake @ 44
-	Uproar @ 52
-	Dragon Rush @ 60
-	Boomburst @ 68
-
-Cacnea - 50/85/40/85/40/35 Grass/Grass
-Evolution(s): 4,0,332,0,32
-Egg Moves: Acid, Teeter Dance, Dynamic Punch, Counter, Low Kick, Magical Leaf, Seed Bomb, Disable, Block, Worry Seed, Switcheroo, Fell Stinger, Belch, Power-Up Punch
-TM Moves: TM01 Focus Punch, TM09 Bullet Seed, TM11 Sunny Day, TM17 Protect, TM19 Giga Drain, TM22 Solar Beam, TM31 Brick Break, TM32 Double Team, TM37 Sandstorm, TM42 Facade, TM44 Rest, TM45 Attract, TM53 Energy Ball, TM56 Fling, TM58 Endure, TM60 Drain Punch, TM63 Nasty Plot, TM66 Payback, TM70 Flash, TM75 Swords Dance, TM79 Dark Pulse, TM82 Sleep Talk, TM84 Poison Jab, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM93 Cut
-Learned Moves:
-	Poison Sting @ 1
-	Leer @ 1
-	Absorb @ 4
-	Growth @ 7
-	Leech Seed @ 10
-	Sand Attack @ 13
-	Poison Jab @ 16
-	Assurance @ 19
-	Ingrain @ 22
-	Payback @ 26
-	Spikes @ 30
-	Sucker Punch @ 34
-	Pin Missile @ 38
-	Energy Ball @ 42
-	Cotton Spore @ 46
-	Sandstorm @ 50
-	Destiny Bond @ 54
-
-Cacturne - 70/115/60/115/60/55 Grass/Dark
-TM Moves: TM01 Focus Punch, TM09 Bullet Seed, TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM19 Giga Drain, TM22 Solar Beam, TM31 Brick Break, TM32 Double Team, TM37 Sandstorm, TM42 Facade, TM44 Rest, TM45 Attract, TM52 Focus Blast, TM53 Energy Ball, TM56 Fling, TM58 Endure, TM60 Drain Punch, TM63 Nasty Plot, TM66 Payback, TM68 Giga Impact, TM70 Flash, TM75 Swords Dance, TM79 Dark Pulse, TM82 Sleep Talk, TM84 Poison Jab, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM93 Cut, TM96 Strength
-Learned Moves:
-	Spiky Shield @ 0
-	Spiky Shield @ 1
-	Destiny Bond @ 1
-	Revenge @ 1
-	Poison Sting @ 1
-	Leer @ 1
-	Absorb @ 1
-	Growth @ 1
-	Absorb @ 4
-	Growth @ 7
-	Leech Seed @ 10
-	Sand Attack @ 13
-	Poison Jab @ 16
-	Assurance @ 19
-	Ingrain @ 22
-	Payback @ 26
-	Spikes @ 30
-	Sucker Punch @ 35
-	Pin Missile @ 38
-	Energy Ball @ 44
-	Cotton Spore @ 49
-	Sandstorm @ 54
-	Destiny Bond @ 59
-
-Swablu - 45/40/60/40/75/50 Normal/Flying
-Evolution(s): 4,0,334,0,35
-Egg Moves: Dragon Rush, Feather Dance, Haze, Tailwind, Astonish, Agility, Power Swap, Hyper Voice, Play Rough
-TM Moves: TM11 Sunny Day, TM13 Ice Beam, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM21 Dazzling Gleam, TM22 Solar Beam, TM32 Double Team, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM47 Steel Wing, TM51 Roost, TM54 False Swipe, TM58 Endure, TM59 Dragon Pulse, TM77 Psych Up, TM82 Sleep Talk, TM85 Dream Eater, TM87 Swagger, TM88 Pluck, TM90 Substitute, TM94 Fly
-Learned Moves:
-	Peck @ 1
-	Growl @ 1
-	Disarming Voice @ 4
-	Mist @ 8
-	Fury Attack @ 12
-	Round @ 16
-	Dragon Breath @ 20
-	Safeguard @ 24
-	Sing @ 28
-	Cotton Guard @ 32
-	Take Down @ 36
-	Moonblast @ 40
-	Perish Song @ 44
-
-Altaria - 75/70/90/70/105/80 Dragon/Flying
-Special Tutor Moves: Draco Meteor
-TM Moves: TM02 Dragon Claw, TM05 Roar, TM11 Sunny Day, TM13 Ice Beam, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM21 Dazzling Gleam, TM22 Solar Beam, TM23 Iron Tail, TM26 Earthquake, TM32 Double Team, TM35 Flamethrower, TM38 Fire Blast, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM47 Steel Wing, TM51 Roost, TM54 False Swipe, TM58 Endure, TM59 Dragon Pulse, TM68 Giga Impact, TM77 Psych Up, TM82 Sleep Talk, TM83 Bulldoze, TM85 Dream Eater, TM87 Swagger, TM88 Pluck, TM90 Substitute, TM94 Fly, TM98 Rock Smash
-Learned Moves:
-	Dragon Pulse @ 0
-	Hurricane @ 1
-	Dragon Pulse @ 1
-	Pluck @ 1
-	Peck @ 1
-	Growl @ 1
-	Disarming Voice @ 1
-	Mist @ 1
-	Fury Attack @ 12
-	Round @ 16
-	Dragon Breath @ 20
-	Safeguard @ 24
-	Sing @ 28
-	Cotton Guard @ 32
-	Take Down @ 38
-	Moonblast @ 44
-	Perish Song @ 50
-	Sky Attack @ 56
-
-Zangoose - 73/115/60/60/60/90 Normal/Normal
-Egg Moves: Flail, Double Kick, Counter, Curse, Fury Swipes, Night Slash, Metal Claw, Double Hit, Disable, Final Gambit, Feint, Quick Guard, Belly Drum
-TM Moves: TM01 Focus Punch, TM03 Water Pulse, TM05 Roar, TM10 Work Up, TM11 Sunny Day, TM12 Taunt, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM19 Giga Drain, TM22 Solar Beam, TM23 Iron Tail, TM24 Thunderbolt, TM25 Thunder, TM28 Dig, TM30 Shadow Ball, TM31 Brick Break, TM32 Double Team, TM34 Shock Wave, TM35 Flamethrower, TM38 Fire Blast, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM52 Focus Blast, TM54 False Swipe, TM56 Fling, TM58 Endure, TM65 Shadow Claw, TM66 Payback, TM73 Thunder Wave, TM75 Swords Dance, TM80 Rock Slide, TM81 X-Scissor, TM82 Sleep Talk, TM84 Poison Jab, TM87 Swagger, TM90 Substitute, TM96 Strength, TM98 Rock Smash, TM100 Rock Climb
-Learned Moves:
-	Scratch @ 1
-	Leer @ 1
-	Quick Attack @ 5
-	Fury Cutter @ 8
-	Hone Claws @ 12
-	Aerial Ace @ 15
-	Slash @ 19
-	Revenge @ 22
-	Crush Claw @ 26
-	False Swipe @ 29
-	Facade @ 33
-	Detect @ 36
-	X-Scissor @ 40
-	Taunt @ 43
-	Swords Dance @ 47
-	Close Combat @ 50
-
-Seviper - 73/100/60/100/60/65 Poison/Poison
-Egg Moves: Stockpile, Swallow, Spit Up, Body Slam, Scary Face, Assurance, Night Slash, Switcheroo, Final Gambit
-TM Moves: TM11 Sunny Day, TM12 Taunt, TM17 Protect, TM18 Rain Dance, TM19 Giga Drain, TM23 Iron Tail, TM26 Earthquake, TM28 Dig, TM32 Double Team, TM35 Flamethrower, TM36 Sludge Bomb, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM58 Endure, TM66 Payback, TM75 Swords Dance, TM79 Dark Pulse, TM81 X-Scissor, TM82 Sleep Talk, TM83 Bulldoze, TM84 Poison Jab, TM87 Swagger, TM90 Substitute, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Wrap @ 1
-	Swagger @ 1
-	Bite @ 4
-	Lick @ 6
-	Poison Tail @ 9
-	Feint @ 11
-	Screech @ 14
-	Venoshock @ 16
-	Glare @ 19
-	Poison Fang @ 21
-	Venom Drench @ 24
-	Night Slash @ 26
-	Gastro Acid @ 29
-	Poison Jab @ 31
-	Haze @ 34
-	Swords Dance @ 36
-	Crunch @ 39
-	Belch @ 41
-	Coil @ 44
-	Sludge Bomb @ 46
-
-Lunatone - 90/55/65/95/85/70 Rock/Psychic
-TM Moves: TM04 Calm Mind, TM07 Hail, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM26 Earthquake, TM29 Psychic, TM30 Shadow Ball, TM32 Double Team, TM33 Reflect, TM37 Sandstorm, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM48 Skill Swap, TM57 Charge Beam, TM58 Endure, TM63 Nasty Plot, TM64 Explosion, TM67 Recycle, TM68 Giga Impact, TM69 Rock Polish, TM70 Flash, TM71 Stone Edge, TM74 Gyro Ball, TM76 Stealth Rock, TM77 Psych Up, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM85 Dream Eater, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM92 Trick Room
-Learned Moves:
-	Moonblast @ 1
-	Moonlight @ 1
-	Tackle @ 1
-	Harden @ 1
-	Confusion @ 1
-	Rock Throw @ 1
-	Hypnosis @ 5
-	Rock Polish @ 10
-	Rock Slide @ 15
-	Psyshock @ 20
-	Cosmic Power @ 25
-	Psychic @ 30
-	Stone Edge @ 35
-	Future Sight @ 40
-	Magic Room @ 45
-	Explosion @ 50
-
-Solrock - 90/95/85/55/65/70 Rock/Psychic
-TM Moves: TM04 Calm Mind, TM11 Sunny Day, TM15 Hyper Beam, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM22 Solar Beam, TM26 Earthquake, TM29 Psychic, TM30 Shadow Ball, TM32 Double Team, TM33 Reflect, TM35 Flamethrower, TM37 Sandstorm, TM38 Fire Blast, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM48 Skill Swap, TM50 Overheat, TM57 Charge Beam, TM58 Endure, TM61 Will-O-Wisp, TM64 Explosion, TM67 Recycle, TM68 Giga Impact, TM69 Rock Polish, TM70 Flash, TM71 Stone Edge, TM74 Gyro Ball, TM75 Swords Dance, TM76 Stealth Rock, TM77 Psych Up, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM85 Dream Eater, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM92 Trick Room
-Learned Moves:
-	Flare Blitz @ 1
-	Morning Sun @ 1
-	Tackle @ 1
-	Harden @ 1
-	Confusion @ 1
-	Rock Throw @ 1
-	Hypnosis @ 5
-	Rock Polish @ 10
-	Rock Slide @ 15
-	Zen Headbutt @ 20
-	Cosmic Power @ 25
-	Psychic @ 30
-	Stone Edge @ 35
-	Solar Beam @ 40
-	Wonder Room @ 45
-	Explosion @ 50
-
-Barboach - 50/48/43/46/41/60 Water/Ground
-Evolution(s): 4,0,340,0,30
-Egg Moves: Thrash, Spark, Flail, Take Down, Whirlpool, Hydro Pump, Dragon Dance, Earth Power, Mud Shot, Muddy Water
-TM Moves: TM03 Water Pulse, TM07 Hail, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM26 Earthquake, TM32 Double Team, TM37 Sandstorm, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM49 Scald, TM58 Endure, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM95 Surf, TM99 Waterfall
-Learned Moves:
-	Mud-Slap @ 1
-	Water Gun @ 1
-	Rest @ 6
-	Snore @ 6
-	Water Pulse @ 12
-	Amnesia @ 18
-	Aqua Tail @ 24
-	Muddy Water @ 31
-	Earthquake @ 36
-	Future Sight @ 42
-	Fissure @ 48
-
-Whiscash - 110/78/73/76/71/60 Water/Ground
-TM Moves: TM03 Water Pulse, TM07 Hail, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM26 Earthquake, TM32 Double Team, TM37 Sandstorm, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM49 Scald, TM58 Endure, TM68 Giga Impact, TM71 Stone Edge, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM95 Surf, TM96 Strength, TM98 Rock Smash, TM99 Waterfall
-Learned Moves:
-	Thrash @ 0
-	Thrash @ 1
-	Belch @ 1
-	Zen Headbutt @ 1
-	Tickle @ 1
-	Mud-Slap @ 1
-	Water Gun @ 1
-	Rest @ 1
-	Snore @ 1
-	Water Pulse @ 12
-	Amnesia @ 18
-	Aqua Tail @ 24
-	Muddy Water @ 33
-	Earthquake @ 40
-	Future Sight @ 48
-	Fissure @ 56
-
-Corphish - 43/80/65/50/35/35 Water/Water
-Evolution(s): 4,0,342,0,30
-Egg Moves: Ancient Power, Metal Claw, Double-Edge, Aqua Jet, Switcheroo, Slash, Endeavor, Body Slam, Knock Off, Superpower, Dragon Dance
-TM Moves: TM03 Water Pulse, TM07 Hail, TM12 Taunt, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM28 Dig, TM31 Brick Break, TM32 Double Team, TM36 Sludge Bomb, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM49 Scald, TM54 False Swipe, TM56 Fling, TM58 Endure, TM66 Payback, TM75 Swords Dance, TM80 Rock Slide, TM81 X-Scissor, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute, TM93 Cut, TM95 Surf, TM96 Strength, TM98 Rock Smash, TM99 Waterfall
-Learned Moves:
-	Water Gun @ 1
-	Harden @ 1
-	Leer @ 4
-	Taunt @ 8
-	Bubble Beam @ 12
-	Knock Off @ 16
-	Double Hit @ 20
-	Protect @ 24
-	Night Slash @ 28
-	Razor Shell @ 32
-	Swords Dance @ 36
-	Crunch @ 40
-	Crabhammer @ 44
-	Endeavor @ 48
-	Guillotine @ 52
-
-Crawdaunt - 63/120/85/90/55/55 Water/Dark
-TM Moves: TM03 Water Pulse, TM07 Hail, TM12 Taunt, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM28 Dig, TM31 Brick Break, TM32 Double Team, TM36 Sludge Bomb, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM49 Scald, TM54 False Swipe, TM56 Fling, TM58 Endure, TM63 Nasty Plot, TM66 Payback, TM68 Giga Impact, TM72 Avalanche, TM75 Swords Dance, TM78 Snarl, TM79 Dark Pulse, TM80 Rock Slide, TM81 X-Scissor, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute, TM93 Cut, TM95 Surf, TM96 Strength, TM98 Rock Smash, TM99 Waterfall
-Learned Moves:
-	Swift @ 0
-	Swift @ 1
-	Water Gun @ 1
-	Harden @ 1
-	Leer @ 1
-	Taunt @ 1
-	Bubble Beam @ 12
-	Knock Off @ 16
-	Double Hit @ 20
-	Protect @ 24
-	Night Slash @ 28
-	Razor Shell @ 34
-	Swords Dance @ 40
-	Crunch @ 46
-	Crabhammer @ 52
-	Endeavor @ 58
-	Guillotine @ 64
-
-Baltoy - 40/40/55/40/70/55 Ground/Psychic
-Evolution(s): 4,0,344,0,36
-TM Moves: TM04 Calm Mind, TM11 Sunny Day, TM13 Ice Beam, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM21 Dazzling Gleam, TM22 Solar Beam, TM26 Earthquake, TM28 Dig, TM29 Psychic, TM30 Shadow Ball, TM32 Double Team, TM33 Reflect, TM37 Sandstorm, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM48 Skill Swap, TM57 Charge Beam, TM58 Endure, TM64 Explosion, TM67 Recycle, TM69 Rock Polish, TM70 Flash, TM74 Gyro Ball, TM76 Stealth Rock, TM77 Psych Up, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM85 Dream Eater, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM92 Trick Room
-Learned Moves:
-	Harden @ 1
-	Mud-Slap @ 1
-	Rapid Spin @ 3
-	Confusion @ 6
-	Rock Tomb @ 9
-	Power Trick @ 12
-	Psybeam @ 15
-	Ancient Power @ 18
-	Imprison @ 21
-	Cosmic Power @ 24
-	Extrasensory @ 27
-	Earth Power @ 30
-	Self-Destruct @ 33
-	Guard Split @ 36
-	Power Split @ 36
-	Sandstorm @ 39
-	Explosion @ 42
-
-Claydol - 60/70/105/70/120/75 Ground/Psychic
-TM Moves: TM04 Calm Mind, TM11 Sunny Day, TM13 Ice Beam, TM15 Hyper Beam, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM21 Dazzling Gleam, TM22 Solar Beam, TM26 Earthquake, TM28 Dig, TM29 Psychic, TM30 Shadow Ball, TM32 Double Team, TM33 Reflect, TM37 Sandstorm, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM48 Skill Swap, TM57 Charge Beam, TM58 Endure, TM63 Nasty Plot, TM64 Explosion, TM67 Recycle, TM68 Giga Impact, TM69 Rock Polish, TM70 Flash, TM71 Stone Edge, TM74 Gyro Ball, TM76 Stealth Rock, TM77 Psych Up, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM85 Dream Eater, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM92 Trick Room, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Hyper Beam @ 0
-	Hyper Beam @ 1
-	Teleport @ 1
-	Harden @ 1
-	Mud-Slap @ 1
-	Rapid Spin @ 1
-	Confusion @ 1
-	Rock Tomb @ 9
-	Power Trick @ 12
-	Psybeam @ 15
-	Ancient Power @ 18
-	Imprison @ 21
-	Cosmic Power @ 24
-	Extrasensory @ 27
-	Earth Power @ 30
-	Self-Destruct @ 33
-	Guard Split @ 38
-	Power Split @ 38
-	Sandstorm @ 43
-	Explosion @ 48
-
-Lileep - 66/41/77/61/87/23 Rock/Grass
-Evolution(s): 4,0,346,0,40
-Egg Moves: Recover, Mirror Coat, Tickle, Bind, Curse, Mega Drain
-TM Moves: TM09 Bullet Seed, TM11 Sunny Day, TM17 Protect, TM19 Giga Drain, TM22 Solar Beam, TM32 Double Team, TM36 Sludge Bomb, TM37 Sandstorm, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM53 Energy Ball, TM55 Brine, TM58 Endure, TM69 Rock Polish, TM70 Flash, TM75 Swords Dance, TM76 Stealth Rock, TM80 Rock Slide, TM82 Sleep Talk, TM86 Grass Knot, TM87 Swagger, TM90 Substitute
-Learned Moves:
-	Wrap @ 1
-	Astonish @ 1
-	Acid @ 4
-	Confuse Ray @ 8
-	Ingrain @ 12
-	Ancient Power @ 16
-	Mega Drain @ 20
-	Brine @ 24
-	Amnesia @ 28
-	Gastro Acid @ 32
-	Giga Drain @ 36
-	Stockpile @ 41
-	Spit Up @ 41
-	Swallow @ 41
-	Energy Ball @ 44
-
-Cradily - 86/81/97/81/107/43 Rock/Grass
-TM Moves: TM09 Bullet Seed, TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM19 Giga Drain, TM22 Solar Beam, TM26 Earthquake, TM28 Dig, TM32 Double Team, TM36 Sludge Bomb, TM37 Sandstorm, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM53 Energy Ball, TM55 Brine, TM58 Endure, TM68 Giga Impact, TM69 Rock Polish, TM70 Flash, TM71 Stone Edge, TM75 Swords Dance, TM76 Stealth Rock, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Leech Seed @ 1
-	Wrap @ 1
-	Astonish @ 1
-	Acid @ 1
-	Confuse Ray @ 1
-	Ingrain @ 12
-	Ancient Power @ 16
-	Mega Drain @ 20
-	Brine @ 24
-	Amnesia @ 28
-	Gastro Acid @ 32
-	Giga Drain @ 36
-	Stockpile @ 43
-	Spit Up @ 43
-	Swallow @ 43
-	Energy Ball @ 48
-
-Anorith - 45/95/50/40/50/75 Rock/Bug
-Evolution(s): 4,0,348,0,40
-Egg Moves: Knock Off, Curse, Rapid Spin, Sand Attack, Aqua Jet, Screech, Cross Poison, Iron Defense
-TM Moves: TM03 Water Pulse, TM11 Sunny Day, TM17 Protect, TM28 Dig, TM31 Brick Break, TM32 Double Team, TM37 Sandstorm, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM54 False Swipe, TM55 Brine, TM58 Endure, TM69 Rock Polish, TM75 Swords Dance, TM76 Stealth Rock, TM80 Rock Slide, TM81 X-Scissor, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute, TM93 Cut, TM98 Rock Smash
-Learned Moves:
-	Fury Cutter @ 1
-	Harden @ 1
-	Water Gun @ 4
-	Smack Down @ 8
-	Metal Claw @ 12
-	Ancient Power @ 16
-	Bug Bite @ 20
-	Brine @ 24
-	Slash @ 28
-	Crush Claw @ 32
-	Rock Blast @ 36
-	Protect @ 41
-	X-Scissor @ 44
-
-Armaldo - 75/125/100/70/80/45 Rock/Bug
-TM Moves: TM03 Water Pulse, TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM23 Iron Tail, TM26 Earthquake, TM28 Dig, TM31 Brick Break, TM32 Double Team, TM37 Sandstorm, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM54 False Swipe, TM55 Brine, TM58 Endure, TM65 Shadow Claw, TM68 Giga Impact, TM69 Rock Polish, TM71 Stone Edge, TM75 Swords Dance, TM76 Stealth Rock, TM80 Rock Slide, TM81 X-Scissor, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM91 Flash Cannon, TM93 Cut, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Fury Cutter @ 1
-	Harden @ 1
-	Water Gun @ 1
-	Smack Down @ 1
-	Metal Claw @ 12
-	Ancient Power @ 16
-	Bug Bite @ 20
-	Brine @ 24
-	Slash @ 28
-	Crush Claw @ 32
-	Rock Blast @ 36
-	Protect @ 43
-	X-Scissor @ 48
-
-Feebas - 20/15/20/10/55/80 Water/Water
-Evolution(s): 16,170,350,0,0	6,537,350,0,0
-Egg Moves: Mirror Coat, Dragon Breath, Hypnosis, Confuse Ray, Mist, Haze, Tickle
-TM Moves: TM03 Water Pulse, TM07 Hail, TM13 Ice Beam, TM14 Blizzard, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM32 Double Team, TM42 Facade, TM44 Rest, TM45 Attract, TM49 Scald, TM55 Brine, TM58 Endure, TM59 Dragon Pulse, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute, TM95 Surf, TM99 Waterfall
-Learned Moves:
-	Splash @ 1
-	Tackle @ 15
-	Flail @ 25
-
-Milotic - 95/60/79/100/125/81 Water/Water
-TM Moves: TM03 Water Pulse, TM07 Hail, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM23 Iron Tail, TM32 Double Team, TM42 Facade, TM44 Rest, TM45 Attract, TM49 Scald, TM55 Brine, TM58 Endure, TM59 Dragon Pulse, TM68 Giga Impact, TM72 Avalanche, TM77 Psych Up, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM95 Surf, TM99 Waterfall
-Learned Moves:
-	Water Pulse @ 0
-	Water Pulse @ 1
-	Flail @ 1
-	Splash @ 1
-	Tackle @ 1
-	Wrap @ 1
-	Water Gun @ 1
-	Disarming Voice @ 4
-	Twister @ 8
-	Aqua Ring @ 12
-	Attract @ 16
-	Life Dew @ 20
-	Dragon Tail @ 24
-	Recover @ 28
-	Aqua Tail @ 32
-	Safeguard @ 36
-	Surf @ 40
-	Rain Dance @ 44
-	Coil @ 48
-	Hydro Pump @ 52
-
+Treecko
+Pound @ 1
+Leer @ 1
+Leafage @ 3
+Quick Attack @ 6
+Mega Drain @ 9
+Detect @ 12
+Quick Guard @ 15
+Assurance @ 18
+Giga Drain @ 21
+Slam @ 24
+Double Team @ 27
+Energy Ball @ 30
+Screech @ 33
+Endeavor @ 36
+Leaf Storm @ 39
+end
+Grovyle
+Fury Cutter @ 1
+False Swipe @ 1
+X-Scissor @ 1
+Energy Ball @ 1
+Pound @ 1
+Leer @ 1
+Leafage @ 1
+Quick Attack @ 1
+Mega Drain @ 9
+Detect @ 12
+Quick Guard @ 15
+Assurance @ 20
+Giga Drain @ 25
+Slam @ 30
+Double Team @ 35
+Leaf Blade @ 40
+Screech @ 45
+Endeavor @ 50
+Leaf Storm @ 55
+end
+Sceptile
+Dual Chop @ 0
+Dual Chop @ 1
+Fury Cutter @ 1
+False Swipe @ 1
+X-Scissor @ 1
+Energy Ball @ 1
+Pound @ 1
+Leer @ 1
+Leafage @ 1
+Quick Attack @ 1
+Mega Drain @ 5
+Detect @ 12
+Quick Guard @ 15
+Assurance @ 20
+Giga Drain @ 25
+Slam @ 30
+Double Team @ 35
+Leaf Blade @ 42
+Screech @ 49
+Endeavor @ 56
+Leaf Storm @ 63
+end
+Torchic
+Scratch @ 1
+Growl @ 1
+Ember @ 3
+Quick Attack @ 6
+Flame Charge @ 9
+Detect @ 12
+Sand Attack @ 15
+Aerial Ace @ 18
+Slash @ 21
+Bounce @ 24
+Focus Energy @ 27
+Flamethrower @ 30
+Feather Dance @ 33
+Reversal @ 36
+Flare Blitz @ 39
+end
+Combusken
+Double Kick @ 0
+Double Kick @ 1
+Flamethrower @ 1
+Feather Dance @ 1
+Scratch @ 1
+Growl @ 1
+Ember @ 1
+Quick Attack @ 1
+Flame Charge @ 9
+Detect @ 12
+Sand Attack @ 15
+Aerial Ace @ 20
+Slash @ 25
+Bounce @ 30
+Focus Energy @ 35
+Blaze Kick @ 40
+Bulk Up @ 45
+Reversal @ 50
+Flare Blitz @ 55
+end
+Blaziken
+Close Combat @ 1
+Double Kick @ 1
+Fire Punch @ 1
+Brave Bird @ 1
+Flamethrower @ 1
+Feather Dance @ 1
+Scratch @ 1
+Growl @ 1
+Ember @ 1
+Quick Attack @ 1
+Flame Charge @ 9
+Detect @ 12
+Sand Attack @ 15
+Aerial Ace @ 20
+Slash @ 25
+Bounce @ 30
+Focus Energy @ 35
+Blaze Kick @ 42
+Bulk Up @ 49
+Reversal @ 56
+Flare Blitz @ 63
+end
+Mudkip
+Tackle @ 1
+Growl @ 1
+Water Gun @ 3
+Rock Smash @ 6
+Rock Throw @ 9
+Protect @ 12
+Supersonic @ 15
+Water Pulse @ 18
+Rock Slide @ 21
+Take Down @ 24
+Amnesia @ 27
+Surf @ 30
+Screech @ 33
+Endeavor @ 36
+Hydro Pump @ 39
+end
+Marshtomp
+Mud Shot @ 0
+Mud Shot @ 1
+Earthquake @ 1
+Surf @ 1
+Tackle @ 1
+Growl @ 1
+Water Gun @ 1
+Rock Smash @ 1
+Rock Throw @ 9
+Protect @ 12
+Supersonic @ 15
+Water Pulse @ 20
+Rock Slide @ 25
+Take Down @ 30
+Amnesia @ 35
+Muddy Water @ 40
+Screech @ 45
+Endeavor @ 50
+Hydro Pump @ 55
+end
+Swampert
+Mud Shot @ 1
+Hammer Arm @ 1
+Earthquake @ 1
+Surf @ 1
+Tackle @ 1
+Growl @ 1
+Water Gun @ 1
+Rock Smash @ 1
+Rock Throw @ 9
+Protect @ 12
+Supersonic @ 15
+Water Pulse @ 20
+Rock Slide @ 25
+Take Down @ 30
+Amnesia @ 35
+Muddy Water @ 42
+Screech @ 49
+Endeavor @ 56
+Hydro Pump @ 63
+end
+Poochyena
+Tackle @ 1
+Howl @ 4
+Sand Attack @ 7
+Bite @ 10
+Mud-Slap @ 13
+Roar @ 16
+Swagger @ 19
+Assurance @ 22
+Scary Face @ 25
+Headbutt @ 28
+Taunt @ 31
+Crunch @ 34
+Yawn @ 37
+Take Down @ 40
+Sucker Punch @ 43
+Play Rough @ 46
+end
+Mightyena
+Snarl @ 0
+Snarl @ 1
+Fire Fang @ 1
+Thunder Fang @ 1
+Ice Fang @ 1
+Crunch @ 1
+Thief @ 1
+Tackle @ 1
+Howl @ 1
+Sand Attack @ 1
+Bite @ 1
+Howl @ 4
+Sand Attack @ 7
+Bite @ 10
+Mud-Slap @ 13
+Roar @ 16
+Swagger @ 20
+Assurance @ 24
+Scary Face @ 28
+Headbutt @ 32
+Taunt @ 36
+Crunch @ 40
+Yawn @ 44
+Take Down @ 48
+Sucker Punch @ 52
+Play Rough @ 56
+end
+Zigzagoon
+Tackle @ 1
+Growl @ 1
+Sand Attack @ 3
+Tail Whip @ 6
+Covet @ 9
+Headbutt @ 12
+Baby-Doll Eyes @ 15
+Pin Missile @ 18
+Rest @ 21
+Take Down @ 24
+Fling @ 27
+Flail @ 30
+Belly Drum @ 33
+Double-Edge @ 36
+end
+Linoone
+Slash @ 0
+Slash @ 1
+Switcheroo @ 1
+Pin Missile @ 1
+Baby-Doll Eyes @ 1
+Tackle @ 1
+Growl @ 1
+Sand Attack @ 1
+Tail Whip @ 1
+Covet @ 9
+Headbutt @ 12
+Hone Claws @ 15
+Fury Swipes @ 18
+Rest @ 23
+Take Down @ 28
+Fling @ 33
+Flail @ 38
+Belly Drum @ 43
+Double-Edge @ 48
+end
+Wurmple
+Tackle @ 1
+String Shot @ 1
+Poison Sting @ 5
+Bug Bite @ 15
+end
+Silcoon
+Harden @ 0
+Harden @ 1
+end
+Beautifly
+Gust @ 0
+Gust @ 1
+Tackle @ 1
+String Shot @ 1
+Harden @ 1
+Poison Sting @ 1
+Bug Bite @ 1
+Absorb @ 12
+Stun Spore @ 15
+Morning Sun @ 17
+Air Cutter @ 20
+Mega Drain @ 22
+Leech Life @ 25
+Attract @ 27
+Whirlwind @ 30
+Giga Drain @ 32
+Bug Buzz @ 35
+Protect @ 37
+Quiver Dance @ 40
+end
+Cascoon
+Harden @ 0
+Harden @ 1
+end
+Dustox
+Gust @ 0
+Gust @ 1
+Tackle @ 1
+String Shot @ 1
+Harden @ 1
+Poison Sting @ 1
+Bug Bite @ 1
+Confusion @ 12
+Poison Powder @ 15
+Moonlight @ 17
+Venoshock @ 20
+Psybeam @ 22
+Leech Life @ 25
+Light Screen @ 27
+Whirlwind @ 30
+Toxic @ 32
+Bug Buzz @ 35
+Protect @ 37
+Quiver Dance @ 40
+end
+Lotad
+Astonish @ 1
+Growl @ 1
+Absorb @ 3
+Water Gun @ 6
+Mist @ 9
+Mega Drain @ 12
+Flail @ 16
+Bubble Beam @ 20
+Nature Power @ 24
+Giga Drain @ 28
+Rain Dance @ 33
+Zen Headbutt @ 38
+Energy Ball @ 43
+end
+Lombre
+Teeter Dance @ 1
+Fake Out @ 1
+Knock Off @ 1
+Flail @ 1
+Astonish @ 1
+Growl @ 1
+Absorb @ 1
+Water Gun @ 1
+Mist @ 9
+Mega Drain @ 12
+Fury Swipes @ 18
+Bubble Beam @ 24
+Nature Power @ 30
+Giga Drain @ 36
+Rain Dance @ 43
+Zen Headbutt @ 50
+Energy Ball @ 57
+Hydro Pump @ 64
+end
+Ludicolo
+Teeter Dance @ 1
+Fake Out @ 1
+Knock Off @ 1
+Flail @ 1
+Mist @ 1
+Mega Drain @ 1
+Fury Swipes @ 1
+Bubble Beam @ 1
+Nature Power @ 1
+Giga Drain @ 1
+Rain Dance @ 1
+Zen Headbutt @ 1
+Energy Ball @ 1
+Hydro Pump @ 1
+Astonish @ 1
+Growl @ 1
+Absorb @ 1
+Water Gun @ 1
+end
+Seedot
+Tackle @ 1
+Harden @ 1
+Absorb @ 3
+Astonish @ 6
+Growth @ 9
+Rollout @ 12
+Mega Drain @ 15
+Payback @ 18
+Nature Power @ 21
+Sunny Day @ 24
+Synthesis @ 27
+Sucker Punch @ 30
+Explosion @ 33
+end
+Nuzleaf
+Razor Leaf @ 0
+Razor Leaf @ 1
+Air Cutter @ 1
+Torment @ 1
+Fake Out @ 1
+Swagger @ 1
+Synthesis @ 1
+Explosion @ 1
+Tackle @ 1
+Harden @ 1
+Absorb @ 1
+Astonish @ 1
+Growth @ 9
+Rollout @ 12
+Mega Drain @ 18
+Payback @ 24
+Nature Power @ 30
+Sunny Day @ 36
+Extrasensory @ 43
+Sucker Punch @ 50
+Leaf Blade @ 57
+end
+Shiftry
+Leaf Tornado @ 0
+Leaf Tornado @ 1
+Razor Leaf @ 1
+Air Cutter @ 1
+Torment @ 1
+Fake Out @ 1
+Swagger @ 1
+Whirlwind @ 1
+Hurricane @ 1
+Synthesis @ 1
+Explosion @ 1
+Growth @ 1
+Rollout @ 1
+Mega Drain @ 1
+Payback @ 1
+Nature Power @ 1
+Sunny Day @ 1
+Extrasensory @ 1
+Sucker Punch @ 1
+Leaf Blade @ 1
+Tackle @ 1
+Harden @ 1
+Absorb @ 1
+Astonish @ 1
+end
+Taillow
+Peck @ 1
+Growl @ 1
+Focus Energy @ 5
+Quick Attack @ 9
+Wing Attack @ 13
+Double Team @ 17
+Aerial Ace @ 21
+Quick Guard @ 25
+Agility @ 29
+Air Slash @ 33
+Endeavor @ 37
+Brave Bird @ 41
+Reversal @ 45
+end
+Swellow
+Brave Bird @ 1
+Air Slash @ 1
+Pluck @ 1
+Peck @ 1
+Growl @ 1
+Focus Energy @ 1
+Quick Attack @ 1
+Focus Energy @ 5
+Quick Attack @ 9
+Wing Attack @ 13
+Double Team @ 17
+Aerial Ace @ 21
+Quick Guard @ 27
+Agility @ 33
+Air Slash @ 39
+Endeavor @ 45
+Brave Bird @ 51
+Reversal @ 57
+end
+Wingull
+Growl @ 1
+Water Gun @ 1
+Quick Attack @ 5
+Supersonic @ 10
+Wing Attack @ 15
+Water Pulse @ 20
+Agility @ 26
+Air Slash @ 30
+Mist @ 35
+Roost @ 40
+Hurricane @ 45
+end
+Pelipper
+Protect @ 1
+Soak @ 1
+Quick Attack @ 1
+Agility @ 1
+Air Slash @ 1
+Growl @ 1
+Water Gun @ 1
+Tailwind @ 1
+Supersonic @ 1
+Wing Attack @ 15
+Water Pulse @ 20
+Stockpile @ 28
+Swallow @ 28
+Spit Up @ 28
+Fling @ 34
+Mist @ 41
+Roost @ 48
+Hurricane @ 55
+Hydro Pump @ 62
+end
+Ralts
+Growl @ 1
+Disarming Voice @ 1
+Double Team @ 3
+Confusion @ 6
+Hypnosis @ 9
+Draining Kiss @ 12
+Teleport @ 15
+Psybeam @ 18
+Life Dew @ 21
+Charm @ 24
+Calm Mind @ 27
+Psychic @ 30
+Heal Pulse @ 33
+Dream Eater @ 36
+Future Sight @ 39
+end
+Kirlia
+Growl @ 1
+Disarming Voice @ 1
+Double Team @ 1
+Confusion @ 1
+Hypnosis @ 9
+Draining Kiss @ 12
+Teleport @ 15
+Psybeam @ 18
+Life Dew @ 23
+Charm @ 28
+Calm Mind @ 33
+Psychic @ 38
+Heal Pulse @ 43
+Dream Eater @ 48
+Future Sight @ 53
+end
+Gardevoir
+Dazzling Gleam @ 0
+Dazzling Gleam @ 1
+Moonblast @ 1
+Misty Terrain @ 1
+Healing Wish @ 1
+Charm @ 1
+Growl @ 1
+Disarming Voice @ 1
+Double Team @ 1
+Confusion @ 1
+Hypnosis @ 9
+Draining Kiss @ 12
+Teleport @ 15
+Psybeam @ 18
+Life Dew @ 23
+Wish @ 28
+Calm Mind @ 35
+Psychic @ 42
+Heal Pulse @ 49
+Dream Eater @ 56
+Future Sight @ 63
+end
+Surskit
+Water Gun @ 1
+Quick Attack @ 6
+Sweet Scent @ 9
+Soak @ 14
+Bubble Beam @ 17
+Agility @ 22
+Mist @ 25
+Haze @ 25
+Aqua Jet @ 30
+Baton Pass @ 35
+Sticky Web @ 38
+end
+Masquerain
+Quiver Dance @ 1
+Whirlwind @ 1
+Bug Buzz @ 1
+Quick Attack @ 1
+Sweet Scent @ 1
+Water Gun @ 1
+Bubble Beam @ 1
+Agility @ 1
+Mist @ 1
+Haze @ 1
+Aqua Jet @ 1
+Baton Pass @ 1
+Sticky Web @ 1
+Quick Attack @ 6
+Sweet Scent @ 9
+Soak @ 14
+Gust @ 17
+Scary Face @ 22
+Air Cutter @ 22
+Stun Spore @ 26
+Supersonic @ 32
+Air Slash @ 38
+Bug Buzz @ 42
+Whirlwind @ 48
+Quiver Dance @ 52
+end
+Shroomish
+Absorb @ 1
+Tackle @ 1
+Stun Spore @ 5
+Leech Seed @ 8
+Mega Drain @ 12
+Headbutt @ 15
+Poison Powder @ 19
+Worry Seed @ 22
+Giga Drain @ 26
+Growth @ 29
+Toxic @ 33
+Seed Bomb @ 36
+Spore @ 40
+end
+Breloom
+Mach Punch @ 0
+Mach Punch @ 1
+Absorb @ 1
+Tackle @ 1
+Stun Spore @ 1
+Leech Seed @ 1
+Poison Powder @ 1
+Worry Seed @ 1
+Giga Drain @ 1
+Growth @ 1
+Toxic @ 1
+Spore @ 1
+Stun Spore @ 5
+Leech Seed @ 8
+Mega Drain @ 12
+Headbutt @ 15
+Feint @ 19
+Counter @ 22
+Force Palm @ 28
+Mind Reader @ 33
+Drain Punch @ 39
+Seed Bomb @ 44
+Dynamic Punch @ 50
+end
+Slakoth
+Scratch @ 1
+Yawn @ 1
+Encore @ 6
+Slack Off @ 9
+Rest @ 14
+Amnesia @ 17
+Covet @ 22
+Headbutt @ 25
+Counter @ 30
+Flail @ 33
+Play Rough @ 38
+end
+Vigoroth
+Reversal @ 1
+Scratch @ 1
+Focus Energy @ 1
+Encore @ 1
+Uproar @ 1
+Yawn @ 1
+Slack Off @ 1
+Rest @ 1
+Amnesia @ 1
+Covet @ 1
+Flail @ 1
+Play Rough @ 1
+Encore @ 6
+Uproar @ 9
+Fury Swipes @ 14
+Endure @ 17
+Slash @ 23
+Headbutt @ 27
+Counter @ 33
+Focus Punch @ 37
+Reversal @ 43
+end
+Slaking
+Swagger @ 0
+Swagger @ 1
+Hammer Arm @ 1
+Fling @ 1
+Scratch @ 1
+Yawn @ 1
+Encore @ 1
+Slack Off @ 1
+Focus Energy @ 1
+Uproar @ 1
+Play Rough @ 1
+Fury Swipes @ 1
+Endure @ 1
+Slash @ 1
+Focus Punch @ 1
+Reversal @ 1
+Encore @ 6
+Slack Off @ 9
+Rest @ 14
+Amnesia @ 17
+Covet @ 23
+Headbutt @ 27
+Counter @ 33
+Flail @ 39
+Fling @ 47
+Sucker Punch @ 53
+Hammer Arm @ 61
+end
+Nincada
+Sand Attack @ 1
+Scratch @ 1
+Harden @ 5
+False Swipe @ 10
+Mud-Slap @ 15
+Absorb @ 21
+Metal Claw @ 25
+Fury Swipes @ 30
+Mind Reader @ 35
+Dig @ 40
+end
+Ninjask
+Double Team @ 0
+Screech @ 0
+Fury Cutter @ 0
+Double Team @ 1
+Screech @ 1
+Fury Cutter @ 1
+Baton Pass @ 1
+Aerial Ace @ 1
+Mud-Slap @ 1
+Metal Claw @ 1
+Dig @ 1
+Sand Attack @ 1
+Scratch @ 1
+Harden @ 1
+False Swipe @ 1
+Agility @ 15
+Absorb @ 23
+Bug Bite @ 29
+Fury Swipes @ 36
+Mind Reader @ 43
+Slash @ 50
+Swords Dance @ 57
+X-Scissor @ 64
+end
+Shedinja
+Shadow Claw @ 1
+Grudge @ 1
+Mud-Slap @ 1
+Metal Claw @ 1
+Dig @ 1
+Scratch @ 1
+Sand Attack @ 1
+Harden @ 1
+False Swipe @ 1
+Confuse Ray @ 15
+Absorb @ 23
+Shadow Sneak @ 29
+Fury Swipes @ 36
+Mind Reader @ 43
+Shadow Ball @ 50
+Spite @ 57
+Phantom Force @ 64
+end
+Whismur
+Astonish @ 1
+Pound @ 1
+Echoed Voice @ 5
+Howl @ 10
+Rest @ 15
+Sleep Talk @ 15
+Stomp @ 21
+Roar @ 25
+Supersonic @ 30
+Uproar @ 35
+Screech @ 40
+Hyper Voice @ 45
+end
+Loudred
+Bite @ 0
+Bite @ 1
+Astonish @ 1
+Pound @ 1
+Echoed Voice @ 1
+Howl @ 1
+Rest @ 15
+Sleep Talk @ 15
+Stomp @ 23
+Roar @ 29
+Supersonic @ 36
+Uproar @ 43
+Screech @ 50
+Hyper Voice @ 57
+end
+Exploud
+Crunch @ 0
+Crunch @ 1
+Bite @ 1
+Ice Fang @ 1
+Fire Fang @ 1
+Thunder Fang @ 1
+Astonish @ 1
+Pound @ 1
+Echoed Voice @ 1
+Howl @ 1
+Rest @ 15
+Sleep Talk @ 15
+Stomp @ 23
+Roar @ 29
+Supersonic @ 36
+Uproar @ 45
+Screech @ 54
+Hyper Voice @ 63
+Boomburst @ 72
+Hyper Beam @ 81
+end
+Makuhita
+Tackle @ 1
+Focus Energy @ 1
+Sand Attack @ 4
+Arm Thrust @ 7
+Fake Out @ 10
+Force Palm @ 13
+Whirlwind @ 16
+Knock Off @ 19
+Vital Throw @ 22
+Belly Drum @ 25
+Detect @ 28
+Seismic Toss @ 31
+Focus Punch @ 34
+Endure @ 37
+Close Combat @ 40
+Reversal @ 43
+Heavy Slam @ 46
+end
+Hariyama
+Brine @ 1
+Tackle @ 1
+Focus Energy @ 1
+Sand Attack @ 1
+Arm Thrust @ 1
+Sand Attack @ 4
+Arm Thrust @ 7
+Fake Out @ 10
+Force Palm @ 13
+Whirlwind @ 16
+Knock Off @ 19
+Vital Throw @ 22
+Belly Drum @ 26
+Detect @ 30
+Seismic Toss @ 34
+Focus Punch @ 38
+Endure @ 42
+Close Combat @ 46
+Reversal @ 50
+Heavy Slam @ 54
+end
+Azurill
+Splash @ 1
+Water Gun @ 1
+Tail Whip @ 1
+Helping Hand @ 3
+Bubble Beam @ 6
+Charm @ 9
+Slam @ 12
+Bounce @ 15
+end
+Nosepass
+Tackle @ 1
+Harden @ 4
+Block @ 7
+Rock Throw @ 10
+Thunder Wave @ 13
+Rest @ 16
+Spark @ 19
+Rock Slide @ 22
+Power Gem @ 25
+Rock Blast @ 28
+Discharge @ 31
+Sandstorm @ 34
+Earth Power @ 37
+Stone Edge @ 40
+Lock-On @ 43
+Zap Cannon @ 43
+end
+Skitty
+Fake Out @ 1
+Growl @ 1
+Tail Whip @ 1
+Tackle @ 4
+Sing @ 7
+Attract @ 10
+Disarming Voice @ 13
+Fury Swipes @ 16
+Copycat @ 19
+Payback @ 22
+Charm @ 25
+Facade @ 31
+Covet @ 34
+Heal Bell @ 37
+Double-Edge @ 40
+Baby-Doll Eyes @ 43
+Play Rough @ 46
+end
+Delcatty
+Fake Out @ 1
+Sing @ 1
+Attract @ 1
+Growl @ 1
+Tail Whip @ 1
+Tackle @ 1
+Disarming Voice @ 1
+Fury Swipes @ 1
+Copycat @ 1
+Payback @ 1
+Charm @ 1
+Facade @ 1
+Covet @ 1
+Heal Bell @ 1
+Double-Edge @ 1
+Baby-Doll Eyes @ 1
+Play Rough @ 1
+end
+Sableye
+Leer @ 1
+Scratch @ 1
+Astonish @ 3
+Confuse Ray @ 6
+Shadow Sneak @ 9
+Fake Out @ 12
+Disable @ 15
+Detect @ 18
+Night Shade @ 21
+Fury Swipes @ 24
+Knock Off @ 27
+Quash @ 30
+Shadow Claw @ 33
+Mean Look @ 36
+Power Gem @ 39
+Zen Headbutt @ 42
+Shadow Ball @ 45
+Foul Play @ 48
+end
+Mawile
+Astonish @ 1
+Growl @ 1
+Fairy Wind @ 4
+Baton Pass @ 8
+Bite @ 12
+Stockpile @ 16
+Swallow @ 16
+Spit Up @ 16
+Sucker Punch @ 20
+Iron Defense @ 24
+Crunch @ 28
+Sweet Scent @ 32
+Iron Head @ 36
+Taunt @ 40
+Fake Tears @ 44
+Play Rough @ 48
+end
+Aron
+Tackle @ 1
+Harden @ 1
+Metal Claw @ 4
+Rock Tomb @ 8
+Roar @ 12
+Headbutt @ 16
+Protect @ 20
+Rock Slide @ 24
+Iron Head @ 28
+Metal Sound @ 33
+Take Down @ 36
+Autotomize @ 40
+Iron Tail @ 44
+Iron Defense @ 48
+Heavy Slam @ 52
+Double-Edge @ 56
+Metal Burst @ 60
+end
+Lairon
+Tackle @ 1
+Harden @ 1
+Metal Claw @ 1
+Rock Tomb @ 1
+Roar @ 12
+Headbutt @ 16
+Protect @ 20
+Rock Slide @ 24
+Iron Head @ 28
+Metal Sound @ 35
+Take Down @ 40
+Autotomize @ 46
+Iron Tail @ 52
+Iron Defense @ 58
+Heavy Slam @ 64
+Double-Edge @ 70
+Metal Burst @ 76
+end
+Aggron
+Tackle @ 1
+Harden @ 1
+Metal Claw @ 1
+Rock Tomb @ 1
+Roar @ 12
+Headbutt @ 16
+Protect @ 20
+Rock Slide @ 24
+Iron Head @ 28
+Metal Sound @ 35
+Take Down @ 40
+Autotomize @ 48
+Iron Tail @ 56
+Iron Defense @ 64
+Heavy Slam @ 72
+Double-Edge @ 80
+Metal Burst @ 88
+end
+Meditite
+Pound @ 1
+Low Kick @ 4
+Confusion @ 7
+Detect @ 9
+Endure @ 12
+Feint @ 15
+Force Palm @ 17
+Psybeam @ 20
+Calm Mind @ 23
+Mind Reader @ 25
+High Jump Kick @ 28
+Psych Up @ 31
+Acupressure @ 33
+Power Trick @ 36
+Reversal @ 39
+Recover @ 41
+Counter @ 44
+end
+Medicham
+Zen Headbutt @ 1
+Fire Punch @ 1
+Thunder Punch @ 1
+Ice Punch @ 1
+Pound @ 1
+Confusion @ 1
+Detect @ 1
+Low Kick @ 4
+Confusion @ 7
+Detect @ 9
+Endure @ 12
+Feint @ 15
+Force Palm @ 17
+Psybeam @ 20
+Calm Mind @ 23
+Mind Reader @ 25
+High Jump Kick @ 28
+Psych Up @ 31
+Acupressure @ 33
+Power Trick @ 36
+Reversal @ 42
+Recover @ 47
+Counter @ 53
+end
+Electrike
+Tackle @ 1
+Thunder Wave @ 1
+Leer @ 4
+Howl @ 8
+Quick Attack @ 12
+Shock Wave @ 16
+Bite @ 20
+Thunder Fang @ 24
+Roar @ 28
+Discharge @ 32
+Charge @ 36
+Wild Charge @ 40
+Thunder @ 44
+end
+Manectric
+Fire Fang @ 1
+Tackle @ 1
+Thunder Wave @ 1
+Leer @ 1
+Howl @ 1
+Quick Attack @ 12
+Shock Wave @ 16
+Bite @ 20
+Thunder Fang @ 24
+Roar @ 30
+Discharge @ 36
+Charge @ 42
+Wild Charge @ 48
+Thunder @ 54
+Electric Terrain @ 60
+end
+Plusle
+Nuzzle @ 1
+Play Nice @ 1
+Growl @ 1
+Thunder Wave @ 1
+Quick Attack @ 1
+Helping Hand @ 4
+Spark @ 7
+Encore @ 10
+Skill Swap @ 13
+Swift @ 16
+Electro Ball @ 19
+Copycat @ 22
+Charm @ 25
+Charge @ 28
+Discharge @ 31
+Baton Pass @ 34
+Agility @ 37
+Last Resort @ 40
+Thunder @ 43
+Nasty Plot @ 46
+Entrainment @ 49
+end
+Minun
+Nuzzle @ 1
+Play Nice @ 1
+Growl @ 1
+Thunder Wave @ 1
+Quick Attack @ 1
+Helping Hand @ 4
+Spark @ 7
+Encore @ 10
+Switcheroo @ 13
+Swift @ 16
+Electro Ball @ 19
+Copycat @ 22
+Fake Tears @ 25
+Charge @ 28
+Discharge @ 31
+Baton Pass @ 34
+Agility @ 37
+Last Resort @ 40
+Thunder @ 43
+Nasty Plot @ 46
+Entrainment @ 49
+end
+Volbeat
+Play Nice @ 1
+Tackle @ 1
+Double Team @ 5
+Confuse Ray @ 8
+Quick Attack @ 12
+Struggle Bug @ 15
+Moonlight @ 19
+Tail Glow @ 22
+Encore @ 26
+Protect @ 29
+Zen Headbutt @ 33
+Helping Hand @ 36
+Bug Buzz @ 40
+Play Rough @ 43
+Double-Edge @ 47
+Infestation @ 50
+end
+Illumise
+Play Nice @ 1
+Tackle @ 1
+Sweet Scent @ 5
+Charm @ 9
+Quick Attack @ 12
+Struggle Bug @ 15
+Moonlight @ 19
+Wish @ 22
+Encore @ 26
+Flatter @ 29
+Zen Headbutt @ 33
+Helping Hand @ 36
+Bug Buzz @ 40
+Play Rough @ 43
+Covet @ 47
+Infestation @ 50
+end
+Roselia
+Poison Sting @ 0
+Poison Sting @ 1
+Absorb @ 1
+Growth @ 1
+Stun Spore @ 1
+Worry Seed @ 1
+Mega Drain @ 5
+Leech Seed @ 10
+Magical Leaf @ 15
+Toxic Spikes @ 20
+Sweet Scent @ 25
+Giga Drain @ 30
+Synthesis @ 35
+Toxic @ 40
+Petal Blizzard @ 45
+Aromatherapy @ 50
+Ingrain @ 55
+Petal Dance @ 60
+end
+Gulpin
+Pound @ 1
+Yawn @ 5
+Poison Gas @ 8
+Sludge @ 10
+Amnesia @ 12
+Acid Spray @ 17
+Encore @ 20
+Toxic @ 25
+Stockpile @ 28
+Spit Up @ 28
+Swallow @ 28
+Sludge Bomb @ 33
+Gastro Acid @ 36
+Belch @ 41
+Pain Split @ 44
+Gunk Shot @ 49
+end
+Swalot
+Body Slam @ 0
+Body Slam @ 1
+Venom Drench @ 1
+Gunk Shot @ 1
+Pound @ 1
+Yawn @ 1
+Poison Gas @ 1
+Sludge @ 1
+Yawn @ 5
+Poison Gas @ 8
+Sludge @ 10
+Amnesia @ 12
+Acid Spray @ 17
+Encore @ 20
+Toxic @ 25
+Stockpile @ 30
+Spit Up @ 30
+Swallow @ 30
+Sludge Bomb @ 37
+Gastro Acid @ 42
+Belch @ 49
+Pain Split @ 54
+Gunk Shot @ 61
+end
+Carvanha
+Aqua Jet @ 1
+Leer @ 1
+Poison Fang @ 4
+Focus Energy @ 8
+Scary Face @ 12
+Bite @ 16
+Ice Fang @ 20
+Screech @ 24
+Swagger @ 28
+Crunch @ 32
+Agility @ 36
+Liquidation @ 40
+Take Down @ 44
+end
+Sharpedo
+Slash @ 0
+Slash @ 1
+Night Slash @ 1
+Aqua Jet @ 1
+Leer @ 1
+Poison Fang @ 1
+Focus Energy @ 1
+Scary Face @ 12
+Bite @ 16
+Ice Fang @ 20
+Screech @ 24
+Swagger @ 28
+Crunch @ 34
+Agility @ 40
+Liquidation @ 46
+Take Down @ 52
+end
+Wailmer
+Splash @ 1
+Growl @ 3
+Astonish @ 6
+Water Gun @ 12
+Mist @ 15
+Water Pulse @ 18
+Heavy Slam @ 21
+Brine @ 24
+Whirlpool @ 27
+Dive @ 30
+Bounce @ 33
+Body Slam @ 36
+Rest @ 39
+Amnesia @ 42
+Hydro Pump @ 45
+Water Spout @ 48
+end
+Wailord
+Soak @ 1
+Noble Roar @ 1
+Splash @ 1
+Growl @ 1
+Astonish @ 1
+Water Gun @ 1
+Mist @ 15
+Water Pulse @ 18
+Heavy Slam @ 21
+Brine @ 24
+Whirlpool @ 27
+Dive @ 30
+Bounce @ 33
+Body Slam @ 36
+Rest @ 39
+Amnesia @ 44
+Hydro Pump @ 49
+Water Spout @ 54
+end
+Numel
+Growl @ 1
+Tackle @ 1
+Ember @ 5
+Focus Energy @ 8
+Bulldoze @ 12
+Flame Wheel @ 15
+Amnesia @ 19
+Lava Plume @ 22
+Earth Power @ 26
+Curse @ 29
+Take Down @ 31
+Yawn @ 36
+Earthquake @ 40
+Flamethrower @ 43
+Double-Edge @ 47
+end
+Camerupt
+Rock Slide @ 0
+Rock Slide @ 1
+Fissure @ 1
+Eruption @ 1
+Growl @ 1
+Tackle @ 1
+Ember @ 1
+Focus Energy @ 1
+Flamethrower @ 1
+Double-Edge @ 1
+Ember @ 8
+Focus Energy @ 8
+Bulldoze @ 12
+Flame Wheel @ 15
+Amnesia @ 19
+Lava Plume @ 22
+Earth Power @ 26
+Curse @ 29
+Take Down @ 31
+Yawn @ 39
+Earthquake @ 46
+Eruption @ 52
+Fissure @ 59
+end
+Torkoal
+Smog @ 1
+Ember @ 1
+Withdraw @ 4
+Rapid Spin @ 8
+Smokescreen @ 12
+Clear Smog @ 16
+Flame Wheel @ 20
+Protect @ 24
+Lava Plume @ 28
+Body Slam @ 32
+Iron Defense @ 36
+Flamethrower @ 40
+Curse @ 44
+Heat Wave @ 48
+Amnesia @ 52
+Inferno @ 56
+Shell Smash @ 60
+Eruption @ 64
+end
+Spoink
+Splash @ 1
+Confusion @ 7
+Growl @ 10
+Psybeam @ 14
+Psych Up @ 15
+Confuse Ray @ 18
+Magic Coat @ 21
+Zen Headbutt @ 26
+Power Gem @ 29
+Rest @ 29
+Snore @ 33
+Psyshock @ 38
+Payback @ 40
+Psychic @ 44
+Bounce @ 50
+end
+Grumpig
+Teeter Dance @ 0
+Teeter Dance @ 1
+Belch @ 1
+Splash @ 1
+Confusion @ 7
+Growl @ 10
+Psybeam @ 14
+Psych Up @ 15
+Confuse Ray @ 18
+Magic Coat @ 21
+Zen Headbutt @ 26
+Power Gem @ 29
+Rest @ 35
+Snore @ 35
+Psyshock @ 42
+Payback @ 46
+Psychic @ 52
+Bounce @ 60
+end
+Spinda
+Tackle @ 1
+Copycat @ 5
+Teeter Dance @ 10
+Psybeam @ 14
+Hypnosis @ 19
+Body Slam @ 23
+Sucker Punch @ 28
+Teeter Dance @ 32
+Uproar @ 37
+Psych Up @ 41
+Double-Edge @ 46
+Flail @ 50
+Thrash @ 55
+end
+Trapinch
+Sand Attack @ 1
+Astonish @ 1
+Laser Focus @ 4
+Bite @ 8
+Mud-Slap @ 12
+Sand Tomb @ 16
+Bulldoze @ 20
+Dig @ 24
+Crunch @ 28
+Sandstorm @ 32
+Earth Power @ 36
+Earthquake @ 40
+Superpower @ 44
+Fissure @ 48
+end
+Vibrava
+Dragon Breath @ 0
+Dragon Breath @ 1
+Laser Focus @ 1
+Bulldoze @ 1
+Dig @ 1
+Crunch @ 1
+Superpower @ 1
+Fissure @ 1
+Sand Attack @ 1
+Astonish @ 1
+Supersonic @ 1
+Bite @ 1
+Mud-Slap @ 12
+Sand Tomb @ 16
+Dragon Tail @ 20
+Screech @ 24
+Bug Buzz @ 28
+Sandstorm @ 32
+Earth Power @ 38
+Earthquake @ 44
+Uproar @ 50
+Dragon Rush @ 56
+Boomburst @ 62
+end
+Flygon
+Dragon Claw @ 0
+Outrage @ 1
+Dragon Claw @ 1
+Dragon Breath @ 1
+Dragon Dance @ 1
+Feint @ 1
+Laser Focus @ 1
+Bulldoze @ 1
+Dig @ 1
+Crunch @ 1
+Superpower @ 1
+Fissure @ 1
+Sand Attack @ 1
+Astonish @ 1
+Supersonic @ 1
+Bite @ 1
+Mud-Slap @ 12
+Sand Tomb @ 16
+Dragon Tail @ 20
+Screech @ 24
+Bug Buzz @ 28
+Sandstorm @ 32
+Earth Power @ 38
+Earthquake @ 44
+Uproar @ 52
+Dragon Rush @ 60
+Boomburst @ 68
+end
+Cacnea
+Poison Sting @ 1
+Leer @ 1
+Absorb @ 4
+Growth @ 7
+Leech Seed @ 10
+Sand Attack @ 13
+Poison Jab @ 16
+Assurance @ 19
+Ingrain @ 22
+Payback @ 26
+Spikes @ 30
+Sucker Punch @ 34
+Pin Missile @ 38
+Energy Ball @ 42
+Cotton Spore @ 46
+Sandstorm @ 50
+Destiny Bond @ 54
+end
+Cacturne
+Spiky Shield @ 0
+Spiky Shield @ 1
+Destiny Bond @ 1
+Revenge @ 1
+Poison Sting @ 1
+Leer @ 1
+Absorb @ 1
+Growth @ 1
+Absorb @ 4
+Growth @ 7
+Leech Seed @ 10
+Sand Attack @ 13
+Poison Jab @ 16
+Assurance @ 19
+Ingrain @ 22
+Payback @ 26
+Spikes @ 30
+Sucker Punch @ 35
+Pin Missile @ 38
+Energy Ball @ 44
+Cotton Spore @ 49
+Sandstorm @ 54
+Destiny Bond @ 59
+end
+Swablu
+Peck @ 1
+Growl @ 1
+Disarming Voice @ 4
+Mist @ 8
+Fury Attack @ 12
+Round @ 16
+Dragon Breath @ 20
+Safeguard @ 24
+Sing @ 28
+Cotton Guard @ 32
+Take Down @ 36
+Moonblast @ 40
+Perish Song @ 44
+end
+Altaria
+Dragon Pulse @ 0
+Hurricane @ 1
+Dragon Pulse @ 1
+Pluck @ 1
+Peck @ 1
+Growl @ 1
+Disarming Voice @ 1
+Mist @ 1
+Fury Attack @ 12
+Round @ 16
+Dragon Breath @ 20
+Safeguard @ 24
+Sing @ 28
+Cotton Guard @ 32
+Take Down @ 38
+Moonblast @ 44
+Perish Song @ 50
+Sky Attack @ 56
+end
+Zangoose
+Scratch @ 1
+Leer @ 1
+Quick Attack @ 5
+Fury Cutter @ 8
+Hone Claws @ 12
+Aerial Ace @ 15
+Slash @ 19
+Revenge @ 22
+Crush Claw @ 26
+False Swipe @ 29
+Facade @ 33
+Detect @ 36
+X-Scissor @ 40
+Taunt @ 43
+Swords Dance @ 47
+Close Combat @ 50
+end
+Seviper
+Wrap @ 1
+Swagger @ 1
+Bite @ 4
+Lick @ 6
+Poison Tail @ 9
+Feint @ 11
+Screech @ 14
+Venoshock @ 16
+Glare @ 19
+Poison Fang @ 21
+Venom Drench @ 24
+Night Slash @ 26
+Gastro Acid @ 29
+Poison Jab @ 31
+Haze @ 34
+Swords Dance @ 36
+Crunch @ 39
+Belch @ 41
+Coil @ 44
+Sludge Bomb @ 46
+end
+Lunatone
+Moonblast @ 1
+Moonlight @ 1
+Tackle @ 1
+Harden @ 1
+Confusion @ 1
+Rock Throw @ 1
+Hypnosis @ 5
+Rock Polish @ 10
+Rock Slide @ 15
+Psyshock @ 20
+Cosmic Power @ 25
+Psychic @ 30
+Stone Edge @ 35
+Future Sight @ 40
+Magic Room @ 45
+Explosion @ 50
+end
+Solrock
+Flare Blitz @ 1
+Morning Sun @ 1
+Tackle @ 1
+Harden @ 1
+Confusion @ 1
+Rock Throw @ 1
+Hypnosis @ 5
+Rock Polish @ 10
+Rock Slide @ 15
+Zen Headbutt @ 20
+Cosmic Power @ 25
+Psychic @ 30
+Stone Edge @ 35
+Solar Beam @ 40
+Wonder Room @ 45
+Explosion @ 50
+end
+Barboach
+Mud-Slap @ 1
+Water Gun @ 1
+Rest @ 6
+Snore @ 6
+Water Pulse @ 12
+Amnesia @ 18
+Aqua Tail @ 24
+Muddy Water @ 31
+Earthquake @ 36
+Future Sight @ 42
+Fissure @ 48
+end
+Whiscash
+Thrash @ 0
+Thrash @ 1
+Belch @ 1
+Zen Headbutt @ 1
+Tickle @ 1
+Mud-Slap @ 1
+Water Gun @ 1
+Rest @ 1
+Snore @ 1
+Water Pulse @ 12
+Amnesia @ 18
+Aqua Tail @ 24
+Muddy Water @ 33
+Earthquake @ 40
+Future Sight @ 48
+Fissure @ 56
+end
+Corphish
+Water Gun @ 1
+Harden @ 1
+Leer @ 4
+Taunt @ 8
+Bubble Beam @ 12
+Knock Off @ 16
+Double Hit @ 20
+Protect @ 24
+Night Slash @ 28
+Razor Shell @ 32
+Swords Dance @ 36
+Crunch @ 40
+Crabhammer @ 44
+Endeavor @ 48
+Guillotine @ 52
+end
+Crawdaunt
+Swift @ 0
+Swift @ 1
+Water Gun @ 1
+Harden @ 1
+Leer @ 1
+Taunt @ 1
+Bubble Beam @ 12
+Knock Off @ 16
+Double Hit @ 20
+Protect @ 24
+Night Slash @ 28
+Razor Shell @ 34
+Swords Dance @ 40
+Crunch @ 46
+Crabhammer @ 52
+Endeavor @ 58
+Guillotine @ 64
+end
+Baltoy
+Harden @ 1
+Mud-Slap @ 1
+Rapid Spin @ 3
+Confusion @ 6
+Rock Tomb @ 9
+Power Trick @ 12
+Psybeam @ 15
+Ancient Power @ 18
+Imprison @ 21
+Cosmic Power @ 24
+Extrasensory @ 27
+Earth Power @ 30
+Self-Destruct @ 33
+Guard Split @ 36
+Power Split @ 36
+Sandstorm @ 39
+Explosion @ 42
+end
+Claydol
+Hyper Beam @ 0
+Hyper Beam @ 1
+Teleport @ 1
+Harden @ 1
+Mud-Slap @ 1
+Rapid Spin @ 1
+Confusion @ 1
+Rock Tomb @ 9
+Power Trick @ 12
+Psybeam @ 15
+Ancient Power @ 18
+Imprison @ 21
+Cosmic Power @ 24
+Extrasensory @ 27
+Earth Power @ 30
+Self-Destruct @ 33
+Guard Split @ 38
+Power Split @ 38
+Sandstorm @ 43
+Explosion @ 48
+end
+Lileep
+Wrap @ 1
+Astonish @ 1
+Acid @ 4
+Confuse Ray @ 8
+Ingrain @ 12
+Ancient Power @ 16
+Mega Drain @ 20
+Brine @ 24
+Amnesia @ 28
+Gastro Acid @ 32
+Giga Drain @ 36
+Stockpile @ 41
+Spit Up @ 41
+Swallow @ 41
+Energy Ball @ 44
+end
+Cradily
+Leech Seed @ 1
+Wrap @ 1
+Astonish @ 1
+Acid @ 1
+Confuse Ray @ 1
+Ingrain @ 12
+Ancient Power @ 16
+Mega Drain @ 20
+Brine @ 24
+Amnesia @ 28
+Gastro Acid @ 32
+Giga Drain @ 36
+Stockpile @ 43
+Spit Up @ 43
+Swallow @ 43
+Energy Ball @ 48
+end
+Anorith
+Fury Cutter @ 1
+Harden @ 1
+Water Gun @ 4
+Smack Down @ 8
+Metal Claw @ 12
+Ancient Power @ 16
+Bug Bite @ 20
+Brine @ 24
+Slash @ 28
+Crush Claw @ 32
+Rock Blast @ 36
+Protect @ 41
+X-Scissor @ 44
+end
+Armaldo
+Fury Cutter @ 1
+Harden @ 1
+Water Gun @ 1
+Smack Down @ 1
+Metal Claw @ 12
+Ancient Power @ 16
+Bug Bite @ 20
+Brine @ 24
+Slash @ 28
+Crush Claw @ 32
+Rock Blast @ 36
+Protect @ 43
+X-Scissor @ 48
+end
+Feebas
+Splash @ 1
+Tackle @ 15
+Flail @ 25
+Mirror Coat @ 2
+Dragon Breath @ 3
+Hypnosis @ 4
+Ice Beam @ 5
+Rain Dance @ 6
+Dragon Pulse @ 7
+Confuse Ray @ 8
+Blizzard @ 9
+Light Screen @ 10
+end
+Milotic
+Water Pulse @ 0
+Water Pulse @ 1
+Flail @ 1
+Splash @ 1
+Tackle @ 1
+Wrap @ 1
+Water Gun @ 1
+Disarming Voice @ 4
+Twister @ 8
+Aqua Ring @ 12
+Attract @ 16
+Life Dew @ 20
+Dragon Tail @ 24
+Recover @ 28
+Aqua Tail @ 32
+Safeguard @ 36
+Surf @ 40
+Rain Dance @ 44
+Coil @ 48
+Hydro Pump @ 52
+end
 Castform-521 - 70/70/70/70/70/70 Normal/Normal
 Egg Moves: Future Sight, Disable, Amnesia, Hex, Clear Smog, Reflect Type, Guard Swap, Cosmic Power
 TM Moves: TM03 Water Pulse, TM07 Hail, TM10 Work Up, TM11 Sunny Day, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM22 Solar Beam, TM24 Thunderbolt, TM25 Thunder, TM30 Shadow Ball, TM32 Double Team, TM34 Shock Wave, TM35 Flamethrower, TM37 Sandstorm, TM38 Fire Blast, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM49 Scald, TM53 Energy Ball, TM58 Endure, TM70 Flash, TM72 Avalanche, TM73 Thunder Wave, TM77 Psych Up, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute
@@ -6670,688 +6382,603 @@ Learned Moves:
 	Fire Blast @ 35
 	Blizzard @ 35
 	Hurricane @ 45
-
-Kecleon - 60/90/70/60/120/40 Normal/Normal
-Egg Moves: Disable, Magic Coat, Trick, Fake Out, Recover, Foul Play, Power-Up Punch
-TM Moves: TM01 Focus Punch, TM03 Water Pulse, TM10 Work Up, TM11 Sunny Day, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM22 Solar Beam, TM23 Iron Tail, TM24 Thunderbolt, TM25 Thunder, TM28 Dig, TM30 Shadow Ball, TM31 Brick Break, TM32 Double Team, TM34 Shock Wave, TM35 Flamethrower, TM38 Fire Blast, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM48 Skill Swap, TM56 Fling, TM57 Charge Beam, TM58 Endure, TM60 Drain Punch, TM63 Nasty Plot, TM65 Shadow Claw, TM67 Recycle, TM70 Flash, TM73 Thunder Wave, TM76 Stealth Rock, TM77 Psych Up, TM80 Rock Slide, TM82 Sleep Talk, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM92 Trick Room, TM93 Cut, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Thief @ 1
-	Tail Whip @ 1
-	Astonish @ 1
-	Lick @ 1
-	Scratch @ 1
-	Bind @ 4
-	Shadow Sneak @ 7
-	Feint @ 10
-	Fury Swipes @ 13
-	Disable @ 16
-	Psybeam @ 18
-	Ancient Power @ 21
-	Slash @ 25
-	Detect @ 30
-	Shadow Claw @ 33
-	Screech @ 38
-	Substitute @ 42
-	Sucker Punch @ 46
-	Foul Play @ 50
-
-Shuppet - 44/75/35/63/33/45 Ghost/Ghost
-Evolution(s): 4,0,354,0,37
-Egg Moves: Disable, Destiny Bond, Astonish, Imprison, Shadow Sneak, Confuse Ray, Gunk Shot, Phantom Force
-TM Moves: TM04 Calm Mind, TM11 Sunny Day, TM12 Taunt, TM17 Protect, TM18 Rain Dance, TM21 Dazzling Gleam, TM24 Thunderbolt, TM25 Thunder, TM29 Psychic, TM30 Shadow Ball, TM32 Double Team, TM34 Shock Wave, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM48 Skill Swap, TM57 Charge Beam, TM58 Endure, TM61 Will-O-Wisp, TM66 Payback, TM70 Flash, TM73 Thunder Wave, TM77 Psych Up, TM79 Dark Pulse, TM82 Sleep Talk, TM85 Dream Eater, TM87 Swagger, TM90 Substitute, TM92 Trick Room
-Learned Moves:
-	Knock Off @ 1
-	Screech @ 4
-	Night Shade @ 7
-	Spite @ 10
-	Shadow Sneak @ 13
-	Will-O-Wisp @ 16
-	Pain Split @ 19
-	Hex @ 22
-	Curse @ 26
-	Shadow Ball @ 30
-	Role Play @ 34
-	Sucker Punch @ 38
-	Knock Off @ 42
-	Grudge @ 46
-	Trick @ 50
-	Phantom Force @ 54
-
-Banette - 64/115/65/83/63/65 Ghost/Ghost
-TM Moves: TM04 Calm Mind, TM11 Sunny Day, TM12 Taunt, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM21 Dazzling Gleam, TM24 Thunderbolt, TM25 Thunder, TM29 Psychic, TM30 Shadow Ball, TM32 Double Team, TM34 Shock Wave, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM48 Skill Swap, TM56 Fling, TM57 Charge Beam, TM58 Endure, TM61 Will-O-Wisp, TM65 Shadow Claw, TM66 Payback, TM68 Giga Impact, TM70 Flash, TM73 Thunder Wave, TM77 Psych Up, TM79 Dark Pulse, TM82 Sleep Talk, TM85 Dream Eater, TM87 Swagger, TM90 Substitute, TM92 Trick Room
-Learned Moves:
-	Phantom Force @ 1
-	Knock Off @ 1
-	Screech @ 1
-	Night Shade @ 1
-	Spite @ 1
-	Screech @ 4
-	Night Shade @ 7
-	Spite @ 10
-	Shadow Sneak @ 13
-	Will-O-Wisp @ 16
-	Pain Split @ 19
-	Hex @ 22
-	Curse @ 26
-	Shadow Ball @ 30
-	Role Play @ 34
-	Sucker Punch @ 40
-	Knock Off @ 46
-	Grudge @ 52
-	Trick @ 58
-	Phantom Force @ 64
-
-Duskull - 20/40/90/30/90/25 Ghost/Ghost
-Evolution(s): 4,0,356,0,37
-Egg Moves: Pain Split, Grudge, Memento, Haze, Imprison, Destiny Bond
-TM Moves: TM04 Calm Mind, TM11 Sunny Day, TM12 Taunt, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM29 Psychic, TM30 Shadow Ball, TM32 Double Team, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM48 Skill Swap, TM56 Fling, TM57 Charge Beam, TM58 Endure, TM61 Will-O-Wisp, TM66 Payback, TM70 Flash, TM77 Psych Up, TM79 Dark Pulse, TM82 Sleep Talk, TM85 Dream Eater, TM87 Swagger, TM90 Substitute, TM92 Trick Room
-Learned Moves:
-	Astonish @ 1
-	Leer @ 1
-	Disable @ 4
-	Shadow Sneak @ 8
-	Confuse Ray @ 12
-	Night Shade @ 16
-	Payback @ 20
-	Will-O-Wisp @ 24
-	Mean Look @ 28
-	Hex @ 32
-	Curse @ 36
-	Shadow Ball @ 40
-	Future Sight @ 44
-
-Dusclops - 40/70/130/60/130/25 Ghost/Ghost
-Evolution(s): 6,325,477,0,0
-TM Moves: TM01 Focus Punch, TM04 Calm Mind, TM11 Sunny Day, TM12 Taunt, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM26 Earthquake, TM29 Psychic, TM30 Shadow Ball, TM31 Brick Break, TM32 Double Team, TM39 Rock Tomb, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM48 Skill Swap, TM56 Fling, TM57 Charge Beam, TM58 Endure, TM61 Will-O-Wisp, TM66 Payback, TM68 Giga Impact, TM70 Flash, TM77 Psych Up, TM79 Dark Pulse, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM85 Dream Eater, TM87 Swagger, TM90 Substitute, TM92 Trick Room, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Shadow Punch @ 0
-	Shadow Punch @ 1
-	Fire Punch @ 1
-	Ice Punch @ 1
-	Thunder Punch @ 1
-	Gravity @ 1
-	Bind @ 1
-	Astonish @ 1
-	Leer @ 1
-	Disable @ 1
-	Shadow Sneak @ 1
-	Confuse Ray @ 12
-	Night Shade @ 16
-	Payback @ 20
-	Will-O-Wisp @ 24
-	Mean Look @ 28
-	Hex @ 32
-	Curse @ 36
-	Shadow Ball @ 42
-	Future Sight @ 48
-
-Tropius - 99/68/83/72/87/51 Grass/Flying
-Egg Moves: Headbutt, Slam, Leech Seed, Nature Power, Leaf Storm, Synthesis, Curse, Leaf Blade, Dragon Dance, Dragon Hammer
-TM Moves: TM05 Roar, TM09 Bullet Seed, TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM19 Giga Drain, TM20 Safeguard, TM22 Solar Beam, TM26 Earthquake, TM32 Double Team, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM47 Steel Wing, TM51 Roost, TM53 Energy Ball, TM58 Endure, TM59 Dragon Pulse, TM68 Giga Impact, TM70 Flash, TM75 Swords Dance, TM82 Sleep Talk, TM83 Bulldoze, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM93 Cut, TM94 Fly, TM96 Strength, TM97 Defog, TM98 Rock Smash
-Learned Moves:
-	Leaf Storm @ 1
-	Leer @ 1
-	Gust @ 1
-	Growth @ 1
-	Razor Leaf @ 1
-	Sweet Scent @ 6
-	Stomp @ 10
-	Magical Leaf @ 16
-	Whirlwind @ 21
-	Leaf Tornado @ 26
-	Dragon Dance @ 30
-	Air Slash @ 36
-	Body Slam @ 41
-	Dragon Hammer @ 46
-	Synthesis @ 50
-	Solar Beam @ 56
-	Leaf Storm @ 61
-
-Chimecho - 75/50/80/95/90/65 Psychic/Psychic
-Egg Moves: Disable, Curse, Hypnosis, Wish, Future Sight, Recover, Stored Power, Cosmic Power, Perish Song
-TM Moves: TM04 Calm Mind, TM11 Sunny Day, TM12 Taunt, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM21 Dazzling Gleam, TM29 Psychic, TM30 Shadow Ball, TM32 Double Team, TM33 Reflect, TM34 Shock Wave, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM48 Skill Swap, TM53 Energy Ball, TM57 Charge Beam, TM58 Endure, TM67 Recycle, TM70 Flash, TM73 Thunder Wave, TM77 Psych Up, TM82 Sleep Talk, TM85 Dream Eater, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM92 Trick Room
-Learned Moves:
-	Healing Wish @ 1
-	Wrap @ 1
-	Growl @ 1
-	Astonish @ 1
-	Confusion @ 1
-	Last Resort @ 1
-	Entrainment @ 1
-	Growl @ 4
-	Astonish @ 7
-	Confusion @ 10
-	Yawn @ 13
-	Light Screen @ 16
-	Take Down @ 19
-	Extrasensory @ 22
-	Heal Bell @ 27
-	Uproar @ 32
-	Safeguard @ 37
-	Double-Edge @ 42
-	Heal Pulse @ 47
-	Psychic @ 52
-	Healing Wish @ 57
-
-Absol - 65/130/60/75/60/75 Dark/Dark
-Egg Moves: Curse, Double-Edge, Magic Coat, Mean Look, Bite, Feint, Baton Pass, Zen Headbutt, Sucker Punch, Assurance, Megahorn, Hex, Perish Song, Play Rough
-TM Moves: TM03 Water Pulse, TM04 Calm Mind, TM07 Hail, TM11 Sunny Day, TM12 Taunt, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM24 Thunderbolt, TM25 Thunder, TM30 Shadow Ball, TM32 Double Team, TM34 Shock Wave, TM35 Flamethrower, TM37 Sandstorm, TM38 Fire Blast, TM39 Rock Tomb, TM40 Aerial Ace, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM46 Thief, TM54 False Swipe, TM57 Charge Beam, TM58 Endure, TM61 Will-O-Wisp, TM65 Shadow Claw, TM66 Payback, TM68 Giga Impact, TM70 Flash, TM71 Stone Edge, TM73 Thunder Wave, TM75 Swords Dance, TM77 Psych Up, TM78 Snarl, TM79 Dark Pulse, TM80 Rock Slide, TM81 X-Scissor, TM82 Sleep Talk, TM85 Dream Eater, TM87 Swagger, TM90 Substitute, TM93 Cut, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Quick Attack @ 1
-	Leer @ 1
-	Double Team @ 5
-	Knock Off @ 10
-	Detect @ 15
-	Taunt @ 20
-	Slash @ 25
-	Night Slash @ 30
-	Focus Energy @ 35
-	Sucker Punch @ 40
-	Swords Dance @ 45
-	Future Sight @ 50
-	Perish Song @ 55
-
-Wynaut - 95/23/48/23/48/23 Psychic/Psychic
-Evolution(s): 4,0,202,0,15
-TM Moves: TM20 Safeguard
-Learned Moves:
-	Counter @ 1
-	Mirror Coat @ 1
-	Safeguard @ 1
-	Destiny Bond @ 1
-	Splash @ 1
-	Charm @ 1
-	Encore @ 1
-	Amnesia @ 1
-
-Snorunt - 50/50/50/50/50/50 Ice/Ice
-Evolution(s): 4,0,362,0,42	18,109,478,0,42
-Egg Moves: Block, Disable, Switcheroo, Rollout, Icicle Crash, Spikes, Weather Ball, Hex, Fake Tears
-TM Moves: TM03 Water Pulse, TM07 Hail, TM13 Ice Beam, TM14 Blizzard, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM30 Shadow Ball, TM32 Double Team, TM42 Facade, TM44 Rest, TM45 Attract, TM58 Endure, TM70 Flash, TM72 Avalanche, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute
-Learned Moves:
-	Powder Snow @ 1
-	Astonish @ 1
-	Leer @ 5
-	Double Team @ 10
-	Ice Shard @ 15
-	Protect @ 20
-	Icy Wind @ 25
-	Frost Breath @ 30
-	Bite @ 35
-	Ice Fang @ 40
-	Hail @ 45
-	Headbutt @ 50
-	Crunch @ 55
-	Blizzard @ 60
-
-Glalie - 80/80/80/80/80/80 Ice/Ice
-TM Moves: TM03 Water Pulse, TM07 Hail, TM12 Taunt, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM26 Earthquake, TM30 Shadow Ball, TM32 Double Team, TM41 Torment, TM42 Facade, TM44 Rest, TM45 Attract, TM58 Endure, TM64 Explosion, TM66 Payback, TM68 Giga Impact, TM70 Flash, TM72 Avalanche, TM74 Gyro Ball, TM79 Dark Pulse, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute
-Learned Moves:
-	Freeze-Dry @ 0
-	Freeze-Dry @ 1
-	Sheer Cold @ 1
-	Powder Snow @ 1
-	Astonish @ 1
-	Leer @ 1
-	Double Team @ 1
-	Ice Shard @ 15
-	Protect @ 20
-	Icy Wind @ 25
-	Frost Breath @ 30
-	Bite @ 35
-	Ice Fang @ 40
-	Hail @ 47
-	Headbutt @ 54
-	Crunch @ 61
-	Blizzard @ 68
-
-Spheal - 70/40/50/55/50/25 Ice/Water
-Evolution(s): 4,0,364,0,32
-Egg Moves: Curse, Fissure, Stockpile, Swallow, Spit Up, Yawn, Aqua Ring, Belly Drum, Rollout
-TM Moves: TM03 Water Pulse, TM07 Hail, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM26 Earthquake, TM32 Double Team, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM55 Brine, TM58 Endure, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM95 Surf, TM96 Strength, TM98 Rock Smash, TM99 Waterfall
-Learned Moves:
-	Rollout @ 1
-	Defense Curl @ 1
-	Growl @ 4
-	Water Gun @ 8
-	Powder Snow @ 12
-	Rest @ 16
-	Snore @ 20
-	Brine @ 24
-	Aurora Beam @ 28
-	Encore @ 33
-	Body Slam @ 36
-	Surf @ 40
-	Blizzard @ 44
-	Hail @ 48
-	Sheer Cold @ 52
-
-Sealeo - 90/60/70/75/70/45 Ice/Water
-Evolution(s): 4,0,365,0,44
-TM Moves: TM03 Water Pulse, TM05 Roar, TM07 Hail, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM26 Earthquake, TM32 Double Team, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM55 Brine, TM58 Endure, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM95 Surf, TM96 Strength, TM98 Rock Smash, TM99 Waterfall
-Learned Moves:
-	Swagger @ 0
-	Swagger @ 1
-	Rollout @ 1
-	Defense Curl @ 1
-	Growl @ 1
-	Water Gun @ 1
-	Powder Snow @ 12
-	Rest @ 16
-	Snore @ 20
-	Brine @ 24
-	Aurora Beam @ 28
-	Encore @ 35
-	Body Slam @ 40
-	Surf @ 46
-	Blizzard @ 52
-	Hail @ 58
-	Sheer Cold @ 64
-
-Walrein - 110/80/90/95/90/65 Ice/Water
-TM Moves: TM03 Water Pulse, TM05 Roar, TM07 Hail, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM26 Earthquake, TM32 Double Team, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM55 Brine, TM58 Endure, TM68 Giga Impact, TM72 Avalanche, TM75 Swords Dance, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM95 Surf, TM96 Strength, TM98 Rock Smash, TM99 Waterfall
-Learned Moves:
-	Swagger @ 1
-	Crunch @ 1
-	Ice Fang @ 1
-	Rollout @ 1
-	Defense Curl @ 1
-	Growl @ 1
-	Water Gun @ 1
-	Powder Snow @ 12
-	Rest @ 16
-	Snore @ 20
-	Brine @ 24
-	Aurora Beam @ 28
-	Encore @ 35
-	Body Slam @ 40
-	Surf @ 48
-	Blizzard @ 56
-	Hail @ 64
-	Sheer Cold @ 72
-
-Clamperl - 35/64/85/74/55/32 Water/Water
-Evolution(s): 6,226,367,0,0	6,227,368,0,0
-Egg Moves: Body Slam, Supersonic, Confuse Ray, Aqua Ring, Muddy Water
-TM Moves: TM03 Water Pulse, TM07 Hail, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM32 Double Team, TM42 Facade, TM44 Rest, TM45 Attract, TM49 Scald, TM55 Brine, TM58 Endure, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute, TM95 Surf, TM99 Waterfall
-Learned Moves:
-	Water Gun @ 1
-	Whirlpool @ 1
-	Iron Defense @ 1
-	Shell Smash @ 50
-
-Huntail - 55/104/105/94/75/52 Water/Water
-TM Moves: TM03 Water Pulse, TM07 Hail, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM32 Double Team, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM49 Scald, TM55 Brine, TM58 Endure, TM68 Giga Impact, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute, TM95 Surf, TM99 Waterfall
-Learned Moves:
-	Whirlpool @ 1
-	Bite @ 1
-	Water Gun @ 1
-	Iron Defense @ 1
-	Shell Smash @ 1
-	Screech @ 5
-	Scary Face @ 9
-	Rain Dance @ 11
-	Water Pulse @ 14
-	Ice Fang @ 16
-	Brine @ 19
-	Sucker Punch @ 23
-	Dive @ 26
-	Baton Pass @ 29
-	Crunch @ 34
-	Aqua Tail @ 39
-	Coil @ 45
-	Hydro Pump @ 50
-
-Gorebyss - 55/84/105/114/75/52 Water/Water
-TM Moves: TM03 Water Pulse, TM07 Hail, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM29 Psychic, TM30 Shadow Ball, TM32 Double Team, TM42 Facade, TM44 Rest, TM45 Attract, TM49 Scald, TM55 Brine, TM58 Endure, TM68 Giga Impact, TM77 Psych Up, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute, TM95 Surf, TM99 Waterfall
-Learned Moves:
-	Whirlpool @ 1
-	Confusion @ 1
-	Water Gun @ 1
-	Iron Defense @ 1
-	Shell Smash @ 1
-	Rain Dance @ 5
-	Agility @ 9
-	Draining Kiss @ 11
-	Water Pulse @ 14
-	Amnesia @ 16
-	Aqua Ring @ 19
-	Safeguard @ 23
-	Dive @ 26
-	Baton Pass @ 29
-	Psychic @ 34
-	Aqua Tail @ 39
-	Coil @ 45
-	Hydro Pump @ 50
-
-Relicanth - 100/90/130/45/65/55 Water/Rock
-Egg Moves: Mud-Slap, Skull Bash, Amnesia, Aqua Tail, Snore, Muddy Water, Mud Shot, Zen Headbutt
-TM Moves: TM03 Water Pulse, TM04 Calm Mind, TM07 Hail, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM26 Earthquake, TM32 Double Team, TM37 Sandstorm, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM45 Attract, TM49 Scald, TM55 Brine, TM58 Endure, TM68 Giga Impact, TM69 Rock Polish, TM71 Stone Edge, TM76 Stealth Rock, TM77 Psych Up, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM95 Surf, TM98 Rock Smash, TM99 Waterfall
-Learned Moves:
-	Tackle @ 1
-	Harden @ 1
-	Water Gun @ 5
-	Ancient Power @ 10
-	Yawn @ 15
-	Dive @ 20
-	Take Down @ 25
-	Aqua Tail @ 30
-	Rest @ 35
-	Flail @ 40
-	Hydro Pump @ 45
-	Double-Edge @ 50
-	Head Smash @ 55
-
-Luvdisc - 43/30/55/40/65/97 Water/Water
-Egg Moves: Splash, Supersonic, Aqua Ring, Aqua Jet, Heal Pulse, Entrainment
-TM Moves: TM03 Water Pulse, TM07 Hail, TM13 Ice Beam, TM14 Blizzard, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM32 Double Team, TM42 Facade, TM44 Rest, TM45 Attract, TM49 Scald, TM55 Brine, TM58 Endure, TM77 Psych Up, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute, TM95 Surf, TM99 Waterfall
-Learned Moves:
-	Tackle @ 1
-	Charm @ 1
-	Water Gun @ 4
-	Agility @ 7
-	Draining Kiss @ 9
-	Tearful Look @ 13
-	Water Pulse @ 17
-	Attract @ 20
-	Brine @ 22
-	Flail @ 26
-	Sweet Kiss @ 31
-	Take Down @ 34
-	Baby-Doll Eyes @ 37
-	Aqua Ring @ 40
-	Soak @ 42
-	Hydro Pump @ 46
-	Safeguard @ 49
-
-Bagon - 45/75/60/40/30/50 Dragon/Dragon
-Evolution(s): 4,0,372,0,30
-Egg Moves: Defense Curl, Dragon Rush, Thrash, Twister, Hydro Pump, Dragon Dance, Fire Fang
-Special Tutor Moves: Draco Meteor
-TM Moves: TM02 Dragon Claw, TM05 Roar, TM11 Sunny Day, TM17 Protect, TM18 Rain Dance, TM31 Brick Break, TM32 Double Team, TM35 Flamethrower, TM38 Fire Blast, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM58 Endure, TM59 Dragon Pulse, TM65 Shadow Claw, TM80 Rock Slide, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute, TM93 Cut, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Ember @ 1
-	Leer @ 1
-	Bite @ 5
-	Dragon Breath @ 10
-	Headbutt @ 15
-	Scary Face @ 20
-	Crunch @ 25
-	Dragon Claw @ 31
-	Zen Headbutt @ 35
-	Focus Energy @ 40
-	Flamethrower @ 45
-	Outrage @ 50
-	Double-Edge @ 55
-
-Shelgon - 65/95/100/60/50/50 Dragon/Dragon
-Evolution(s): 4,0,373,0,50
-Special Tutor Moves: Draco Meteor
-TM Moves: TM02 Dragon Claw, TM05 Roar, TM11 Sunny Day, TM17 Protect, TM18 Rain Dance, TM31 Brick Break, TM32 Double Team, TM35 Flamethrower, TM38 Fire Blast, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM58 Endure, TM59 Dragon Pulse, TM65 Shadow Claw, TM80 Rock Slide, TM82 Sleep Talk, TM87 Swagger, TM90 Substitute, TM93 Cut, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Protect @ 0
-	Protect @ 1
-	Ember @ 1
-	Leer @ 1
-	Bite @ 1
-	Dragon Breath @ 1
-	Headbutt @ 15
-	Scary Face @ 20
-	Crunch @ 25
-	Dragon Claw @ 33
-	Zen Headbutt @ 39
-	Focus Energy @ 46
-	Flamethrower @ 53
-	Outrage @ 60
-	Double-Edge @ 67
-
-Salamence - 95/135/80/110/80/100 Dragon/Flying
-Special Tutor Moves: Draco Meteor
-TM Moves: TM02 Dragon Claw, TM05 Roar, TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM23 Iron Tail, TM26 Earthquake, TM31 Brick Break, TM32 Double Team, TM35 Flamethrower, TM38 Fire Blast, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM47 Steel Wing, TM51 Roost, TM58 Endure, TM59 Dragon Pulse, TM65 Shadow Claw, TM68 Giga Impact, TM71 Stone Edge, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM93 Cut, TM94 Fly, TM96 Strength, TM97 Defog, TM98 Rock Smash
-Learned Moves:
-	Fly @ 0
-	Fly @ 1
-	Protect @ 1
-	Dragon Tail @ 1
-	Ember @ 1
-	Leer @ 1
-	Bite @ 1
-	Dragon Breath @ 1
-	Headbutt @ 15
-	Scary Face @ 20
-	Crunch @ 25
-	Dragon Claw @ 33
-	Zen Headbutt @ 39
-	Focus Energy @ 46
-	Flamethrower @ 55
-	Outrage @ 64
-	Double-Edge @ 73
-
-Beldum - 40/55/80/35/60/30 Steel/Psychic
-Evolution(s): 4,0,375,0,20
-Learned Moves:
-	Tackle @ 1
-
-Metang - 60/75/100/55/80/50 Steel/Psychic
-Evolution(s): 4,0,376,0,45
-TM Moves: TM11 Sunny Day, TM15 Hyper Beam, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM26 Earthquake, TM29 Psychic, TM30 Shadow Ball, TM31 Brick Break, TM32 Double Team, TM33 Reflect, TM36 Sludge Bomb, TM37 Sandstorm, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM58 Endure, TM64 Explosion, TM69 Rock Polish, TM70 Flash, TM74 Gyro Ball, TM76 Stealth Rock, TM77 Psych Up, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM91 Flash Cannon, TM93 Cut, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Confusion @ 0
-	Metal Claw @ 0
-	Confusion @ 1
-	Metal Claw @ 1
-	Bullet Punch @ 1
-	Tackle @ 1
-	Zen Headbutt @ 6
-	Magnet Rise @ 12
-	Flash Cannon @ 18
-	Take Down @ 26
-	Psychic @ 34
-	Scary Face @ 42
-	Meteor Mash @ 50
-	Iron Defense @ 58
-	Agility @ 66
-	Hyper Beam @ 74
-
-Metagross - 80/135/130/95/90/70 Steel/Psychic
-TM Moves: TM11 Sunny Day, TM15 Hyper Beam, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM26 Earthquake, TM29 Psychic, TM30 Shadow Ball, TM31 Brick Break, TM32 Double Team, TM33 Reflect, TM36 Sludge Bomb, TM37 Sandstorm, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM58 Endure, TM64 Explosion, TM68 Giga Impact, TM69 Rock Polish, TM70 Flash, TM74 Gyro Ball, TM76 Stealth Rock, TM77 Psych Up, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM91 Flash Cannon, TM93 Cut, TM96 Strength, TM98 Rock Smash
-Learned Moves:
-	Hammer Arm @ 0
-	Hammer Arm @ 1
-	Confusion @ 1
-	Metal Claw @ 1
-	Bullet Punch @ 1
-	Tackle @ 1
-	Zen Headbutt @ 6
-	Magnet Rise @ 12
-	Flash Cannon @ 16
-	Take Down @ 26
-	Psychic @ 34
-	Scary Face @ 42
-	Meteor Mash @ 52
-	Iron Defense @ 62
-	Agility @ 72
-	Hyper Beam @ 82
-
-Regirock - 80/100/200/50/100/50 Rock/Rock
-TM Moves: TM01 Focus Punch, TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM20 Safeguard, TM24 Thunderbolt, TM25 Thunder, TM26 Earthquake, TM28 Dig, TM31 Brick Break, TM32 Double Team, TM34 Shock Wave, TM37 Sandstorm, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM52 Focus Blast, TM56 Fling, TM57 Charge Beam, TM58 Endure, TM60 Drain Punch, TM64 Explosion, TM68 Giga Impact, TM69 Rock Polish, TM71 Stone Edge, TM73 Thunder Wave, TM76 Stealth Rock, TM77 Psych Up, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM91 Flash Cannon, TM96 Strength, TM98 Rock Smash, TM100 Rock Climb
-Learned Moves:
-	Charge Beam @ 1
-	Rock Throw @ 1
-	Bulldoze @ 6
-	Ancient Power @ 12
-	Stomp @ 18
-	Rock Slide @ 24
-	Curse @ 30
-	Iron Defense @ 36
-	Hammer Arm @ 42
-	Stone Edge @ 48
-	Superpower @ 54
-	Lock-On @ 60
-	Zap Cannon @ 66
-	Hyper Beam @ 72
-	Explosion @ 78
-
-Regice - 80/50/100/100/200/50 Ice/Ice
-TM Moves: TM01 Focus Punch, TM07 Hail, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM24 Thunderbolt, TM25 Thunder, TM26 Earthquake, TM31 Brick Break, TM32 Double Team, TM34 Shock Wave, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM52 Focus Blast, TM56 Fling, TM57 Charge Beam, TM58 Endure, TM64 Explosion, TM68 Giga Impact, TM69 Rock Polish, TM72 Avalanche, TM73 Thunder Wave, TM77 Psych Up, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM91 Flash Cannon, TM96 Strength, TM98 Rock Smash, TM100 Rock Climb
-Learned Moves:
-	Charge Beam @ 1
-	Icy Wind @ 1
-	Bulldoze @ 6
-	Ancient Power @ 12
-	Stomp @ 18
-	Ice Beam @ 24
-	Curse @ 30
-	Amnesia @ 36
-	Hammer Arm @ 42
-	Blizzard @ 48
-	Superpower @ 54
-	Lock-On @ 60
-	Zap Cannon @ 66
-	Hyper Beam @ 72
-	Explosion @ 78
-
-Registeel - 80/75/150/75/150/50 Steel/Steel
-TM Moves: TM01 Focus Punch, TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM24 Thunderbolt, TM25 Thunder, TM26 Earthquake, TM31 Brick Break, TM32 Double Team, TM34 Shock Wave, TM37 Sandstorm, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM52 Focus Blast, TM56 Fling, TM57 Charge Beam, TM58 Endure, TM64 Explosion, TM65 Shadow Claw, TM68 Giga Impact, TM69 Rock Polish, TM73 Thunder Wave, TM76 Stealth Rock, TM77 Psych Up, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM91 Flash Cannon, TM96 Strength, TM98 Rock Smash, TM100 Rock Climb
-Learned Moves:
-	Charge Beam @ 1
-	Metal Claw @ 1
-	Bulldoze @ 6
-	Ancient Power @ 12
-	Stomp @ 18
-	Iron Head @ 24
-	Flash Cannon @ 24
-	Curse @ 30
-	Iron Defense @ 36
-	Amnesia @ 36
-	Hammer Arm @ 42
-	Heavy Slam @ 48
-	Superpower @ 54
-	Lock-On @ 60
-	Zap Cannon @ 66
-	Hyper Beam @ 72
-	Explosion @ 78
-
-Latias - 80/80/90/110/130/110 Dragon/Psychic
-Special Tutor Moves: Draco Meteor
-TM Moves: TM02 Dragon Claw, TM03 Water Pulse, TM04 Calm Mind, TM05 Roar, TM11 Sunny Day, TM13 Ice Beam, TM15 Hyper Beam, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM22 Solar Beam, TM24 Thunderbolt, TM25 Thunder, TM26 Earthquake, TM29 Psychic, TM30 Shadow Ball, TM32 Double Team, TM33 Reflect, TM34 Shock Wave, TM37 Sandstorm, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM47 Steel Wing, TM51 Roost, TM53 Energy Ball, TM57 Charge Beam, TM58 Endure, TM59 Dragon Pulse, TM65 Shadow Claw, TM68 Giga Impact, TM70 Flash, TM73 Thunder Wave, TM77 Psych Up, TM82 Sleep Talk, TM83 Bulldoze, TM85 Dream Eater, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM93 Cut, TM94 Fly, TM95 Surf, TM97 Defog, TM99 Waterfall
-Learned Moves:
-	Stored Power @ 1
-	Charm @ 1
-	Helping Hand @ 5
-	Recover @ 10
-	Confusion @ 15
-	Tailwind @ 20
-	Dragon Breath @ 25
-	Wish @ 30
-	Mist Ball @ 35
-	Zen Headbutt @ 40
-	Dragon Pulse @ 45
-	Heal Pulse @ 50
-	Reflect Type @ 55
-	Psychic @ 60
-	Guard Split @ 65
-	Healing Wish @ 70
-	Psycho Shift @ 75
-
-Latios - 80/90/80/130/110/110 Dragon/Psychic
-Special Tutor Moves: Draco Meteor
-TM Moves: TM02 Dragon Claw, TM03 Water Pulse, TM04 Calm Mind, TM05 Roar, TM11 Sunny Day, TM13 Ice Beam, TM15 Hyper Beam, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM22 Solar Beam, TM24 Thunderbolt, TM25 Thunder, TM26 Earthquake, TM29 Psychic, TM30 Shadow Ball, TM32 Double Team, TM33 Reflect, TM34 Shock Wave, TM37 Sandstorm, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM45 Attract, TM47 Steel Wing, TM51 Roost, TM53 Energy Ball, TM57 Charge Beam, TM58 Endure, TM59 Dragon Pulse, TM65 Shadow Claw, TM68 Giga Impact, TM70 Flash, TM73 Thunder Wave, TM77 Psych Up, TM82 Sleep Talk, TM83 Bulldoze, TM85 Dream Eater, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM93 Cut, TM94 Fly, TM95 Surf, TM97 Defog, TM99 Waterfall
-Learned Moves:
-	Stored Power @ 1
-	Dragon Dance @ 1
-	Helping Hand @ 5
-	Recover @ 10
-	Confusion @ 15
-	Tailwind @ 20
-	Dragon Breath @ 25
-	Ally Switch @ 30
-	Luster Purge @ 35
-	Zen Headbutt @ 40
-	Dragon Pulse @ 45
-	Heal Pulse @ 50
-	Simple Beam @ 55
-	Psychic @ 60
-	Power Split @ 65
-	Memento @ 70
-	Psycho Shift @ 75
-
-Kyogre - 100/100/90/150/140/90 Water/Water
-TM Moves: TM03 Water Pulse, TM04 Calm Mind, TM05 Roar, TM07 Hail, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM24 Thunderbolt, TM25 Thunder, TM26 Earthquake, TM31 Brick Break, TM32 Double Team, TM34 Shock Wave, TM39 Rock Tomb, TM42 Facade, TM44 Rest, TM49 Scald, TM55 Brine, TM58 Endure, TM68 Giga Impact, TM72 Avalanche, TM73 Thunder Wave, TM77 Psych Up, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM95 Surf, TM96 Strength, TM98 Rock Smash, TM99 Waterfall
-Learned Moves:
-	Water Pulse @ 1
-	Ancient Power @ 1
-	Body Slam @ 1
-	Scary Face @ 1
-	Aqua Tail @ 9
-	Calm Mind @ 18
-	Muddy Water @ 27
-	Ice Beam @ 36
-	Sheer Cold @ 45
-	Aqua Ring @ 54
-	Origin Pulse @ 63
-	Hydro Pump @ 72
-	Double-Edge @ 81
-	Water Spout @ 90
-
-Groudon - 100/150/140/100/90/90 Ground/Ground
-TM Moves: TM02 Dragon Claw, TM05 Roar, TM08 Bulk Up, TM11 Sunny Day, TM15 Hyper Beam, TM17 Protect, TM20 Safeguard, TM22 Solar Beam, TM23 Iron Tail, TM24 Thunderbolt, TM25 Thunder, TM26 Earthquake, TM28 Dig, TM31 Brick Break, TM32 Double Team, TM34 Shock Wave, TM35 Flamethrower, TM37 Sandstorm, TM38 Fire Blast, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM50 Overheat, TM52 Focus Blast, TM56 Fling, TM58 Endure, TM59 Dragon Pulse, TM65 Shadow Claw, TM68 Giga Impact, TM69 Rock Polish, TM71 Stone Edge, TM73 Thunder Wave, TM75 Swords Dance, TM76 Stealth Rock, TM77 Psych Up, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM93 Cut, TM96 Strength, TM98 Rock Smash, TM100 Rock Climb
-Learned Moves:
-	Mud Shot @ 1
-	Ancient Power @ 1
-	Lava Plume @ 1
-	Scary Face @ 1
-	Earth Power @ 9
-	Bulk Up @ 18
-	Earthquake @ 27
-	Hammer Arm @ 36
-	Fissure @ 45
-	Rest @ 54
-	Precipice Blades @ 63
-	Fire Blast @ 72
-	Solar Beam @ 81
-	Eruption @ 90
-
-Rayquaza - 105/150/90/150/90/95 Dragon/Flying
-Special Tutor Moves: Draco Meteor
-TM Moves: TM02 Dragon Claw, TM03 Water Pulse, TM05 Roar, TM08 Bulk Up, TM11 Sunny Day, TM13 Ice Beam, TM14 Blizzard, TM15 Hyper Beam, TM17 Protect, TM18 Rain Dance, TM22 Solar Beam, TM23 Iron Tail, TM24 Thunderbolt, TM25 Thunder, TM26 Earthquake, TM31 Brick Break, TM32 Double Team, TM34 Shock Wave, TM35 Flamethrower, TM37 Sandstorm, TM38 Fire Blast, TM39 Rock Tomb, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM50 Overheat, TM52 Focus Blast, TM53 Energy Ball, TM56 Fling, TM58 Endure, TM59 Dragon Pulse, TM65 Shadow Claw, TM68 Giga Impact, TM71 Stone Edge, TM72 Avalanche, TM73 Thunder Wave, TM74 Gyro Ball, TM75 Swords Dance, TM77 Psych Up, TM80 Rock Slide, TM82 Sleep Talk, TM83 Bulldoze, TM87 Swagger, TM90 Substitute, TM94 Fly, TM95 Surf, TM96 Strength, TM98 Rock Smash, TM99 Waterfall
-Learned Moves:
-	Dragon Ascent @ 1
-	Twister @ 1
-	Ancient Power @ 1
-	Air Slash @ 1
-	Scary Face @ 1
-	Crunch @ 9
-	Dragon Dance @ 18
-	Extreme Speed @ 27
-	Dragon Pulse @ 36
-	Hyper Voice @ 45
-	Rest @ 54
-	Fly @ 63
-	Hurricane @ 72
-	Outrage @ 81
-	Hyper Beam @ 90
-
-Jirachi - 100/100/100/100/100/100 Steel/Psychic
-TM Moves: TM03 Water Pulse, TM04 Calm Mind, TM11 Sunny Day, TM15 Hyper Beam, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM21 Dazzling Gleam, TM24 Thunderbolt, TM25 Thunder, TM29 Psychic, TM30 Shadow Ball, TM32 Double Team, TM33 Reflect, TM34 Shock Wave, TM37 Sandstorm, TM40 Aerial Ace, TM42 Facade, TM44 Rest, TM48 Skill Swap, TM53 Energy Ball, TM56 Fling, TM57 Charge Beam, TM58 Endure, TM60 Drain Punch, TM67 Recycle, TM68 Giga Impact, TM70 Flash, TM73 Thunder Wave, TM76 Stealth Rock, TM77 Psych Up, TM82 Sleep Talk, TM85 Dream Eater, TM86 Grass Knot, TM87 Swagger, TM89 U-turn, TM90 Substitute, TM91 Flash Cannon, TM92 Trick Room
-Learned Moves:
-	Confusion @ 1
-	Wish @ 1
-	Swift @ 7
-	Helping Hand @ 14
-	Life Dew @ 21
-	Zen Headbutt @ 28
-	Gravity @ 35
-	Psychic @ 42
-	Meteor Mash @ 49
-	Healing Wish @ 56
-	Rest @ 63
-	Future Sight @ 70
-	Double-Edge @ 77
-	Cosmic Power @ 84
-	Last Resort @ 91
-	Doom Desire @ 98
-
+end
+Kecleon
+Thief @ 1
+Tail Whip @ 1
+Astonish @ 1
+Lick @ 1
+Scratch @ 1
+Bind @ 4
+Shadow Sneak @ 7
+Feint @ 10
+Fury Swipes @ 13
+Disable @ 16
+Psybeam @ 18
+Ancient Power @ 21
+Slash @ 25
+Detect @ 30
+Shadow Claw @ 33
+Screech @ 38
+Substitute @ 42
+Sucker Punch @ 46
+Foul Play @ 50
+end
+Shuppet
+Knock Off @ 1
+Screech @ 4
+Night Shade @ 7
+Spite @ 10
+Shadow Sneak @ 13
+Will-O-Wisp @ 16
+Pain Split @ 19
+Hex @ 22
+Curse @ 26
+Shadow Ball @ 30
+Role Play @ 34
+Sucker Punch @ 38
+Knock Off @ 42
+Grudge @ 46
+Trick @ 50
+Phantom Force @ 54
+end
+Banette
+Phantom Force @ 1
+Knock Off @ 1
+Screech @ 1
+Night Shade @ 1
+Spite @ 1
+Screech @ 4
+Night Shade @ 7
+Spite @ 10
+Shadow Sneak @ 13
+Will-O-Wisp @ 16
+Pain Split @ 19
+Hex @ 22
+Curse @ 26
+Shadow Ball @ 30
+Role Play @ 34
+Sucker Punch @ 40
+Knock Off @ 46
+Grudge @ 52
+Trick @ 58
+Phantom Force @ 64
+end
+Duskull
+Astonish @ 1
+Leer @ 1
+Disable @ 4
+Shadow Sneak @ 8
+Confuse Ray @ 12
+Night Shade @ 16
+Payback @ 20
+Will-O-Wisp @ 24
+Mean Look @ 28
+Hex @ 32
+Curse @ 36
+Shadow Ball @ 40
+Future Sight @ 44
+end
+Dusclops
+Shadow Punch @ 0
+Shadow Punch @ 1
+Fire Punch @ 1
+Ice Punch @ 1
+Thunder Punch @ 1
+Gravity @ 1
+Bind @ 1
+Astonish @ 1
+Leer @ 1
+Disable @ 1
+Shadow Sneak @ 1
+Confuse Ray @ 12
+Night Shade @ 16
+Payback @ 20
+Will-O-Wisp @ 24
+Mean Look @ 28
+Hex @ 32
+Curse @ 36
+Shadow Ball @ 42
+Future Sight @ 48
+end
+Tropius
+Leaf Storm @ 1
+Leer @ 1
+Gust @ 1
+Growth @ 1
+Razor Leaf @ 1
+Sweet Scent @ 6
+Stomp @ 10
+Magical Leaf @ 16
+Whirlwind @ 21
+Leaf Tornado @ 26
+Dragon Dance @ 30
+Air Slash @ 36
+Body Slam @ 41
+Dragon Hammer @ 46
+Synthesis @ 50
+Solar Beam @ 56
+Leaf Storm @ 61
+end
+Chimecho
+Healing Wish @ 1
+Wrap @ 1
+Growl @ 1
+Astonish @ 1
+Confusion @ 1
+Last Resort @ 1
+Entrainment @ 1
+Growl @ 4
+Astonish @ 7
+Confusion @ 10
+Yawn @ 13
+Light Screen @ 16
+Take Down @ 19
+Extrasensory @ 22
+Heal Bell @ 27
+Uproar @ 32
+Safeguard @ 37
+Double-Edge @ 42
+Heal Pulse @ 47
+Psychic @ 52
+Healing Wish @ 57
+end
+Absol
+Quick Attack @ 1
+Leer @ 1
+Double Team @ 5
+Knock Off @ 10
+Detect @ 15
+Taunt @ 20
+Slash @ 25
+Night Slash @ 30
+Focus Energy @ 35
+Sucker Punch @ 40
+Swords Dance @ 45
+Future Sight @ 50
+Perish Song @ 55
+end
+Wynaut
+Counter @ 1
+Mirror Coat @ 1
+Safeguard @ 1
+Destiny Bond @ 1
+Splash @ 1
+Charm @ 1
+Encore @ 1
+Amnesia @ 1
+end
+Snorunt
+Powder Snow @ 1
+Astonish @ 1
+Leer @ 5
+Double Team @ 10
+Ice Shard @ 15
+Protect @ 20
+Icy Wind @ 25
+Frost Breath @ 30
+Bite @ 35
+Ice Fang @ 40
+Hail @ 45
+Headbutt @ 50
+Crunch @ 55
+Blizzard @ 60
+end
+Glalie
+Freeze-Dry @ 0
+Freeze-Dry @ 1
+Sheer Cold @ 1
+Powder Snow @ 1
+Astonish @ 1
+Leer @ 1
+Double Team @ 1
+Ice Shard @ 15
+Protect @ 20
+Icy Wind @ 25
+Frost Breath @ 30
+Bite @ 35
+Ice Fang @ 40
+Hail @ 47
+Headbutt @ 54
+Crunch @ 61
+Blizzard @ 68
+end
+Spheal
+Rollout @ 1
+Defense Curl @ 1
+Growl @ 4
+Water Gun @ 8
+Powder Snow @ 12
+Rest @ 16
+Snore @ 20
+Brine @ 24
+Aurora Beam @ 28
+Encore @ 33
+Body Slam @ 36
+Surf @ 40
+Blizzard @ 44
+Hail @ 48
+Sheer Cold @ 52
+end
+Sealeo
+Swagger @ 0
+Swagger @ 1
+Rollout @ 1
+Defense Curl @ 1
+Growl @ 1
+Water Gun @ 1
+Powder Snow @ 12
+Rest @ 16
+Snore @ 20
+Brine @ 24
+Aurora Beam @ 28
+Encore @ 35
+Body Slam @ 40
+Surf @ 46
+Blizzard @ 52
+Hail @ 58
+Sheer Cold @ 64
+end
+Walrein
+Swagger @ 1
+Crunch @ 1
+Ice Fang @ 1
+Rollout @ 1
+Defense Curl @ 1
+Growl @ 1
+Water Gun @ 1
+Powder Snow @ 12
+Rest @ 16
+Snore @ 20
+Brine @ 24
+Aurora Beam @ 28
+Encore @ 35
+Body Slam @ 40
+Surf @ 48
+Blizzard @ 56
+Hail @ 64
+Sheer Cold @ 72
+end
+Clamperl
+Water Gun @ 1
+Whirlpool @ 1
+Iron Defense @ 1
+Shell Smash @ 50
+Water Pulse @ 2
+Blizzard @ 3
+Substitute @ 4
+Hail @ 5
+Aqua Ring @ 6
+Scald @ 7
+end
+Huntail
+Whirlpool @ 1
+Bite @ 1
+Water Gun @ 1
+Iron Defense @ 1
+Shell Smash @ 1
+Screech @ 5
+Scary Face @ 9
+Rain Dance @ 11
+Water Pulse @ 14
+Ice Fang @ 16
+Brine @ 19
+Sucker Punch @ 23
+Dive @ 26
+Baton Pass @ 29
+Crunch @ 34
+Aqua Tail @ 39
+Coil @ 45
+Hydro Pump @ 50
+end
+Gorebyss
+Whirlpool @ 1
+Confusion @ 1
+Water Gun @ 1
+Iron Defense @ 1
+Shell Smash @ 1
+Rain Dance @ 5
+Agility @ 9
+Draining Kiss @ 11
+Water Pulse @ 14
+Amnesia @ 16
+Aqua Ring @ 19
+Safeguard @ 23
+Dive @ 26
+Baton Pass @ 29
+Psychic @ 34
+Aqua Tail @ 39
+Coil @ 45
+Hydro Pump @ 50
+end
+Relicanth
+Tackle @ 1
+Harden @ 1
+Water Gun @ 5
+Ancient Power @ 10
+Yawn @ 15
+Dive @ 20
+Take Down @ 25
+Aqua Tail @ 30
+Rest @ 35
+Flail @ 40
+Hydro Pump @ 45
+Double-Edge @ 50
+Head Smash @ 55
+end
+Luvdisc
+Tackle @ 1
+Charm @ 1
+Water Gun @ 4
+Agility @ 7
+Draining Kiss @ 9
+Tearful Look @ 13
+Water Pulse @ 17
+Attract @ 20
+Brine @ 22
+Flail @ 26
+Sweet Kiss @ 31
+Take Down @ 34
+Baby-Doll Eyes @ 37
+Aqua Ring @ 40
+Soak @ 42
+Hydro Pump @ 46
+Safeguard @ 49
+end
+Bagon
+Ember @ 1
+Leer @ 1
+Bite @ 5
+Dragon Breath @ 10
+Headbutt @ 15
+Scary Face @ 20
+Crunch @ 25
+Dragon Claw @ 31
+Zen Headbutt @ 35
+Focus Energy @ 40
+Flamethrower @ 45
+Outrage @ 50
+Double-Edge @ 55
+end
+Shelgon
+Protect @ 0
+Protect @ 1
+Ember @ 1
+Leer @ 1
+Bite @ 1
+Dragon Breath @ 1
+Headbutt @ 15
+Scary Face @ 20
+Crunch @ 25
+Dragon Claw @ 33
+Zen Headbutt @ 39
+Focus Energy @ 46
+Flamethrower @ 53
+Outrage @ 60
+Double-Edge @ 67
+end
+Salamence
+Fly @ 0
+Fly @ 1
+Protect @ 1
+Dragon Tail @ 1
+Ember @ 1
+Leer @ 1
+Bite @ 1
+Dragon Breath @ 1
+Headbutt @ 15
+Scary Face @ 20
+Crunch @ 25
+Dragon Claw @ 33
+Zen Headbutt @ 39
+Focus Energy @ 46
+Flamethrower @ 55
+Outrage @ 64
+Double-Edge @ 73
+end
+Beldum
+Tackle @ 1
+Light Screen @ 2
+Flash Cannon @ 3
+Confusion @ 4
+Take Down @ 5
+Shadow Ball @ 5
+Harden @ 6
+end
+Metang
+Confusion @ 0
+Metal Claw @ 0
+Confusion @ 1
+Metal Claw @ 1
+Bullet Punch @ 1
+Tackle @ 1
+Zen Headbutt @ 6
+Magnet Rise @ 12
+Flash Cannon @ 18
+Take Down @ 26
+Psychic @ 34
+Scary Face @ 42
+Meteor Mash @ 50
+Iron Defense @ 58
+Agility @ 66
+Hyper Beam @ 74
+end
+Metagross
+Hammer Arm @ 0
+Hammer Arm @ 1
+Confusion @ 1
+Metal Claw @ 1
+Bullet Punch @ 1
+Tackle @ 1
+Zen Headbutt @ 6
+Magnet Rise @ 12
+Flash Cannon @ 16
+Take Down @ 26
+Psychic @ 34
+Scary Face @ 42
+Meteor Mash @ 52
+Iron Defense @ 62
+Agility @ 72
+Hyper Beam @ 82
+end
+Regirock
+Charge Beam @ 1
+Rock Throw @ 1
+Bulldoze @ 6
+Ancient Power @ 12
+Stomp @ 18
+Rock Slide @ 24
+Curse @ 30
+Iron Defense @ 36
+Hammer Arm @ 42
+Stone Edge @ 48
+Superpower @ 54
+Lock-On @ 60
+Zap Cannon @ 66
+Hyper Beam @ 72
+Explosion @ 78
+end
+Regice
+Charge Beam @ 1
+Icy Wind @ 1
+Bulldoze @ 6
+Ancient Power @ 12
+Stomp @ 18
+Ice Beam @ 24
+Curse @ 30
+Amnesia @ 36
+Hammer Arm @ 42
+Blizzard @ 48
+Superpower @ 54
+Lock-On @ 60
+Zap Cannon @ 66
+Hyper Beam @ 72
+Explosion @ 78
+end
+Registeel
+Charge Beam @ 1
+Metal Claw @ 1
+Bulldoze @ 6
+Ancient Power @ 12
+Stomp @ 18
+Iron Head @ 24
+Flash Cannon @ 24
+Curse @ 30
+Iron Defense @ 36
+Amnesia @ 36
+Hammer Arm @ 42
+Heavy Slam @ 48
+Superpower @ 54
+Lock-On @ 60
+Zap Cannon @ 66
+Hyper Beam @ 72
+Explosion @ 78
+end
+Latias
+Stored Power @ 1
+Charm @ 1
+Helping Hand @ 5
+Recover @ 10
+Confusion @ 15
+Tailwind @ 20
+Dragon Breath @ 25
+Wish @ 30
+Mist Ball @ 35
+Zen Headbutt @ 40
+Dragon Pulse @ 45
+Heal Pulse @ 50
+Reflect Type @ 55
+Psychic @ 60
+Guard Split @ 65
+Healing Wish @ 70
+Psycho Shift @ 75
+end
+Latios
+Stored Power @ 1
+Dragon Dance @ 1
+Helping Hand @ 5
+Recover @ 10
+Confusion @ 15
+Tailwind @ 20
+Dragon Breath @ 25
+Ally Switch @ 30
+Luster Purge @ 35
+Zen Headbutt @ 40
+Dragon Pulse @ 45
+Heal Pulse @ 50
+Simple Beam @ 55
+Psychic @ 60
+Power Split @ 65
+Memento @ 70
+Psycho Shift @ 75
+end
+Kyogre
+Water Pulse @ 1
+Ancient Power @ 1
+Body Slam @ 1
+Scary Face @ 1
+Aqua Tail @ 9
+Calm Mind @ 18
+Muddy Water @ 27
+Ice Beam @ 36
+Sheer Cold @ 45
+Aqua Ring @ 54
+Origin Pulse @ 63
+Hydro Pump @ 72
+Double-Edge @ 81
+Water Spout @ 90
+end
+Groudon
+Mud Shot @ 1
+Ancient Power @ 1
+Lava Plume @ 1
+Scary Face @ 1
+Earth Power @ 9
+Bulk Up @ 18
+Earthquake @ 27
+Hammer Arm @ 36
+Fissure @ 45
+Rest @ 54
+Precipice Blades @ 63
+Fire Blast @ 72
+Solar Beam @ 81
+Eruption @ 90
+end
+Rayquaza
+Dragon Ascent @ 1
+Twister @ 1
+Ancient Power @ 1
+Air Slash @ 1
+Scary Face @ 1
+Crunch @ 9
+Dragon Dance @ 18
+Extreme Speed @ 27
+Dragon Pulse @ 36
+Hyper Voice @ 45
+Rest @ 54
+Fly @ 63
+Hurricane @ 72
+Outrage @ 81
+Hyper Beam @ 90
+end
+Jirachi
+Confusion @ 1
+Wish @ 1
+Swift @ 7
+Helping Hand @ 14
+Life Dew @ 21
+Zen Headbutt @ 28
+Gravity @ 35
+Psychic @ 42
+Meteor Mash @ 49
+Healing Wish @ 56
+Rest @ 63
+Future Sight @ 70
+Double-Edge @ 77
+Cosmic Power @ 84
+Last Resort @ 91
+Doom Desire @ 98
+end
 Deoxys-524 - 50/150/50/150/50/150 Psychic/Psychic
 TM Moves: TM01 Focus Punch, TM03 Water Pulse, TM04 Calm Mind, TM11 Sunny Day, TM12 Taunt, TM13 Ice Beam, TM15 Hyper Beam, TM16 Light Screen, TM17 Protect, TM18 Rain Dance, TM20 Safeguard, TM22 Solar Beam, TM24 Thunderbolt, TM25 Thunder, TM27 Low Sweep, TM29 Psychic, TM30 Shadow Ball, TM31 Brick Break, TM32 Double Team, TM33 Reflect, TM34 Shock Wave, TM39 Rock Tomb, TM40 Aerial Ace, TM41 Torment, TM42 Facade, TM44 Rest, TM48 Skill Swap, TM52 Focus Blast, TM53 Energy Ball, TM56 Fling, TM57 Charge Beam, TM58 Endure, TM60 Drain Punch, TM63 Nasty Plot, TM67 Recycle, TM68 Giga Impact, TM70 Flash, TM72 Avalanche, TM73 Thunder Wave, TM76 Stealth Rock, TM77 Psych Up, TM79 Dark Pulse, TM80 Rock Slide, TM82 Sleep Talk, TM84 Poison Jab, TM85 Dream Eater, TM86 Grass Knot, TM87 Swagger, TM90 Substitute, TM91 Flash Cannon, TM92 Trick Room, TM93 Cut, TM96 Strength, TM98 Rock Smash
 Learned Moves:
@@ -7369,7 +6996,7 @@ Learned Moves:
 	Recover @ 61
 	Psycho Boost @ 67
 	Hyper Beam @ 73
-
+end
 Turtwig - 55/68/64/45/55/31 Grass/Grass
 Evolution(s): 4,0,388,0,18
 Egg Moves: Worry Seed, Growth, Tickle, Body Slam, Double-Edge, Sand Tomb, Seed Bomb, Thrash, Amnesia, Superpower, Stockpile, Swallow, Spit Up, Earth Power, Wide Guard, Grassy Terrain, Heavy Slam

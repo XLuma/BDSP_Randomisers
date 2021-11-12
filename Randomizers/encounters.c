@@ -6,7 +6,7 @@
 #include <fcntl.h>
 #include <stdarg.h>
 #include <time.h>
-#include "42-libft/libft.h"
+#include "../42-libft/libft.h"
 
 char	*strip_nl(char *line)
 {
@@ -134,7 +134,9 @@ int main(int argc, char* argv[])
 	A function that takes two parameters: A line (that contains monsNo), and the new pokemon number.
 	We: Split the line in sections, and verify if the last entry is a 0. If it is, we cancel and continue on the next line.
 	If it is NOT a 0, we do line[i] = ft_itoa(number) which will change the number to a new one
-	And then we join the string together and write to a new file.
+	And then we join the string together by using spaces all okay. I need to make sure we dont cut the tabs or whatever.
+
+	we kn
 	*/
 
 	printf("We're in boys\n");

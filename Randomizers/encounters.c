@@ -56,7 +56,7 @@ char *convertToLine(int n, char **input) {
   return string;
 }
 
-char *is_monsno(char *line)
+char *is_monsno(char *line, char **encount, int index)
 {
 	char **tab;
 	int 	i;
@@ -81,6 +81,10 @@ char *is_monsno(char *line)
 				while(tab[j])
 					j++;
 				tmp = convertToLine(j, tab);
+				if (ft_strnstr(encount[index - 1], "Sheetlegendpoke", ft_strlen(encount[index - 1])) != NULL)
+					tmp = ft_strjoin("     ", tmp);
+				else
+					tmp = ft_strjoin("         ", tmp);
 				return (tmp);
 			}
 		}
@@ -143,8 +147,8 @@ int main(int argc, char* argv[])
 	char *temp;
     while (encount_tables[i])
 	{
-		if (ft_strnstr(encount_tables[i], "monsNo", ft_strlen(encount_tables[i])) != NULL) //add one for MonsNo if necessary
-			temp = is_monsno(encount_tables[i]);
+		if (ft_strnstr(encount_tables[i], "monsNo", ft_strlen(encount_tables[i])) != NULL || ft_strnstr(encount_tables[i], "MonsNo", ft_strlen(encount_tables[i])) != NULL) //add one for MonsNo if necessary
+			temp = is_monsno(encount_tables[i], encount_tables, i);
 		else
 			temp = ft_strdup(encount_tables[i]);
 		printf("%s\n", temp);

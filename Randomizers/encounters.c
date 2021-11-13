@@ -69,7 +69,7 @@ char *is_monsno(char *line, char **encount, int index)
 	j = 0;
 	while (tab[i])
 	{
-		if (ft_strncmp(tab[i], "monsNo", ft_strlen("monsNo")) == 0)
+		if (ft_strncmp(tab[i], "monsNo", ft_strlen("monsNo")) == 0) //ft_strncmp(tab[i], "MonsNo", ft_strlen("MonsNo")) == 0 for safari
 		{
 			//check if the value associated is NOT 0, which guarantees no write to unwanted lines
 			if (ft_strncmp(tab[i + 2], "0", ft_strlen("0")) != 0)

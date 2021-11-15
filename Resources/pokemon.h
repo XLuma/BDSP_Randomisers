@@ -2,7 +2,7 @@
 # define POKEMON_H
 
 enum Pokemon{
-    NULL,
+    null,
     Bulbasaur,
     Ivysaur,
     Venusaur,

@@ -1,4 +1,4 @@
-NULL
+null
 Bulbasaur
 Ivysaur
 Venusaur
@@ -411,7 +411,7 @@ Rampardos
 Shieldon
 Bastiodon
 Burmy
-Wormadam (P)
+Wormadam
 Mothim
 Combee
 Vespiquen

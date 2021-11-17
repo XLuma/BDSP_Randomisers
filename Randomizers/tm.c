@@ -78,9 +78,9 @@ char *new_move(char *line, char **index, long index_size)
 
 	while (tab[i])
 	{
-		if (ft_strncmp(tab[i], "wazaNo", ft_strlen(tab[i])) != 0)
+		if (ft_strnstr(tab[i], "wazaNo", ft_strlen(tab[i])) != NULL)
 		{
-			if (ft_strncmp(tab[i + 2], "0", ft_strlen("0")) != 0)
+			if (ft_strnstr(tab[i + 2], "0", ft_strlen(tab[i+2])) == NULL)
 			{
 				move = pick_move(1, index_size, index);
 				tab[i + 2] = ft_itoa(move);
@@ -95,6 +95,7 @@ char *new_move(char *line, char **index, long index_size)
 	}
 	return (line);
 }
+
 int	main(int argc, char **argv)
 {
 	char const *filename = argv[1];
@@ -140,6 +141,8 @@ int	main(int argc, char **argv)
 	printf("Reading Item table\n");
 	unsigned long lenght;
 	i = 0;
+	itemTab = (char **)malloc((fileSize * sizeof(char*)) + 1); //also allocating for trtab
+	buffer = NULL;
 	while (!feof(file))
     {
         getline(&buffer, &lenght, file);
@@ -167,5 +170,9 @@ int	main(int argc, char **argv)
             i++;
 		}
 	}
-
+	fclose(file);
+	fclose(new);
+	fclose(bdsp_index);
+	free(itemTab);
+	free(indexTab);
 }

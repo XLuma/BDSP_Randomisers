@@ -31,5 +31,7 @@ clean:
 fclean: clean
 	rm -f ./Randomizers/encounters
 	rm -f ./Randomizers/trainers
+	rm -f ./Randomizers/tm
+	rm -f ./Randomizers/abilities
 
 re: fclean all

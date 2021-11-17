@@ -147,7 +147,7 @@ int main(int argc, char **argv)
 			tab_ability = malloc(4);
 			while (ft_strnstr(personalTab[current], "tokusei", ft_strlen(personalTab[current])) != NULL && counter < 3)
 			{
-				tab_ability[counter] = ft_strdup(personalTab[i + counter]);
+				tab_ability[counter] = ft_strdup(personalTab[current]);
 				counter++;
 				current++;
 			}

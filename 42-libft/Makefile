@@ -17,12 +17,12 @@ HEADER = libft.h
 OBJS = $(SRCS:.c=.o)
 CC = gcc
 RM = rm -f
-CFLAGS = -Wall -Werror -Wextra
+CFLAGS = 
 
 all: $(NAME)
 
 .c.o:
-		$(CC) $(CFLAGS) -c -I $(HEADER) $< -o ${<:.c=.o}
+		$(CC) $(CFLAGS) -c $< -o ${<:.c=.o}
 
 $(NAME): $(OBJS)
 	ar rcs $(NAME) $(OBJS)

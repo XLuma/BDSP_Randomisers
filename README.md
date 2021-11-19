@@ -27,7 +27,7 @@ The usage for all programs is the same:
  
  - This is not intended to the public. I'm not responsible for anything. Code is also a fucking mess.
  - I will not add new randomisers unless I want to. Whatever Kaphotics will release in the future will simply be better for everybody.
- - If you indeed use any code in here for your own project, please credit. I don't care that much, but its always welcomed.
+ - If you indeed use any code in here for your own project, please credit.
  - I don't intend to really support this for a long time, but if you want to contribute go ahead I guess. Contributions are always nice.
  
  # Credits

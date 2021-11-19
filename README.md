@@ -1,12 +1,22 @@
 # BDSP_Randomisers
 A collection of tools to randomize BDSP assets
 
+# Setup (Windows 10 only)
+
+- Install Ubuntu 18.04 via WSL1 (plenty of tutorials on that)
+- In Ubuntu, install gcc, make, and build-essentials
+- Clone this repo
+- Follow compiling steps
+
 # Compiling
 
 Make sure that you have the gcc compiler installed on your computer.  
 Then, clone this repo and type make. A new folder will be created, containing each program properly labelled.
+You can also type make [randomiser you want to compile] to compile invidual randomizers.
 
 # Usage
+
+Use UABEA to extract the necessary sheets from your game's assets.
 
 The usage for all programs is the same: 
   ./program_name sheet_to_randomise.txt

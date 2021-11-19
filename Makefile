@@ -7,7 +7,7 @@ LIBFT = 42-libft/libft.a
 
 CC = gcc
 
-all: $(encounters) $(trainers)
+all: $(encounters)
 
 encounters:
 	$(MAKE) -C ./42-libft
@@ -35,3 +35,5 @@ fclean: clean
 	rm -f ./Randomizers/abilities
 
 re: fclean all
+
+.PHONY: trainers encounters abilities tm all

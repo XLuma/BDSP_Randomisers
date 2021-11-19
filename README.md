@@ -4,7 +4,7 @@ A collection of tools to randomize BDSP assets
 # Setup (Windows 10 only)
 
 - Install Ubuntu 18.04 via WSL1 (plenty of tutorials on that)
-- In Ubuntu, install gcc, make, and build-essentials
+- In Ubuntu, install gcc, make, git and build-essentials
 - Clone this repo
 - Follow compiling steps
 

@@ -178,7 +178,6 @@ char *new_move(char *line, char **learnset, char **names, char **movelist)
                             current++;
                             max++;
                         }
-                       // printf("OKay, got pointer\n");
                         move = pick_move(1, max);
                      //   printf("Chosen move: %d\n", move);
                         move_index = resolve_move(move, movelist, learnset[j + move]);

@@ -160,11 +160,7 @@ int main(int argc, char* argv[])
     /* may check feof here to make a difference between eof and io failure -- network
        timeout for instance */
 	i = 0;
-	while (encount_tables[i])
-	{
-		free(encount_tables[i]);
-		i++;
-	}
+	free(encount_tables);
     fclose(file);
 	fclose(new);
 

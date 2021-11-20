@@ -10,26 +10,20 @@ int main(int argc, char **argv)
 {
 	char const *filename = argv[1];
 	char const *newfile = ft_strjoin(argv[1], "_convert.txt");
-	char const *move_file = argv[2];
 	FILE *move;
-	FILE *old;
 	FILE *new;
 	char *buffer;
 	char *buffer2;
 	char **move_array;
-	char **old_array;
+	char **tmp_array = NULL;
 	char *line;
 	long lSize;
 	long lSize2;
 	int i;
 	int j;
 
-	old = fopen(filename, "rb");
 	new = fopen(newfile, "w");
-	move = fopen(move_file, "rb");
-	fseek(old, 0L, SEEK_END);
-	lSize = ftell(old);
-	rewind(old);
+	move = fopen(filename, "rb");
 
 	fseek(move, 0L, SEEK_END);
 	lSize2 = ftell(move);
@@ -39,44 +33,43 @@ int main(int argc, char **argv)
 	if (new == NULL)
 		return 1;
 	printf("Allocating mem\n");
-	buffer = calloc(1, lSize+1);
 	buffer2 = calloc(1, lSize2+1);
 
-	if( !buffer ) fclose(old),fputs("memory alloc fails",stderr),exit(1);
 	if( !buffer2 ) fclose(move),fputs("memory alloc fails2",stderr),exit(1);
 
 	/* copy the file into the buffer */
 	printf("Reading file into mem\n");
-	if( 1!=fread( buffer , lSize, 1 , old) )
-  		fclose(old),free(buffer),fputs("entire read fails",stderr),exit(1);
 
 	if( 1!=fread( buffer2 , lSize2, 1 , move) )
   		fclose(move),free(buffer2),fputs("entire read fails2",stderr),exit(1);
-	
-	old_array = ft_split(buffer, '\n');
 	move_array = ft_split(buffer2, '\n');
 	free(buffer2);
-	free(buffer);
 	printf("We're in boys\n");
 
 	i = 0;
 	j = 0;
 	//old array is move list in string, move_array is index
-	while (old_array[i])
+	//please dont look here, so dirty
+	char *tmp = NULL;
+	while (move_array[i])
 	{
-		while (move_array[j])
+		int num = 0;
+		//if line contains data, take the number and write it to a new file
+		if (ft_strnstr(move_array[i], "data", ft_strlen(move_array[i])) != NULL)
 		{
-			int num = atoi(move_array[i]);
-			//convert index array to int, compare with I, if both mtch we know the move is part of used index
+			tmp_array = ft_split(move_array[i], ' ');
+			printf("hi\n");
+			num = atoi(tmp_array[4]);
+			printf("%d\n", num);
+			tmp = ft_itoa(num);
+			printf("%s\n", tmp);
+			fputs(tmp, new);
+			fputs("\n", new);
 		}
-		printf("%s\n", line);
-		fputs(line, new);
-		fputs("\n", new);
-		i++;
+		i++;		
 	}
 	free(move_array);
-	free(old_array);
 	fclose(move);
 	fclose(new);
-	fclose(old);
 	return 0;
+}

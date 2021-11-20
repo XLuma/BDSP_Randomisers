@@ -173,13 +173,8 @@ int main(int argc, char* argv[])
 	}
 
 	i = 0;
-	while (encount_tables[i])
-	{
-		free(encount_tables[i]);
-		i++;
-	}
-
-    fclose(file);
+	free(encount_tables);
+  fclose(file);
 	fclose(new);
 
     return 0;

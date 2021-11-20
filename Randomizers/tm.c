@@ -100,7 +100,7 @@ int	main(int argc, char **argv)
 {
 	char const *filename = argv[1];
 	char const *bdsp_index_file = "Resources/bdsp_move_index.txt";
-	char const *newfile = ft_strjoin("randomised_", argv[1]);
+	char const *newfile = ft_strjoin(argv[1], "randomised_");
 
 	FILE *file;
 	FILE *bdsp_index;
@@ -167,7 +167,7 @@ int	main(int argc, char **argv)
 		{
 			temp = ft_strdup(itemTab[i]);
             fputs(temp, new);
-            i++;
+			i++;
 		}
 	}
 	fclose(file);
@@ -175,4 +175,5 @@ int	main(int argc, char **argv)
 	fclose(bdsp_index);
 	free(itemTab);
 	free(indexTab);
+	return 0;
 }

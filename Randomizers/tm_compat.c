@@ -80,6 +80,9 @@ int main(int argc, char **argv)
     long item_size;
     long move_size;
 
+    t_moninfo mon;
+    t_tminfo tms;
+
     int i;
     int j;
 
@@ -89,5 +92,68 @@ int main(int argc, char **argv)
     item = fopen(itemFile, "rb");
     move = fopen(moveData, "rb");
     new = fopen(newfile, "w");
-    
+
+    fseek(file, 0L, SEEK_END);
+    fseek(item, 0L, SEEK_END);
+    fseek(move, 0L, SEEK_END);
+
+    personal_size = ftell(file);
+    item_size = ftell(item);
+    move_size = ftell(move);
+
+    rewind(file);
+    rewind(move);
+    rewind(item);
+
+    //Parse all files in arrays
+    printf("Allocating memory for tables\n");
+    personal_tab = (char **)malloc(personal_size + 1);
+    item_size = (char **)malloc(item_size + 1);
+    move_size = (char **)malloc(move_size + 1);
+
+    //read personal
+    long lenght;
+    i = 0;
+    printf("Reading all files\n");
+    while (!feof(file))
+    {
+        getline(&line, &lenght, file);
+        personal_tab[i] = ft_strdup(line);
+        i++;
+    }
+    //read item
+    i = 0;
+    while (!feof(item))
+    {
+        getline(&line, &lenght, file);
+        item_tab[i] = ft_strdup(line);
+        i++;
+    }
+    //read moves
+    i = 0;
+    while (!feof(move))
+    {
+        getline(&line, &lenght, file);
+        move_tab[i] = ft_strdup(line);
+        i++;
+    }
+
+    printf("Randomising TM compatibility...\n");
+    i = 0;
+    while (personal_tab[i])
+    {
+        if (ft_strnstr(personal_tab[i], "type", ft_strlen(personal_tab[i])) != NULL)
+        {
+            mon.type1 = retrieve_type(personal_tab[i]);
+            mon.type2 = retrieve_type(personal_tab[i + 1]);
+            i++;
+        }
+        if (ft_strnstr(personal_tab[i], "machine", ft_strlen(personal_tab[i])) != NULL)
+        {
+            //Read machine1 to 4, put that in the struct, and pass all this so we assign new tm compats
+            int counter = 0;
+            int current = i;
+        }
+        i++;
+    }
 }

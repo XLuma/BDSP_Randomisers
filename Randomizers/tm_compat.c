@@ -10,20 +10,6 @@
 #include "../Resources/pokemon.h"
 #include "../Resources/poketypes.h"
 
-typedef struct s_tminfo{
-    int num;
-    int type;
-} t_tminfo;
-
-typedef struct s_moninfo{
-    int type1;
-    int type2;
-    unsigned int machine1;
-    unsigned int machine2;
-    unsigned int machine3;
-    unsigned int machine4;
-} t_moninfo;
-
 
 char *convertToLine(int n, char **input) {
   /* compute the needed size,
@@ -55,6 +41,79 @@ int pick_choice(void)
     return rand() % 2;
 }
 
+int    get_tm_num(int tmNum, char **item_tab, char **move_tab)
+{
+    //find the correct wazano for tmNum. in itemtable, machinenum are 1-100 so we add one to the current tmNum to find the wazano we want
+    //tm's start at line 71110
+    int machineNo = tmNum + 1;
+    int i = 71110;
+    char **tab = NULL;
+    int wazaNo = 0;
+
+    while (item_tab[i])
+    {
+        if (ft_strnstr(item_tab[i], "machineNo", ft_strlen(item_tab[i])) != NULL)
+        {
+            
+        }
+    }
+}
+
+char **new_compat(char **machine_tab, char **item_tab, char **move_tab, t_moninfo *mon)
+{
+    //tm's start at line 71110
+    char **tab = NULL;
+    char *tmp = NULL;
+    int i = 0;
+    int j = 0;
+    int current_tm = 0;
+
+    //parse machine data into tm struct
+    int machine = 1;
+    while (machine_tab[i])
+    {
+        tab = ft_split(machine_tab[i], ' ');
+        switch (machine)
+        {
+            case 1:
+                mon->machine1 = strtoul(tab[5], &tmp, 10);
+                break;
+            case 2:
+                mon->machine2 = strtoul(tab[5], &tmp, 10);
+                break;
+            case 3:
+                mon->machine3 = strtoul(tab[5], &tmp, 10);
+                break;
+            case 4:
+                mon->machine4 = strtoul(tab[5], &tmp, 10);
+                break;
+        }
+        i++;
+        machine++;
+    }
+    //all mon values are now set hopefully, now we loop through each damn tm, set the type and move num, and determine if we get a 90% or 33% chance
+    //we also need to figure out how to change from machine1 to another depending on current tm
+    while (current_tm < 100)
+    {
+        if (current_tm >= 0 && current_tm <= 31)
+        {
+            mon->tm.num = get_tm_num(current_tm, item_tab);
+        }
+        if (current_tm >= 32 && current_tm <= 63)
+        {
+            mon->tm.num = get_tm_num(current_tm, item_tab);
+        }
+        if (current_tm >= 64 && current_tm <= 95)
+        {
+            mon->tm.num = get_tm_num(current_tm, item_tab);
+        }
+        if (current_tm >= 96 && current_tm <= 99)
+        {
+            mon->tm.num = get_tm_num(current_tm, item_tab);
+        }
+        current_tm++;
+    }
+}
 
 //tm data in itemdata starts at offset 0x1E5248
 int main(int argc, char **argv)
@@ -81,7 +140,6 @@ int main(int argc, char **argv)
     long move_size;
 
     t_moninfo mon;
-    t_tminfo tms;
 
     int i;
     int j;
@@ -153,6 +211,17 @@ int main(int argc, char **argv)
             //Read machine1 to 4, put that in the struct, and pass all this so we assign new tm compats
             int counter = 0;
             int current = i;
+            char **tab_machine = malloc(4);
+
+            while (ft_strnstr(personal_tab[current], "machine", ft_strlen(personal_tab[current])) != NULL && counter < 4)
+            {
+                tab_machine[counter] = ft_strdup(personal_tab[current]);
+                counter++;
+                current++;
+            }
+            counter = 0;
+            //magic happens here
+            tab_machine = new_compat(tab_machine, item_tab, move_tab, &mon);
         }
         i++;
     }

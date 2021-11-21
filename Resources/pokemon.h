@@ -498,4 +498,20 @@ enum Pokemon{
     Arceus
 };
 
+typedef struct s_tminfo{
+    int type;
+    int num;
+}   t_tminfo;
+
+typedef struct s_moninfo
+{
+    int type1;
+    int type2;
+    unsigned int machine1;
+    unsigned int machine2;
+    unsigned int machine3;
+    unsigned int machine4;
+    t_tminfo tm;
+} t_moninfo;
+
 #endif

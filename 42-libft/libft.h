@@ -6,7 +6,7 @@
 /*   By: llaplant <llaplant@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/05/04 12:17:49 by luma              #+#    #+#             */
-/*   Updated: 2021/10/08 10:28:47 by llaplant         ###   ########.fr       */
+/*   Updated: 2021/11/22 12:27:11 by llaplant         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -56,4 +56,5 @@ long			ft_atol(char *str);
 char			*ft_strnstr(const char *s1, const char *s2, size_t len);
 char			**ft_split(char const *s, char c);
 char			*ft_newstr(size_t size);
+char 			*ft_ultoa(unsigned long num, char *str, int radix);
 #endif

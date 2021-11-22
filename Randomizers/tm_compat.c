@@ -48,15 +48,23 @@ int    get_tm_num(int tmNum, char **item_tab, char **move_tab)
     int machineNo = tmNum + 1;
     int i = 71110;
     char **tab = NULL;
+    char **tab2 = NULL;
     int wazaNo = 0;
 
     while (item_tab[i])
     {
         if (ft_strnstr(item_tab[i], "machineNo", ft_strlen(item_tab[i])) != NULL)
         {
+            tab = ft_split(item_tab[i], ' ');
+            if (machineNo == atoi(tab[4]))
+            {
+
+            }
             
+            return (wazaNo);
         }
     }
+    return (wazaNo);
 }
 
 char **new_compat(char **machine_tab, char **item_tab, char **move_tab, t_moninfo *mon)
@@ -93,11 +101,17 @@ char **new_compat(char **machine_tab, char **item_tab, char **move_tab, t_moninf
     }
     //all mon values are now set hopefully, now we loop through each damn tm, set the type and move num, and determine if we get a 90% or 33% chance
     //we also need to figure out how to change from machine1 to another depending on current tm
+    int counter1 = 0;
+    int counter2 = 0;
+    int counter3 = 0;
+    int counter4 = 0;
     while (current_tm < 100)
     {
         if (current_tm >= 0 && current_tm <= 31)
         {
             mon->tm.num = get_tm_num(current_tm, item_tab);
+            mon->tm.type  = get_tm_type(mon->tm.num, move_tab);
+
         }
         if (current_tm >= 32 && current_tm <= 63)
         {

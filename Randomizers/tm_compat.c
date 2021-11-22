@@ -288,7 +288,16 @@ char **new_tab_machine(char **tab_machine, t_moninfo *mon)
 
 int	retrieve_type(char **personal_table, int current_index, int type)
 {
-	return 0;
+	int type_mon = 0;
+
+	switch (type)
+	{
+	case 1:
+		
+		break;
+	case 2:
+		break;
+	}
 }
 
 int main(int argc, char **argv)

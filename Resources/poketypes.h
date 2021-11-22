@@ -20,4 +20,6 @@ enum Types{
     Dragon,
     Dark,
     Fairy
-}
+};
+
+#endif

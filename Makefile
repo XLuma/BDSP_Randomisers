@@ -7,7 +7,7 @@ LIBFT = 42-libft/libft.a
 
 CC = gcc
 
-all: $(encounters)
+all:	$(encounters)
 
 encounters:
 	$(MAKE) -C ./42-libft

@@ -268,16 +268,27 @@ void new_compat(char **machine_tab, char **item_tab, char **move_tab, t_moninfo 
 char **new_tab_machine(char **tab_machine, t_moninfo *mon)
 {
 	int	i = 0;
+	int j = 0;
 	char **tmp = NULL;
 	char **ret = NULL;
 	char *line = NULL;
 
+	ret = malloc(4);
 	while (tab_machine[i])
 	{
 		tmp = ft_split(tab_machine[i], ' ');
 		tmp[5] = ft_strdup(ft_ultoa(mon->machine1, line, 10));
+		while(tmp[j])
+			j++;
+		ret[i] = ft_strdup(convertToLine(j, tmp));
 		i++;
 	}
+	return (ret);
+}
+
+int	retrieve_type(char **personal_table, int current_index, int type)
+{
+	return 0;
 }
 
 int main(int argc, char **argv)
@@ -330,8 +341,8 @@ int main(int argc, char **argv)
     //Parse all files in arrays
     printf("Allocating memory for tables\n");
     personal_tab = (char **)malloc(personal_size + 1);
-    item_size = (char **)malloc(item_size + 1);
-    move_size = (char **)malloc(move_size + 1);
+    item_tab = (char **)malloc(item_size + 1);
+    move_tab = (char **)malloc(move_size + 1);
 
     //read personal
     long lenght;
@@ -366,9 +377,14 @@ int main(int argc, char **argv)
     {
         if (ft_strnstr(personal_tab[i], "type", ft_strlen(personal_tab[i])) != NULL)
         {
-            mon.type1 = retrieve_type(personal_tab[i]);
-            mon.type2 = retrieve_type(personal_tab[i + 1]);
-            i++;
+			if (ft_strnstr(personal_tab[i], "type1", ft_strlen(personal_tab[i])) != NULL)
+        	{
+            	mon.type1 = retrieve_type(personal_tab, i, 1);
+       		}
+			if (ft_strnstr(personal_tab[i], "type2", ft_strlen(personal_tab[i])) != NULL)
+        	{
+            	mon.type2 = retrieve_type(personal_tab, i, 2);
+       		}
         }
         if (ft_strnstr(personal_tab[i], "machine", ft_strlen(personal_tab[i])) != NULL)
         {
@@ -377,7 +393,7 @@ int main(int argc, char **argv)
             int current = i;
             char **tab_machine = malloc(4);
 
-            while (ft_strnstr(personal_tab[current], "machine", ft_strlen(personal_tab[current])) != NULL && counter <Â?4)
+            while (ft_strnstr(personal_tab[current], "machine", ft_strlen(personal_tab[current])) != NULL && counter < 4)
             {
                 tab_machine[counter] = ft_strdup(personal_tab[current]);
                 counter++;
@@ -387,7 +403,22 @@ int main(int argc, char **argv)
             //magic happens here
             new_compat(tab_machine, item_tab, move_tab, &mon);
 			tab_machine = new_tab_machine(tab_machine, &mon);
+			//write to file
+			while (tab_machine[counter] && counter < 4)
+			{
+				fputs(tab_machine[counter], new);
+				if (ft_strnstr(tab_machine[counter], "\n", ft_strlen(tab_machine[counter])) == NULL)
+					fputc('\n', new);
+				counter++;
+			}
+			free(tab_machine);
+			i += 4;
         }
-        i++;
+		else // Other lines.
+        {
+            fputs(ft_strdup(personal_tab[i]), new);
+            i++;
+        }
     }
+	return 0;
 }

@@ -507,10 +507,10 @@ typedef struct s_moninfo
 {
     int type1;
     int type2;
-    unsigned int machine1;
-    unsigned int machine2;
-    unsigned int machine3;
-    unsigned int machine4;
+    unsigned long machine1;
+    unsigned long machine2;
+    unsigned long machine3;
+    unsigned long machine4;
     t_tminfo tm;
 } t_moninfo;
 

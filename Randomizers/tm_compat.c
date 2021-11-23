@@ -101,28 +101,42 @@ void new_compat(char **machine_tab, char **item_tab, char **move_tab, t_moninfo 
     int i = 0;
     int j = 0;
     int current_tm = 0;
+    int index = 0;
 
     //parse machine data into tm struct
     int machine = 1;
-    while (machine_tab[i])
+    printf("hey\n");
+    while (machine_tab[i] && index < 4)
     {
         tab = ft_split(machine_tab[i], ' ');
-        switch (machine)
+        if (machine == 1)
         {
-            case 1:
-                mon->machine1 = strtoul(tab[5], &tmp, 10);
-                break;
-            case 2:
-                mon->machine2 = strtoul(tab[5], &tmp, 10);
-                break;
-            case 3:
-                mon->machine3 = strtoul(tab[5], &tmp, 10);
-                break;
-            case 4:
-                mon->machine4 = strtoul(tab[5], &tmp, 10);
-                break;
+            mon->machine1 = strtoul(tab[5], &tmp, 10);
+            printf("%ld\n", mon->machine1);
+            i++;
+            index++;
         }
-        i++;
+        if (machine == 2)
+        {
+            mon->machine2 = strtoul(tab[5], &tmp, 10);
+            printf("%ld\n", mon->machine2);
+            i++;
+            index++;
+        }
+        if (machine == 3)
+        {
+            mon->machine3 = strtoul(tab[5], &tmp, 10);
+            printf("%ld\n", mon->machine3);
+            i++;
+            index++;
+        }
+        if (machine == 4)
+        {
+            mon->machine4 = strtoul(tab[5], &tmp, 10);
+            printf("%ld\n", mon->machine4);
+            i++;
+            index++;
+        }
         machine++;
     }
     //all mon values are now set hopefully, now we loop through each damn tm, set the type and move num, and determine if we get a 90% or 33% chance
@@ -272,9 +286,11 @@ char **new_tab_machine(char **tab_machine, t_moninfo *mon)
 	char **tmp = NULL;
 	char **ret = NULL;
 	char *line = NULL;
+    int index = 0;
 
 	ret = malloc(4);
-	while (tab_machine[i])
+    line = malloc(11);
+	while (tab_machine[i] && index < 04)
 	{
 		tmp = ft_split(tab_machine[i], ' ');
 		tmp[5] = ft_strdup(ft_ultoa(mon->machine1, line, 10));
@@ -282,6 +298,7 @@ char **new_tab_machine(char **tab_machine, t_moninfo *mon)
 			j++;
 		ret[i] = ft_strdup(convertToLine(j, tmp));
 		i++;
+        index++;
 	}
 	return (ret);
 }
@@ -289,23 +306,32 @@ char **new_tab_machine(char **tab_machine, t_moninfo *mon)
 int	retrieve_type(char **personal_table, int current_index, int type)
 {
 	int type_mon = 0;
+    char **tab = NULL;
 
 	switch (type)
 	{
 	case 1:
-		
+        tab = ft_split(personal_table[current_index], ' ');
+        type_mon = atoi(tab[4]);
 		break;
 	case 2:
+        tab = ft_split(personal_table[current_index], ' ');
+        type_mon = atoi(tab[4]);
 		break;
 	}
+    return (type_mon);
 }
 
 int main(int argc, char **argv)
 {
-    const char *filename = argv[1]; //personal table
+    printf("hi\n");
+    //const char *filename = argv[1]; //personal table
+    const char *filename = "PersonalTable-CAB-e4b0255ada6b8a0648ba9bd2680c1371-6925071152922426992_bak.txt";
     const char *newfile = ft_strjoin(argv[1], "_randomised"); //output
-    const char *itemFile = argv[2]; //item table
-    const char *moveData = argv[3]; //move data table; for types
+    //const char *itemFile = argv[2]; //item table
+    const char *itemFile = "ItemTable-CAB-e4b0255ada6b8a0648ba9bd2680c1371-252928009371549925.txt";
+    //const char *moveData = argv[3]; //move data table; for types
+    const char *moveData = "WazaTable-CAB-e4b0255ada6b8a0648ba9bd2680c1371--8825204264973564398.txt";
 
     FILE *file;
     FILE *new;
@@ -329,20 +355,20 @@ int main(int argc, char **argv)
     int j;
 
     srand((unsigned int)time(NULL)); //set random seed
-
+    printf("opening files\n");
     file = fopen(filename, "rb");
     item = fopen(itemFile, "rb");
     move = fopen(moveData, "rb");
     new = fopen(newfile, "w");
-
+    printf("files opened\n");
     fseek(file, 0L, SEEK_END);
     fseek(item, 0L, SEEK_END);
     fseek(move, 0L, SEEK_END);
-
+    printf("read file sizes\n");
     personal_size = ftell(file);
     item_size = ftell(item);
     move_size = ftell(move);
-
+    printf("got file sizes\n");
     rewind(file);
     rewind(move);
     rewind(item);
@@ -350,9 +376,10 @@ int main(int argc, char **argv)
     //Parse all files in arrays
     printf("Allocating memory for tables\n");
     personal_tab = (char **)malloc(personal_size + 1);
-    item_tab = (char **)malloc(item_size + 1);
+    //item_tab = (char **)malloc((item_size * sizeof(char*)) + 1);
+    item_tab = calloc(72119, sizeof(char *));
     move_tab = (char **)malloc(move_size + 1);
-
+    printf("%ld\n", item_size);
     //read personal
     long lenght;
     i = 0;
@@ -365,9 +392,11 @@ int main(int argc, char **argv)
     }
     //read item
     i = 0;
+    line = NULL;
+    lenght = NULL;
     while (!feof(item))
     {
-        getline(&line, &lenght, file);
+        getline(&line, &lenght, item);
         item_tab[i] = ft_strdup(line);
         i++;
     }
@@ -375,11 +404,10 @@ int main(int argc, char **argv)
     i = 0;
     while (!feof(move))
     {
-        getline(&line, &lenght, file);
+        getline(&line, &lenght, move);
         move_tab[i] = ft_strdup(line);
         i++;
     }
-
     printf("Randomising TM compatibility...\n");
     i = 0;
     while (personal_tab[i])
@@ -401,7 +429,6 @@ int main(int argc, char **argv)
             int counter = 0;
             int current = i;
             char **tab_machine = malloc(4);
-
             while (ft_strnstr(personal_tab[current], "machine", ft_strlen(personal_tab[current])) != NULL && counter < 4)
             {
                 tab_machine[counter] = ft_strdup(personal_tab[current]);
@@ -410,6 +437,7 @@ int main(int argc, char **argv)
             }
             counter = 0;
             //magic happens here
+            printf("hallo\n");
             new_compat(tab_machine, item_tab, move_tab, &mon);
 			tab_machine = new_tab_machine(tab_machine, &mon);
 			//write to file
@@ -428,6 +456,7 @@ int main(int argc, char **argv)
             fputs(ft_strdup(personal_tab[i]), new);
             i++;
         }
+        printf("%d\n", i);
     }
 	return 0;
 }

@@ -3,25 +3,30 @@ trainers_src = Randomizers/trainers.c
 abilities_src = Randomizers/abilities.c
 tm_src = Randomizers/tm.c
 
+encounters = encounters
+trainers = trainers
+abilities = abilities
+tm = tm
+
 LIBFT = 42-libft/libft.a
 
 CC = gcc
 
-all:	$(encounters)
+all: $(encounters) $(trainers) $(abilities) $(tm)	
 
-encounters:
+$(encounters):
 	$(MAKE) -C ./42-libft
 	gcc $(encounter_src) $(LIBFT) -o Randomizers/encounters
 
-trainers:
+$(trainers):
 	$(MAKE) -C ./42-libft
 	gcc $(trainers_src) $(LIBFT) -o Randomizers/trainers
 
-abilities:
+$(abilities):
 	$(MAKE) -C ./42-libft
 	gcc $(abilities_src) $(LIBFT) -o Randomizers/abilities
 
-tm:
+$(tm):
 	$(MAKE) -C ./42-libft
 	gcc $(tm_src) $(LIBFT) -o Randomizers/tm
 

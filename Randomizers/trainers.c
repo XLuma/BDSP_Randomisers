@@ -32,7 +32,7 @@ int pick_move(int min, int max)
 /* 
 * Converts the input to a line.
 */
-char *convert_to_line(int n, char **input)
+char *convertToLine(int n, char **input)
 {
 	int size = 0;
 

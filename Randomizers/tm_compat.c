@@ -274,6 +274,10 @@ void new_compat(char **machine_tab, char **item_tab, char **move_tab, t_moninfo 
 		}
         current_tm++;
     }
+    //printf("New compat1: %ld\n", mon->machine1);
+    //printf("%ld\n", mon->machine2);
+   // printf("%ld\n", mon->machine3);
+   // printf("%ld\n", mon->machine4);
 	//all 100 tm's have been assigned properly, technically we dont need to return anything I think ?
 	//nvm I need to put back into tab_,machines the unsigned longs for writing
 	//fuck it, void function and new function to create new strings lmao
@@ -290,13 +294,22 @@ char **new_tab_machine(char **tab_machine, t_moninfo *mon)
 
 	ret = malloc(4);
     line = malloc(11);
-	while (tab_machine[i] && index < 04)
+	while (tab_machine[i] && index < 4)
 	{
 		tmp = ft_split(tab_machine[i], ' ');
-		tmp[5] = ft_strdup(ft_ultoa(mon->machine1, line, 10));
+        if (i == 0)
+            tmp[5] = ft_strdup(ft_ultoa(mon->machine1, line, 10));
+        if (i == 1)
+            tmp[5] = ft_strdup(ft_ultoa(mon->machine2, line, 10));
+        if (i == 2)
+            tmp[5] = ft_strdup(ft_ultoa(mon->machine3, line, 10));
+        if (i == 3)
+            tmp[5] = ft_strdup(ft_ultoa(mon->machine4, line, 10));
 		while(tmp[j])
 			j++;
 		ret[i] = ft_strdup(convertToLine(j, tmp));
+        ret[i] = ft_strjoin("     ", ret[i]);
+        printf("%s\n", ret[i]);
 		i++;
         index++;
 	}
@@ -443,6 +456,7 @@ int main(int argc, char **argv)
 			//write to file
 			while (tab_machine[counter] && counter < 4)
 			{
+                printf("%s\n", tab_machine[counter]);
 				fputs(tab_machine[counter], new);
 				if (ft_strnstr(tab_machine[counter], "\n", ft_strlen(tab_machine[counter])) == NULL)
 					fputc('\n', new);

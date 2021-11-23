@@ -9,6 +9,7 @@
 #include "../42-libft/libft.h"
 #include "../Resources/pokemon.h"
 
+int tmCount;
 char *convertToLine(int n, char **input) {
   /* compute the needed size,
      of course can also use malloc then realloc to avoid that */
@@ -33,37 +34,52 @@ char *convertToLine(int n, char **input) {
   return string;
 }
 
-int	check_index(char **index, int move)
+int	check_index(char **index, int move, int *tmIndex)
 {
 	int	i;
+	int j;
 	int tmp;
 
 	tmp = 0;
 	i = 0;
+	j = 0;
 	while (index[i])
 	{
 		tmp = ft_atoi(index[i]);
 		if (tmp == move)
+		{
+			while(tmIndex[j] && j <= tmCount)
+			{
+				if (move == tmIndex[j])
+				{
+					printf("%d\n", move); //print dupe move number
+					return (1);
+				}
+				j++;
+			}
 			return 0;
+		}
 		i++;
 	}
 	return (1);
 }
 
-int pick_move(int min, int max, char **index)
+int pick_move(int min, int max, char **index, int *tmIndex)
 {
 	int move;
 	int i;
 	i = 0;
     move = rand()%((max+1)-min) + min;
-	while (check_index(index, move) != 0)
+	while (check_index(index, move, tmIndex) != 0)
 	{
 		move = rand()%((max+1)-min) + min;
 	}
+	tmIndex[tmCount] = move;
+	tmCount++;
 	return (move);
 }
 
-char *new_move(char *line, char **index, long index_size)
+char *new_move(char *line, char **index, long index_size, int *tmIndex)
 {
 	int	i;
 	int	j;
@@ -80,9 +96,9 @@ char *new_move(char *line, char **index, long index_size)
 	{
 		if (ft_strnstr(tab[i], "wazaNo", ft_strlen(tab[i])) != NULL)
 		{
-			if (ft_strnstr(tab[i + 2], "0", ft_strlen(tab[i+2])) == NULL)
+			if (ft_strnstr(tab[i + 2], "0", ft_strlen("0")) == NULL)
 			{
-				move = pick_move(1, index_size, index);
+				move = pick_move(1, index_size, index, tmIndex);
 				tab[i + 2] = ft_itoa(move);
 				while (tab[j])
 					j++;
@@ -100,7 +116,7 @@ int	main(int argc, char **argv)
 {
 	char const *filename = argv[1];
 	char const *bdsp_index_file = "Resources/bdsp_move_index.txt";
-	char const *newfile = ft_strjoin(argv[1], "randomised_");
+	char const *newfile = ft_strjoin(argv[1], "_randomised");
 
 	FILE *file;
 	FILE *bdsp_index;
@@ -116,7 +132,8 @@ int	main(int argc, char **argv)
 
 	int i;
 	int j;
-
+	int *tmIndex = calloc(100, sizeof(int));
+	tmCount = 0;
 	srand((unsigned int)time(NULL)); //set random seed
 
 	file = fopen(filename, "rb");
@@ -155,9 +172,9 @@ int	main(int argc, char **argv)
 	i = 0;
 	while (itemTab[i])
 	{
-		if (ft_strnstr(itemTab[i], "wazaNo", ft_strlen(itemTab[i])) != NULL)
+		if (ft_strnstr(itemTab[i], "wazaNo", ft_strlen(itemTab[i])) != NULL && tmCount < 101)
 		{
-			temp = new_move(itemTab[i], indexTab, indexSize);
+			temp = new_move(itemTab[i], indexTab, indexSize, tmIndex);
 			fputs(temp, new);
 			if (ft_strnstr(temp, "\n", ft_strlen(temp)) == NULL)
                 fputc('\n', new);

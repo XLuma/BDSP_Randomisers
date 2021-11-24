@@ -105,35 +105,33 @@ void new_compat(char **machine_tab, char **item_tab, char **move_tab, t_moninfo 
 
     //parse machine data into tm struct
     int machine = 1;
-    printf("hey\n");
     while (machine_tab[i] && index < 4)
     {
         tab = ft_split(machine_tab[i], ' ');
         if (machine == 1)
         {
             mon->machine1 = strtoul(tab[5], &tmp, 10);
-            printf("%ld\n", mon->machine1);
             i++;
             index++;
         }
         if (machine == 2)
         {
             mon->machine2 = strtoul(tab[5], &tmp, 10);
-            printf("%ld\n", mon->machine2);
+            //printf("%ld\n", mon->machine2);
             i++;
             index++;
         }
         if (machine == 3)
         {
             mon->machine3 = strtoul(tab[5], &tmp, 10);
-            printf("%ld\n", mon->machine3);
+           // printf("%ld\n", mon->machine3);
             i++;
             index++;
         }
         if (machine == 4)
         {
             mon->machine4 = strtoul(tab[5], &tmp, 10);
-            printf("%ld\n", mon->machine4);
+          //  printf("%ld\n", mon->machine4);
             i++;
             index++;
         }
@@ -309,7 +307,6 @@ char **new_tab_machine(char **tab_machine, t_moninfo *mon)
 			j++;
 		ret[i] = ft_strdup(convertToLine(j, tmp));
         ret[i] = ft_strjoin("     ", ret[i]);
-        printf("%s\n", ret[i]);
 		i++;
         index++;
 	}
@@ -339,7 +336,7 @@ int main(int argc, char **argv)
 {
     printf("hi\n");
     //const char *filename = argv[1]; //personal table
-    const char *filename = "PersonalTable-CAB-e4b0255ada6b8a0648ba9bd2680c1371-6925071152922426992_bak.txt";
+    const char *filename = "PersonalTable-CAB-e4b0255ada6b8a0648ba9bd2680c1371-6925071152922426992_Abilities.txt";
     const char *newfile = ft_strjoin(argv[1], "_randomised"); //output
     //const char *itemFile = argv[2]; //item table
     const char *itemFile = "ItemTable-CAB-e4b0255ada6b8a0648ba9bd2680c1371-252928009371549925.txt";
@@ -450,27 +447,34 @@ int main(int argc, char **argv)
             }
             counter = 0;
             //magic happens here
-            printf("hallo\n");
             new_compat(tab_machine, item_tab, move_tab, &mon);
 			tab_machine = new_tab_machine(tab_machine, &mon);
 			//write to file
 			while (tab_machine[counter] && counter < 4)
 			{
-                printf("%s\n", tab_machine[counter]);
 				fputs(tab_machine[counter], new);
 				if (ft_strnstr(tab_machine[counter], "\n", ft_strlen(tab_machine[counter])) == NULL)
 					fputc('\n', new);
 				counter++;
 			}
 			free(tab_machine);
-			i += 4;
+			counter = 0;
+            while (ft_strnstr(personal_tab[i], "machine", ft_strlen(personal_tab[i])) != NULL && counter < 4)
+            { 
+                i++;
+                counter++;
+            }
+        }
+        if (ft_strnstr(personal_tab[i], "hiden_machine", ft_strlen(personal_tab[i])) != NULL )
+        {
+            fputs(ft_strdup(personal_tab[i]), new);
+            i++;
         }
 		else // Other lines.
         {
             fputs(ft_strdup(personal_tab[i]), new);
             i++;
         }
-        printf("%d\n", i);
     }
 	return 0;
 }

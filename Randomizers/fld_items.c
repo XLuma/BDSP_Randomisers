@@ -85,6 +85,21 @@ int	get_argtype(char *line)
 	return 0;
 }
 
+int	is_not_tm(char *line)
+{
+	//line is basically the number here, we return 1 if its a tm
+	char *tmp = NULL;
+	char **tab = NULL;
+	int item;
+	int	i = 0;
+
+	tmp = ft_strdup(call_python(" decode ", line));
+	tab = ft_split(tmp, '.');
+	item = atoi(tab[0]);
+	if (item >= ITEM_TM01 && item <= ITEM_HM08)
+		return 1;
+	return 0;
+}
 char *new_item(char *line)
 {
 	int i;
@@ -103,8 +118,9 @@ char *new_item(char *line)
 	{
 		if (ft_strnstr(tab[i], "data", ft_strlen(tab[i])) != NULL && ft_strnstr(tab[i - 1], "int", ft_strlen(tab[i - 1])) != NULL)
 		{
-			if (ft_strlen(tab[i + 2]) > 9 && ft_strnstr(tab[i + 2], "1065353216", ft_strlen("1065353216")) == NULL)
+			if (ft_strlen(tab[i + 2]) > 9 && ft_strnstr(tab[i + 2], "1065353216", ft_strlen("1065353216")) == NULL && is_not_tm(tab[i + 2]) == 0)
 			{
+
 				item = pick_choice();
 				tmp = ft_strjoin(ft_itoa(item), ".0");
 				tmp = ft_strdup(call_python(" encode ", tmp));

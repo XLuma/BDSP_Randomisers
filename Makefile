@@ -40,7 +40,7 @@ $(tm_compat):
 
 $(fld_item):
 	$(MAKE) -C ./42-libft
-	gcc $(fld_item_src) $(LIBFT) -o Randomizers/tm_compat
+	gcc $(fld_item_src) $(LIBFT) -o Randomizers/fld_item
 clean:
 	$(MAKE) clean -C ./42-libft
 

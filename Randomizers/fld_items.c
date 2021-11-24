@@ -96,7 +96,7 @@ int	is_not_tm(char *line)
 	tmp = ft_strdup(call_python(" decode ", line));
 	tab = ft_split(tmp, '.');
 	item = atoi(tab[0]);
-	if (item >= ITEM_TM01 && item <= ITEM_HM08)
+	if (item >= ITEM_TM01 && item <= ITEM_SECRETPOTION)
 		return 1;
 	return 0;
 }

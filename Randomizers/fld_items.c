@@ -76,6 +76,7 @@ char	*call_python(char *mode, char *number)
 	return (result);
 }
 
+//might not be needed actually
 int	get_argtype(char *line)
 {
 	char **tab = NULL;
@@ -167,7 +168,8 @@ int main(int argc, char **argv)
 		 //first one is command, second is item, third is amount.
 		 //debate wheter we do 1 to 3 randomly
 		 //anaylyzing the label is a method. if the string is longer than 15 charcaters, it might be a script
-		 if (ft_strnstr(scriptTab[i], "data", ft_strlen(scriptTab[i])) != NULL)
+		 
+		 if (ft_strnstr(scriptTab[i], "data", ft_strlen(scriptTab[i])) != NULL && ft_strnstr(scriptTab[i - 4], "data = 187", ft_strlen(scriptTab[i - 4])) != NULL)
 		 {
 			tmp = new_item(scriptTab[i]);
 			fputs(tmp, new);

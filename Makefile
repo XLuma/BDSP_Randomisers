@@ -2,6 +2,7 @@ encounter_src = Randomizers/encounters.c
 trainers_src = Randomizers/trainers.c
 abilities_src = Randomizers/abilities.c
 tm_src = Randomizers/tm.c
+tm_compat_src = Randomizers/tm_compat.c
 
 LIBFT = 42-libft/libft.a
 
@@ -25,6 +26,8 @@ tm:
 	$(MAKE) -C ./42-libft
 	gcc $(tm_src) $(LIBFT) -o Randomizers/tm
 
+tm_compat:
+	gcc $(tm_compat_src) $(LIBFT) -o Randomizers/tm_compat
 clean:
 	$(MAKE) clean -C ./42-libft
 

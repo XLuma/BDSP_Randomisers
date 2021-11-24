@@ -56,6 +56,9 @@ fclean: clean
 	rm -f ./Randomizers/trainers
 	rm -f ./Randomizers/tm
 	rm -f ./Randomizers/abilities
+	rm -f ./Randomizers/fld_item
+	rm -f ./Randomizers/shop
+	rm -f ./Randomizers/tm_compat
 
 re: fclean all
 

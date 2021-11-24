@@ -166,7 +166,7 @@ void new_compat(char **machine_tab, char **item_tab, char **move_tab, t_moninfo 
 			else
 			{
 				//probability of 33% of getting a compatible tm
-				if (pick_choice(3) == 3)
+				if (pick_choice(4) == 4)
 				{
 					mon->machine1 |= 1UL << counter1;
 				}
@@ -197,7 +197,7 @@ void new_compat(char **machine_tab, char **item_tab, char **move_tab, t_moninfo 
 			else
 			{
 				//probability of 33% of getting a compatible tm
-				if (pick_choice(3) == 3)
+				if (pick_choice(4) == 4)
 				{
 					mon->machine2 |= 1UL << counter2;
 				}
@@ -228,7 +228,7 @@ void new_compat(char **machine_tab, char **item_tab, char **move_tab, t_moninfo 
 			else
 			{
 				//probability of 33% of getting a compatible tm
-				if (pick_choice(3) == 3)
+				if (pick_choice(4) == 4)
 				{
 					mon->machine3 |= 1UL << counter3;
 				}
@@ -259,7 +259,7 @@ void new_compat(char **machine_tab, char **item_tab, char **move_tab, t_moninfo 
 			else
 			{
 				//probability of 33% of getting a compatible tm
-				if (pick_choice(3) == 3)
+				if (pick_choice(4) == 4)
 				{
 					mon->machine4 |= 1UL << counter4;
 				}

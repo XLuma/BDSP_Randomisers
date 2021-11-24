@@ -4,6 +4,7 @@ abilities_src = Randomizers/abilities.c
 tm_src = Randomizers/tm.c
 tm_compat_src = Randomizers/tm_compat.c
 fld_item_src = Randomizers/fld_items.c
+shop_src = Randomizers/shop.c
 
 encounters = encounters
 trainers = trainers
@@ -11,6 +12,7 @@ abilities = abilities
 tm = tm
 tm_compat = tm_compat
 fld_item = fld_item
+shop = shop
 
 LIBFT = 42-libft/libft.a
 
@@ -41,6 +43,11 @@ $(tm_compat):
 $(fld_item):
 	$(MAKE) -C ./42-libft
 	gcc $(fld_item_src) $(LIBFT) -o Randomizers/fld_item
+
+$(shop):
+	$(MAKE) -C ./42-libft
+	gcc $(shop_src) $(LIBFT) -o Randomizers/shop
+	
 clean:
 	$(MAKE) clean -C ./42-libft
 

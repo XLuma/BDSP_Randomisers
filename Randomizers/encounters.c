@@ -77,7 +77,7 @@ char *is_monsno(char *line, char **encount, int index)
 	while (tab[i])
 	{
 		// Analyzes whether we are in a monsno line.
-		if (ft_strncmp(tab[i], "monsNo", ft_strlen("monsNo")) == 0)
+		if (ft_strncmp(tab[i], "monsNo", ft_strlen("monsNo")) == 0 || ft_strncmp(tab[i], "monsno", ft_strlen("monsno")) == 0)
 		{
 			// Checks if the value associated is NOT 0, which guarantees no write to unwanted lines.
 			if (ft_strncmp(tab[i + 2], "0", ft_strlen("0")) != 0)
@@ -89,7 +89,9 @@ char *is_monsno(char *line, char **encount, int index)
 				// Gets the tab's size.
 				while(tab[j]) j++;
 
-				space = ft_strnstr(encount[index - 1], "Sheetlegendpoke", ft_strlen(encount[index - 1])) != NULL ? "     " : "         ";
+				space = ft_strnstr(encount[index - 1], "Sheetlegendpoke", ft_strlen(encount[index - 1])) != NULL ? "     " : "         "; //encounter or legend def
+				if (ft_strnstr(encount[index - 1], "0 Sheettable data", ft_strlen(encount[index - 1])) != NULL) //underground encounters check
+					space = "     ";
 
 				return ft_strjoin(space, convert_to_line(j, tab));
 			}
@@ -157,8 +159,8 @@ int main(int argc, char* argv[])
 	
     while (encount_tables[i])
 	{
-		// Regular encounters use 'monsNo', whilst safari encounters use 'MonsNo'.
-		if (ft_strnstr(encount_tables[i], "monsNo", ft_strlen(encount_tables[i])) != NULL || ft_strnstr(encount_tables[i], "MonsNo", ft_strlen(encount_tables[i])) != NULL)
+		// Regular encounters use 'monsNo', whilst safari encounters use 'MonsNo'. underground uses 'monsno'
+		if (ft_strnstr(encount_tables[i], "monsNo", ft_strlen(encount_tables[i])) != NULL || ft_strnstr(encount_tables[i], "MonsNo", ft_strlen(encount_tables[i])) != NULL || ft_strnstr(encount_tables[i], "monsno", ft_strlen(encount_tables[i])) != NULL)
 			temp = is_monsno(encount_tables[i], encount_tables, i);
 		else
 			temp = ft_strdup(encount_tables[i]);

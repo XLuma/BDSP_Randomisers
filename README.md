@@ -1,6 +1,11 @@
 # BDSP_Randomisers
 A collection of tools to randomize BDSP assets
 
+# Archived
+The code you see is old, and shouldnt be used. It is simply public for the sake of preservation. I suggest using this tool, which I am working on with 3 other  
+people: https://gamebanana.com/tools/7848. 
+github link: https://github.com/Aldo796/BDSP-Randomizers
+
 # Setup (Windows 10 only)
 
 - Install Ubuntu 18.04 via WSL1 (plenty of tutorials on that)
